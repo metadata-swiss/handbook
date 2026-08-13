@@ -12,6 +12,22 @@ __DE:__ Diese Seite liegt teilweise in englischer Sprache vor.
 
 Die Interoperabilitätsplattform I14Y wird kontinuierlich weiterentwickelt. Mit jedem Release werden neue Funktionen hinzugefügt und Fehler behoben. Die wichtigsten Änderungen sind unten kurz dokumentiert. Für detaillierte Informationen zur Weiterentwicklung der Plattform wenden Sie sich bitte an das [I14Y-Team](mailto:i14y@bfs.admin.ch).
 
+## Release vom 12. August 2026
+
+**Erfassen von Datenstrukturen:** Bisher mussten Strukturen extern erstellt und dann auf I14Y hochgeladen werden. Neu können einfache Strukturen (eine Klasse mit Attributen) direkt in der I14Y-Oberfläche erfasst werden.
+
+**Bessere Kennzeichnung abgelöster Konzepte:** Normalerweise werden Konzepte versioniert, wenn Änderungen vorgenommen werden. Es ist aber auch möglich, dass ein Konzept durch ein anderes Konzept abgelöst wird. In diesem Fall wird der Status des bisherigen Konzepts auf "abgelöst" gesetzt. Neu lässt sich im nun gültigen Konzept dokumentieren, welche anderen Konzepte es abgelöst hat. Diese Information wird im Bereich "Abstammung" des Eintrags angezeigt.
+
+**Umfassende Exportmöglichkeiten:** Sie möchten einen Eintrag exportieren? Bislang waren Exporte von Beschreibungen zu Datensätzen sowie von Konzepten möglich. Neu lassen sich auch die Einträge zu elektronischen Schnittstellen, Behördenleistungen und Mapping-Tabellen im JSON-Format exportieren.
+
+**Verbesserter Filter:** I14Y erlaubt es die Suchresultate zu filtern. Neu können im Herausgeber-Filter mehrere Organisationen ausgewählt werden. Bislang liess sich nur ein Herausgeber auswählen.
+
+**Räumliche oder zeitliche Abdeckung:** Neu kann in I14Y dokumentiert werden, wenn ein Datensatz mehrere geografische Räume oder mehrere Zeiträume abdeckt.
+
+**Neuerungen auf der Partner-API:** Neue POST-Endpunkte erlauben es gleichzeitig mehrere Codelisten-Einträge und Relationen von Mapping-Tabellen zu senden. Ein neuer Endpunkt ermöglicht es ausserdem, die öffentlichen Informationen zu den Nutzungsorganisationen im RDF-Format zu exportieren.
+
+**Fehlerkorrekturen**
+
 ## Release vom 8. Juli 2026
 
 **Organisationslogo:** Seit dem letzten Release kann für jede Organisation ein Logo oder ein Foto hinterlegt werden. Diese Bilder werden neu auf der Seite «Organisationen» angezeigt.

@@ -9,6 +9,22 @@ keywords: [I14Y, Interoperabilitätsplattform I14Y, IOP, Changelog, Releases, Ve
 
 La plateforme d'interopérabilité I14Y est en développement continu. De nouvelles fonctionnalités sont ajoutées à chaque version, et des erreurs sont également corrigées. Les changements les plus importants sont brièvement documentés ci-dessous. Pour des informations détaillées sur l'évolution de la plateforme, veuillez contacter l'[équipe I14Y](mailto:i14y@bfs.admin.ch).
 
+## Version du 12 August 2026
+
+**Saisie de structures de données :** Jusqu'à présent, les structures de données devaient être créées en externe puis téléchargées sur I14Y. Désormais, des structures simples (une classe avec des attributs) peuvent être saisies directement dans l'interface I14Y.
+
+**Meilleure indication des concepts obsolètes :** Normalement, les concepts sont versionnés lorsqu’ils sont modifiés. Il est cependant possible qu’un concept soit remplacé par un autre. Dans ce cas, le statut du concept précédent est défini comme « remplacé ». Désormais, le concept actuellement valide peut documenter quels autres concepts il a remplacés. Cette information apparaît dans la section « Lignée » de l’entrée.
+
+**Possibilités d'exportation étendues :** Les exports JSON sont désormais disponibles pour toutes les ressources. Cela inclut également les descriptions d’interfaces, les tables de correspondance et les services publics.
+
+**Filtre amélioré :** Dans le filtre « Éditeur », plusieurs organisations peuvent être sélectionnées en même temps. Jusqu’à présent, qu'un seul éditeur pouvait être sélectionné.
+
+**Plusieurs couvertures pour les jeux de données :** Dans les descriptions de jeux de données, il est possible d'enregistrer plusieurs couvertures temporelles et géographiques.
+
+**API partenaire :** Les requêtes POST peuvent contenir plusieurs objets simultanément, tels que des entrées de codelist, des relations de tables de correspondance ou des entrées de catalogue. Les agents peuvent exporter au format RDF.
+
+**Corrections de bugs**
+
 ## Version du 8 Juillet 2026
 
 **Logo d'organisation :** Depuis la version précédente, il est possible d'enregistrer un logo ou une photo pour chaque organisation. Ces images sont désormais affichées sur la page « Organisations ».

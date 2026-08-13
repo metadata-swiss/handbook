@@ -13,6 +13,22 @@ __IT:__ Questa pagina è disponibile solo in inglese.
 
 The I14Y interoperability platform is under continuous development. New features are added with each release. Bugs are also fixed. The most important changes are briefly documented below. For detailed information on the development of the platform, please contact the [I14Y team](mailto:i14y@bfs.admin.ch). 
 
+## Release August 12
+
+**Capture of data structures:** Previously, structures had to be created externally and then uploaded to I14Y. Now simple structures (a class with attributes) can be captured directly in the I14Y interface.
+
+**Better tagging of deprecated concepts:** Normally concepts are versioned when changes are made. It is also possible, however, for one concept to be replaced by another. In this case, the status of the previous concept is set to "deprecated". Now the currently valid concept can document which other concepts it has replaced. This information appears in the "Lineage" section of the entry.
+
+**Extensive export options:** JSON exports are now available for all resources. This also covers interface descriptions, mapping tables and public services.
+
+**Improved filter:** The publisher filter allows multiple publishers to be selected at once. Previously only one publisher could be selected.
+
+**Multiple coverages for datasets:** Dataset descriptions can now record multiple temporal and spatial coverages.
+
+**Partner API:** POST requests to generate codeliste entries, mapping table relations or catalogue entries can now contain multiple objects. The public available information on Organisations can be exported in RDF format.
+
+**Bug fixes**
+
 ## Release July 8
 
 **Organisation logo:** Since the last release, a logo or photo can be stored for each organisation. These images are now displayed on the Organisations page.

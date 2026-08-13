@@ -5,7 +5,7 @@ slug: prossimo-rilascio
 weight: 10
 type: docs
 keywords: [I14Y, Piattaforma di interoperabilità I14Y, IOP, Changelog, Releases, Versioni, Sviluppo software]
-draft: false
+draft: true
 ---
 
 {{<alert title="Language" color="warning">}}
