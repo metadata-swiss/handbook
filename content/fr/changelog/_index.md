@@ -9,6 +9,10 @@ keywords: [I14Y, Interoperabilitätsplattform I14Y, IOP, Changelog, Releases, Ve
 
 La plateforme d'interopérabilité I14Y est en développement continu. De nouvelles fonctionnalités sont ajoutées à chaque version, et des erreurs sont également corrigées. Les changements les plus importants sont brièvement documentés ci-dessous. Pour des informations détaillées sur l'évolution de la plateforme, veuillez contacter l'[équipe I14Y](mailto:i14y@bfs.admin.ch).
 
+## Adaptation du dépôt GitHub
+
+Dans le cadre du projet metadata.swiss, l’espace GitHub d’I14Y sera prochainement renommé metadata-swiss. Les adresses existantes continueront d’être redirigées; nous vous recommandons d’adapter progressivement vos références et vos dépôts Git locaux. Vous trouverez de plus amples informations dans l’[article de News consacré au nouvel espace GitHub](/handbook/fr/nouvelles/#lespace-github-di14y-devient-metadata-swiss).
+
 ## Version du 12 August 2026
 
 **Saisie de structures de données :** Jusqu'à présent, les structures de données devaient être créées en externe puis téléchargées sur I14Y. Désormais, des structures simples (une classe avec des attributs) peuvent être saisies directement dans l'interface I14Y.

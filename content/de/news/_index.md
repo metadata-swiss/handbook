@@ -13,6 +13,23 @@ Möchten Sie über neue Funktionen und Angebote auf der Interoperabilitätsplatt
 
 {{</alert>}}
 
+## Der GitHub-Bereich von I14Y wird zu metadata-swiss
+*26.08.2026*
+
+Im Rahmen des Projekts metadata.swiss wird der [GitHub-Bereich von I14Y](https://github.com/i14y-ch) in [metadata-swiss](https://github.com/metadata-swiss) umbenannt. Die bestehenden Adressen werden vorerst  weitergeleitet; eine Betriebsunterbrechung ist nicht zu erwarten. Der neue GitHub-Bereich beinhaltet künftig die [Open-Source-Anwendung I14Y](https://github.com/metadata-swiss), die I14Y-Tools und Skripte sowie die neue Plattform metadata.swiss.
+
+Was ändert sich damit für Sie? Kurzfristig sind Ihrerseits keine Massnahmen erforderlich. Mittelfristig empfehlen wir Ihnen die folgenden Anpassungen.
+
+__GitHub-Issues:__ Die von Ihnen eingereichten Issues mit Vorschlägen zur Weiterentwicklung oder Anpassung der I14Y-Plattform bleiben erhalten. Sie werden während einer Übergangsphase sowohl unter der alten als auch unter der neuen Adresse zugänglich sein. Um ein neues Issue zu erstellen oder bestehende Issues einzusehen, verwenden Sie bitte vorzugsweise die neue Adresse.
+
+__Lokal geklonte Git-Repositorys:__ Die Repositorys, die Sie bereits geklont haben, funktionieren weiterhin. Wir empfehlen Ihnen jedoch, die alte Adresse durch die neue Adresse metadata-swiss zu ersetzen. Um die verwendete Adresse zu überprüfen, führen Sie folgenden Befehl aus: `git remote -v`. Um die Adresse zu ändern, verwenden Sie: `git remote set-url origin https://github.com/metadata-swiss/NOM-DU-DEPOT.git`.
+
+__Verweise auf den alten GitHub-Bereich:__ Falls die alte Adresse [github.com/i14y-ch](https://github.com/i14y-ch) in Ihren Dokumenten, Webseiten, Skripten oder anderen Ressourcen enthalten ist, empfehlen wir Ihnen, diese durch [github.com/metadata-swiss](https://github.com/metadata-swiss) zu ersetzen. Die alten Adressen werden automatisch weitergeleitet. Es ist jedoch empfehlenswert, sie zu aktualisieren.
+
+__Direkte Links auf Dateien und Versionen:__ Links auf bestehende Dateien, Branches, Tags und Versionen funktionieren dank der GitHub-Weiterleitung weiterhin. Wir empfehlen dennoch, diese Links zu aktualisieren, wenn Sie Ihre Dokumente oder Skripte überarbeiten.
+
+__Skripte und Automatisierungen:__ Falls ein Skript oder eine Automatisierung die alte GitHub-Adresse verwendet, überprüfen Sie bitte nach der Umstellung, ob sie funktioniert. Wir empfehlen Ihnen, die alte Adresse möglichst bald durch die neue zu ersetzen.
+
 ## Breaking Change auf der I14Y-API
 *26.06.2026*
 

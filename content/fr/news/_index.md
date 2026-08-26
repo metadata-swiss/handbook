@@ -13,6 +13,23 @@ Vous souhaitez être informés des nouvelles fonctions et des offres de la plate
 
 {{</alert>}}
 
+## L’espace GitHub d’I14Y devient metadata-swiss
+*26.08.2026*
+
+Dans le cadre du projet metadata.swiss, l’[espace GitHub d’I14Y](https://github.com/i14y-ch) sera renommé [metadata-swiss](https://github.com/metadata-swiss). Les adresses existantes continueront d’être redirigées; aucune interruption de service n’est donc à prévoir. Le nouvel espace GitHub réunira à terme l’[application I14Y open source](https://github.com/metadata-swiss), les outils et scripts I14Y ainsi que la nouvelle plateforme metadata.swiss.
+
+Qu’est-ce qui change pour vous? Aucune action n’est requise à court terme. Nous vous recommandons toutefois de procéder aux adaptations suivantes à moyen terme.
+
+__Issues GitHub:__ Les issues que vous avez soumises pour proposer des développements ou des adaptations de la plateforme I14Y seront conservées. Elles resteront accessibles aux deux adresses pendant une période transitoire. Pour créer une nouvelle issue ou consulter les issues existantes, utilisez de préférence la nouvelle adresse.
+
+__Dépôts Git clonés localement:__ Les dépôts déjà clonés continueront de fonctionner. Vérifiez l’adresse utilisée avec `git remote -v` et modifiez-la si nécessaire avec la commande suivante: `git remote set-url origin https://github.com/metadata-swiss/NOM-DU-DEPOT.git`.
+
+__Références à l’ancien espace GitHub:__ Si l’adresse [github.com/i14y-ch](https://github.com/i14y-ch) figure dans vos documents, pages web, scripts ou autres ressources, remplacez-la par [github.com/metadata-swiss](https://github.com/metadata-swiss). Les anciennes adresses seront automatiquement redirigées, mais il est préférable de les mettre à jour.
+
+__Liens directs vers les fichiers et les versions:__ Les liens vers les fichiers, branches, tags et versions existants continueront de fonctionner grâce aux redirections GitHub. Nous vous recommandons néanmoins de les mettre à jour lorsque vous modifiez vos documents ou vos scripts.
+
+__Scripts et automatisations:__ Si un script ou une automatisation utilise l’ancienne adresse GitHub, vérifiez son fonctionnement après la transition et remplacez cette adresse dès que possible.
+
 ## Breaking Change sur l’API I14Y
 *26.06.2026*
 
