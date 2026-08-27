@@ -9,7 +9,7 @@ keywords: [I14Y, Interoperabilitätsplattform I14Y, Metadaten-Katalog, Software 
 
 Manchmal läuft nicht alles nach Plan. Sollten Probleme auftreten, wenn Sie mit der I14Y arbeiten, gehen Sie wie folgt vor: 
 
-__Konsultieren Sie das Handbuch:__ Das Handbuch dokumentiert die wichtigsten Funktionen der Plattform. Und es beinhaltet Antworten auf die meisten gängigen Fragen. Falls Informationen fehlen, ist das Kompetenzzentrum Datenbewirtschaftung dankbar um einen Hinweis. Gerne können Sie die betreffenden Abschnitte auch selber ergänzen und [auf Github](https://github.com/I14Y-ch/handbook) einen _Pull Request_ einreichen. 
+__Konsultieren Sie das Handbuch:__ Das Handbuch dokumentiert die wichtigsten Funktionen der Plattform. Und es beinhaltet Antworten auf die meisten gängigen Fragen. Falls Informationen fehlen, ist das Kompetenzzentrum Datenbewirtschaftung dankbar um einen Hinweis. Gerne können Sie die betreffenden Abschnitte auch selber ergänzen und [auf Github](https://github.com/metadata-swiss/handbook) einen _Pull Request_ einreichen. 
 
 __Support Stufe 1:__ Kann das Problem mithilfe des Handbuchs nicht gelöst werden, wenden Sie sich an den I14Y-Support Ihrer eigenen Organisation. In der Regel stellen die I14Y-Partner eine eigene Support-Organisation. Diese kann einfachere Probleme lösen. Falls Sie einer Organisation mit eigenem I14Y-Support angehören, müssen Probleme zuerst der internen Support-Abteilung gemeldet werden.
 

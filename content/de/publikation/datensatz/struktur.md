@@ -49,7 +49,7 @@ Eine ausführliche Beschreibung aller Felder für Klassen, Attribute und Assozia
 
 Strukturen lassen sich auf drei verschiedene Arten produzieren: Sie können entweder direkt in einem Code-Editor modelliert werden. Alternativ lassen sich die Strukturen, wie sie auf I14Y verwendet werden, aus vorhandenen Schemata ableiten, etwa aus jenem in einer XSD-Datei. Oder die Struktur wird anhand der eigentlichen Daten erstellt.
 
-I14Y stellt in der [Toolbox](https://toolbox.i14y.admin.ch) den **Data Structure Editor** bereit. Dieses Hilfsprogramm unterstützt Sie beim Erstellen oder Extrahieren von Strukturen. Für die Umwandlung von Schemas oder Datendateien steht in der Toolbox zudem das Hilfsprogramm **Convert to SHACL** zur Verfügung; die darin verwendeten Python-Skripte können auf [Github](https://github.com/I14Y-ch/shacl_importer_scripts) bezogen werden. 
+I14Y stellt in der [Toolbox](https://toolbox.i14y.admin.ch) den **Data Structure Editor** bereit. Dieses Hilfsprogramm unterstützt Sie beim Erstellen oder Extrahieren von Strukturen. Für die Umwandlung von Schemas oder Datendateien steht in der Toolbox zudem das Hilfsprogramm **Convert to SHACL** zur Verfügung; die darin verwendeten Python-Skripte können auf [Github](https://github.com/metadata-swiss/shacl_importer_scripts) bezogen werden. 
 
 Allenfalls können auch externe Werkzeuge hilfreich sein, wenn SHACL-Strukturen erstellt und geprüft werden müssen. Einige dieser externen Hilfsprogramme sind nachfolgend aufgelistet. 
 

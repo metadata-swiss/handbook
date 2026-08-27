@@ -10,7 +10,7 @@ draft: true
 
 Parfois, tout ne se passe pas comme prévu. Si des problèmes surviennent lorsque vous travaillez avec l'I14Y, procédez comme suit :
 
-__Consultez le manuel:__ Le manuel documente les principales fonctions de la plateforme. Il contient aussi des réponses à la plupart des questions courantes. Si des informations manquent, le centre d'interopérabilité vous sera reconnaissant de le lui signaler. Vous pouvez également compléter vous-même les sections concernées et soumettre une _Pull Request_ [sur Github](https://github.com/I14Y-ch/handbook).
+__Consultez le manuel:__ Le manuel documente les principales fonctions de la plateforme. Il contient aussi des réponses à la plupart des questions courantes. Si des informations manquent, le centre d'interopérabilité vous sera reconnaissant de le lui signaler. Vous pouvez également compléter vous-même les sections concernées et soumettre une _Pull Request_ [sur Github](https://github.com/metadata-swiss/handbook).
 
 __Support niveau 1:__ Si le problème ne peut pas être résolu à l'aide du manuel, adressez-vous au support I14Y de votre propre organisation. Normalement, les partenaires I14Y mettent à disposition leur propre organisation de support. Celle-ci peut résoudre des problèmes plus simples. Si vous faites partie d'une organisation disposant de son propre support I14Y, les problèmes doivent d'abord être signalés au service de support interne.
 

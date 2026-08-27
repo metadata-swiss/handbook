@@ -12,7 +12,7 @@ The I14Y Interoperability Platform is being developed on the Confederation’s b
 During the project phase, the platform’s functionality is continuously expanded. Requests for new features can be submitted to the Interoperability Office. It then prepares the detailed specification, prioritises development requests together with the Steering Committee and the National Data Management Committee (NaDB), and coordinates development and implementation work.
 
 {{<alert title="Your suggestions are welcome" color="success">}}
-If you discover an opportunity for improvement or a bug on the I14Y Interoperability Platform, the Interoperability Service would appreciate a note. You can submit proposals for new features in the [Feature Requests repository](https://github.com/I14Y-ch/feature-requests/issues) on GitHub or via [email](mailto:i14y@bfs.admin.ch). Please describe the requested functionality as precisely as possible. On GitHub, proposals can also be commented on.
+If you discover an opportunity for improvement or a bug on the I14Y Interoperability Platform, the Interoperability Service would appreciate a note. You can submit proposals for new features in the [Feature Requests repository](https://github.com/metadata-swiss/feature-requests/issues) on GitHub or via [email](mailto:i14y@bfs.admin.ch). Please describe the requested functionality as precisely as possible. On GitHub, proposals can also be commented on.
 {{</alert>}}
 
 I14Y is developed in a so‑called Agile Release Train (ART). Features are continuously specified, developed and implemented. The roadmap below documents which features are planned for which development period; for details on individual functionalities, please contact the Interoperability Office. Priorities may change, for example if new functionalities are given high priority. The roadmap is updated before the start of each new development period (_Program Increment_, PI). The next stages are described in more detail, while later phases are formulated as more general goals.
@@ -57,4 +57,4 @@ The programme code of the I14Y Interoperability Platform is to be published unde
 The federal authorities subject to this Act shall, if it is possible and reasonable and if the rights of third parties are respected, disclose the source code of software which they develop or have developed for the performance of their tasks. They shall allow any person to use, develop and pass on the software and shall not charge any licence fees.
 {{</card>}}
 
-I14Y publishes source code and scripts under the name i14y-ch on the [GitHub platform](https://github.com/i14y-ch).
+I14Y publishes source code and scripts under the name i14y-ch on the [GitHub platform](https://github.com/metadata-swiss).

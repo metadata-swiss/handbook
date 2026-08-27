@@ -235,7 +235,7 @@ With the major release of 13 November, the I14Y user interface becomes simpler a
 - With the new release, the portal will be updated to the new version of the Federal Administration's Oblique design system. This modernises the appearance.
 - The graphical distinction between catalogue and concept has been removed; data concepts are now assigned to the catalogue and the tiles have been removed. The menu now contains only the Home, Catalogue, News and Manual items.
 A prominently placed search field is now available, making metadata searchable regardless of type. Results are displayed in tabs (Data Collections, Government Services, APIs, Concepts). Results from the Opendata and Geocat metadata portals are also displayed.
-- A link to the I14Y GitHub repository (https://github.com/I14Y-ch/) (with scripts and tutorials) has been added to the footer. A link to I14Y's LinkedIn account (https://www.linkedin.com/showcase/i14y/) has also been added.
+- A link to the I14Y GitHub repository (https://github.com/metadata-swiss/) (with scripts and tutorials) has been added to the footer. A link to I14Y's LinkedIn account (https://www.linkedin.com/showcase/i14y/) has also been added.
 
 ### Changes to the internal organisation section of the website
 - The "My Tasks", "Pending Proposals" and "My Organisation's Data" sections now include data element concepts.
@@ -272,7 +272,7 @@ A prominently placed search field is now available, making metadata searchable r
 ## Release July 10 2024
 - The I14Y improves the categorisation of public services: When entering the description of a public service, it is now possible to select the life or business situation in which a particular e-government service can be useful. This makes it easier for both citizens and entrepreneurs to find the right public service. 
 - Improved and enhanced filtering for description of datasets, data services and public services.
-- The Labs tile has been removed to make the GUI clearer. Experimental work can be found in the [I14Y Github](https://github.com/I14Y-ch/) area. 
+- The Labs tile has been removed to make the GUI clearer. Experimental work can be found in the [I14Y Github](https://github.com/metadata-swiss/) area. 
 - Bug fixes
 
 ## Release July 3 2024

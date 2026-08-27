@@ -9,7 +9,7 @@ keywords: [I14Y, piattaforma di interoperabilità I14Y, I14Y-IOP, supporto]
 
 A volte le cose non vanno come previsto. Se si riscontrano problemi durante il lavoro con l'I14Y, procedere come segue:
 
-_Consultare il manuale:__ Il manuale documenta le funzioni principali della piattaforma. Contiene anche le risposte alle domande più comuni. Se mancano delle informazioni, il Centro di interoperabilità sarà lieto di comunicarle. Potete anche completare voi stessi le sezioni pertinenti e inviare una _Pull Request_ [su Github](https://github.com/I14Y-ch/handbook).
+_Consultare il manuale:__ Il manuale documenta le funzioni principali della piattaforma. Contiene anche le risposte alle domande più comuni. Se mancano delle informazioni, il Centro di interoperabilità sarà lieto di comunicarle. Potete anche completare voi stessi le sezioni pertinenti e inviare una _Pull Request_ [su Github](https://github.com/metadata-swiss/handbook).
 
 __Supporto di livello 1:__ Se il problema non può essere risolto utilizzando il manuale, contattare il supporto I14Y della propria organizzazione. Di solito, i partner di I14Y mettono a disposizione la propria organizzazione di supporto. Questa può risolvere i problemi più semplici. Se si fa parte di un'organizzazione con un proprio supporto I14Y, i problemi devono essere segnalati in primo luogo al reparto di supporto interno.
 

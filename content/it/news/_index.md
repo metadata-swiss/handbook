@@ -126,7 +126,7 @@ Il Cantone di Basilea Campagna pubblica sulla piattaforma di interoperabilità I
 
 Il Cantone di Basilea Campagna documenta poi che per identificare un Comune in un dataset viene utilizzato il numero di Comune assegnato dall’Ufficio federale di statistica. Oppure che, in materia di finanze comunali, ci si basi sui concetti dell’Amministrazione federale delle finanze.
 
-Il Cantone di Basilea Campagna punta così sul riutilizzo coerente dei modelli standard esistenti, offrendo un contributo concreto all'armonizzazione dei dati pubblici tra le autorità. Il funzionamento del processo automatizzato di pubblicazione delle descrizioni è illustrato nel codice dello [script di harvesting su GitHub](https://github.com/I14Y-ch/harvester_BL), all’indirizzo.
+Il Cantone di Basilea Campagna punta così sul riutilizzo coerente dei modelli standard esistenti, offrendo un contributo concreto all'armonizzazione dei dati pubblici tra le autorità. Il funzionamento del processo automatizzato di pubblicazione delle descrizioni è illustrato nel codice dello [script di harvesting su GitHub](https://github.com/metadata-swiss/harvester_BL), all’indirizzo.
 
 ## Un linguaggio comune rende tutto più facile
 *20.02.2026*
@@ -237,7 +237,7 @@ Siamo convinti che questa fusione costituisca un passo strategico verso un ecosi
 
 Affinché i dati possano essere riutilizzati più volte, i potenziali utenti devono innanzitutto essere a conoscenza dell’esistenza di un set di dati. Proprio per questo è stata sviluppata la piattaforma I14Y, su cui amministrazione e istituzioni ad essa associate descrivono il proprio set di dati e lo rendono accessibile al pubblico. Per semplificare questo processo, sulla piattaforma I14Y è stato sviluppato un modulo di data harvesting, che consente di trasferire e aggiornare automaticamente i metadati dai cataloghi di dati esistenti.
  
-L’harvesting si basa sul Profilo di applicazione svizzero DCAT e utilizza l’API partner di I14Y per inserire set di dati direttamente nel catalogo pubblico o privato di un’organizzazione. Per le organizzazioni che vi si interessano, la piattaforma I14Y mette a disposizione [un archivio di template configurabile su GitHub](https://github.com/I14Y-ch/harvester_template), dall’autenticazione e la mappatura all’automazione con GitHub Actions.
+L’harvesting si basa sul Profilo di applicazione svizzero DCAT e utilizza l’API partner di I14Y per inserire set di dati direttamente nel catalogo pubblico o privato di un’organizzazione. Per le organizzazioni che vi si interessano, la piattaforma I14Y mette a disposizione [un archivio di template configurabile su GitHub](https://github.com/metadata-swiss/harvester_template), dall’autenticazione e la mappatura all’automazione con GitHub Actions.
  
 Il modulo di harvesting può essere configurato in modo da importare nuovi set di dati e da aggiornare quelli esistenti a intervalli regolari (p. es., ogni notte). Un esempio è il modulo di harvesting per l’archivio dati dell’ Ufficio federale della sicurezza alimentare e di veterinaria, in uso dal febbraio 2025. Pubblica quotidianamente metadati aggiornati direttamente nel catalogo pubblico I14Y e soddisfa i requisiti di qualità dal punto di vista della piattaforma. È stato trasferito all’ambiente di produzione nel luglio 2025.
  
@@ -295,7 +295,7 @@ Chi fosse interessato o avesse domande sulla comunicazione M2M può contattarci 
 Come si fa ad accedere alle API pubbliche e dei partner della piattaforma I14Y con Python? Un nuovo tutorial interattivo spiega passo dopo passo come fare, con esempi specifici per tutti gli endpoint API. Mostra come recuperare, importare o aggiornare i dati automaticamente.
 Il tutorial può essere utilizzato in due modi: visionandolo localmente, ovvero scaricandolo semplicemente da GitHub e avviandolo direttamente nel browser con JupyterLite, senza bisogno di alcuna installazione.
 
-Vai alla pagina GitHub esplicativa: [I14Y-ch/tutorials](https://github.com/I14Y-ch/tutorials) 
+Vai alla pagina GitHub esplicativa: [I14Y-ch/tutorials](https://github.com/metadata-swiss/tutorials) 
 
 Vai al tutorial: [JupyterLite](https://i14y-ch.github.io/tutorials/lab/index.html) 
 
@@ -328,7 +328,7 @@ Lo sguardo esterno sul prodotto aiuta a migliorarlo. In alcune interviste agli u
 l feedback sono fondamentalmente positivi: la registrazione funziona bene e le possibilità che offre la piattaforma sono apprezzate. Le persone intervistate vedono un potenziale di miglioramento soprattutto nel supporto legato al contesto durante la compilazione e nel filtraggio dei propri set di dati.
 
 Alcuni dei punti citati sono già stati implementati, mentre altri saranno gradualmente integrati con l’ulteriore sviluppo della piattaforma.
-Promemoria: i suggerimenti per le proposte di miglioramento possono essere inviati in qualsiasi momento tramite [Github](https://github.com/I14Y-ch/feature-requests).
+Promemoria: i suggerimenti per le proposte di miglioramento possono essere inviati in qualsiasi momento tramite [Github](https://github.com/metadata-swiss/feature-requests).
 
 ## Accesso più rapido con R all’API della I14Y 
 *02.04.2025*
@@ -395,7 +395,7 @@ Sulla [roadmap](https://i14y-ch.github.io/handbook/it/piattaforma/roadmap/) pubb
 ## Partecipare all’ulteriore sviluppo della piattaforma I14Y
 *11.12.2024*
 
-Da subito nel Repository [Feature Request](https://github.com/I14Y-ch/feature-requests/issues) su GitHub possono essere inoltrate e discusse proposte per nuove funzioni. Il servizio di interoperabilità, il comitato per la gestione dei dati a livello nazionale e il comitato direttivo assegnano un ordine di priorità alle proposte. Non vediamo l’ora di ricevere le vostre!
+Da subito nel Repository [Feature Request](https://github.com/metadata-swiss/feature-requests/issues) su GitHub possono essere inoltrate e discusse proposte per nuove funzioni. Il servizio di interoperabilità, il comitato per la gestione dei dati a livello nazionale e il comitato direttivo assegnano un ordine di priorità alle proposte. Non vediamo l’ora di ricevere le vostre!
 
 ## Nuove console pubbliche per l'API di I14Y
 *11.12.2024*

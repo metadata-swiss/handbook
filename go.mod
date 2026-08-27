@@ -1,4 +1,4 @@
-module github.com/i14y-ch/handbook
+module github.com/metadata-swiss/handbook
 
 go 1.19
 

@@ -275,7 +275,7 @@ A prominently placed search field is now available, making metadata searchable r
 ## Release July 10 2024
 - The I14Y improves the categorisation of public services: When entering the description of a public service, it is now possible to select the life or business situation in which a particular e-government service can be useful. This makes it easier for both citizens and entrepreneurs to find the right public service. 
 - Improved and enhanced filtering for description of datasets, data services and public services.
-- The Labs tile has been removed to make the GUI clearer. Experimental work can be found in the [I14Y Github](https://github.com/I14Y-ch/) area. 
+- The Labs tile has been removed to make the GUI clearer. Experimental work can be found in the [I14Y Github](https://github.com/metadata-swiss/) area. 
 - Bug fixes
 
 ## Release July 3 2024

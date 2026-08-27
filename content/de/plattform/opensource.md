@@ -19,7 +19,7 @@ Die Veröffentlichung erfolgt im Einklang mit dem Bundesgesetz über den Einsatz
 
 ## Nutzung des Angebots
 
-Der Code der Interoperabilitätsplattform I14Y wird im Repository unter [https://github.com/I14Y-ch/I14Y](https://github.com/I14Y-ch/I14Y) zur Verfügung gestellt. Dort ist auch eine ausführliche technische Dokumentation zu finden. Darin wird beschrieben, wie die Software konfiguriert und in Betrieb genommen werden kann. 
+Der Code der Interoperabilitätsplattform I14Y wird im Repository unter [https://github.com/metadata-swiss/I14Y](https://github.com/metadata-swiss/I14Y) zur Verfügung gestellt. Dort ist auch eine ausführliche technische Dokumentation zu finden. Darin wird beschrieben, wie die Software konfiguriert und in Betrieb genommen werden kann. 
 
 Der Code der Interoperabilitätsplattform I14Y wird unter der Lizenz [MIT](https://opensource.org/licenses/MIT) veröffentlicht. Diese ist sehr permissiv: Sie erlaubt die Nutzung, Anpassung, Weitergabe und kommerzielle Verwertung des Programmcodes ohne weitere Einschränkungen. Einzige Bedingung ist, dass die ursprünglichen Lizenzhinweise in Kopien oder abgeleiteten Versionen erhalten bleiben.
 

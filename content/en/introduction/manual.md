@@ -16,14 +16,14 @@ The first chapter highlights the [Roles and Processes](/handbook/en/gouvernance)
 <!--Später ergänzen: Nebst den schriftlichen Anleitungen enthält dieses Handbuch auch einige Videotutorials.--> 
 The handbook also contains a [Glossary](/handbook/de/7_glossar) with technical terms, a [list with web links](/handbook/de/anhang/weblinks), an overview of the [partner organisations](/handbook/de/8_partner) as well as a [Log](/handbook/de/anhang/changelog) of the most important changes that have been made to the platform.
 
-The functionalities of I14Y are constantly being developed. This manual is also revised on a regular basis. Do you have any suggestions on how it could be improved? Or would you like to share your experiences with the manual or the platform? [Write to us](mailto:i14y@bfs.admin.ch). This manual is revised on the [Code Management Platform Github](https://github.com/I14Y-ch/handbook/). You are welcome to submit a pull request with your change requests there.
+The functionalities of I14Y are constantly being developed. This manual is also revised on a regular basis. Do you have any suggestions on how it could be improved? Or would you like to share your experiences with the manual or the platform? [Write to us](mailto:i14y@bfs.admin.ch). This manual is revised on the [Code Management Platform Github](https://github.com/metadata-swiss/handbook/). You are welcome to submit a pull request with your change requests there.
 
 {{<alert title="How to submit a pull request" color="success">}}
 
 The I14Y manual is written in a markup language. The software [Hugo](https://gohugo.io) converts the text data into a website. The contents of this manual are maintained on the code management platform Github. Suggestions for changes can be documented and submitted there. This can be done using the standard Git workflow, or otherwise directly in your web browser.
 
 1. Create an account on the code management platform Github. Log in.
-2. Open the [manual repository](https://github.com/I14Y-ch/handbook/). The text contents are located in the _content_ directory, sorted by language, chapter and subchapter. Files with the extension _.md_ contain the actual text contents and the graphics. Search for the text part to be revised. Display the raw text. 
+2. Open the [manual repository](https://github.com/metadata-swiss/handbook/). The text contents are located in the _content_ directory, sorted by language, chapter and subchapter. Files with the extension _.md_ contain the actual text contents and the graphics. Search for the text part to be revised. Display the raw text. 
 3. Click on the pencil icon in the top right-hand corner. Make the necessary changes. Pay attention to the [Markup Syntax Rules](https://www.markdownguide.org/basic-syntax/).
 4. Briefly describe the modification in the box below and then click on the button to submit. Your suggestion will be reviewed by the I14Y team and, if appropriate, will be incorporated into the manual.
 

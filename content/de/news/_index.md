@@ -16,7 +16,7 @@ Möchten Sie über neue Funktionen und Angebote auf der Interoperabilitätsplatt
 ## Der GitHub-Bereich von I14Y wird zu metadata-swiss
 *26.08.2026*
 
-Im Rahmen des Projekts metadata.swiss wird der [GitHub-Bereich von I14Y](https://github.com/i14y-ch) in [metadata-swiss](https://github.com/metadata-swiss) umbenannt. Die bestehenden Adressen werden vorerst  weitergeleitet; eine Betriebsunterbrechung ist nicht zu erwarten. Der neue GitHub-Bereich beinhaltet künftig die [Open-Source-Anwendung I14Y](https://github.com/metadata-swiss), die I14Y-Tools und Skripte sowie die neue Plattform metadata.swiss.
+Im Rahmen des Projekts metadata.swiss wird der [GitHub-Bereich von I14Y](https://github.com/metadata-swiss) in [metadata-swiss](https://github.com/metadata-swiss) umbenannt. Die bestehenden Adressen werden vorerst  weitergeleitet; eine Betriebsunterbrechung ist nicht zu erwarten. Der neue GitHub-Bereich beinhaltet künftig die [Open-Source-Anwendung I14Y](https://github.com/metadata-swiss), die I14Y-Tools und Skripte sowie die neue Plattform metadata.swiss.
 
 Was ändert sich damit für Sie? Kurzfristig sind Ihrerseits keine Massnahmen erforderlich. Mittelfristig empfehlen wir Ihnen die folgenden Anpassungen.
 
@@ -139,7 +139,7 @@ Der Kanton Basel-Landschaft veröffentlicht auf der Interoperabilitätsplattform
 
 So dokumentiert Basel-Landschaft beispielsweise, dass zur Identifikation einer Gemeinde in einem Datensatz die vom Bundesamt für Statistik vergebene Gemeindenummer verwendet wird. Oder dass im Bereich der Gemeindefinanzen auf Konzepte der Eidgenössischen Finanzverwaltung abgestützt wird.
 
-Basel-Landschaft setzt damit konsequent auf die Wiederverwendung bestehender Standardkonzepte und leistet einen konkreten Beitrag zur Harmonisierung von Verwaltungsdaten zwischen Behörden. Wie der automatisierte Prozess zur Publikation der Beschreibungen funktioniert, ist aus dem Code des [Harvesting-Skripts auf GitHub](https://github.com/I14Y-ch/harvester_BL) ersichtlich.
+Basel-Landschaft setzt damit konsequent auf die Wiederverwendung bestehender Standardkonzepte und leistet einen konkreten Beitrag zur Harmonisierung von Verwaltungsdaten zwischen Behörden. Wie der automatisierte Prozess zur Publikation der Beschreibungen funktioniert, ist aus dem Code des [Harvesting-Skripts auf GitHub](https://github.com/metadata-swiss/harvester_BL) ersichtlich.
 
 ## Eine gemeinsame Sprache macht alles einfacher
 *20.02.2026*
@@ -246,7 +246,7 @@ Wir sind überzeugt: Diese Zusammenführung ist ein wichtiger Schritt für eine 
 
 Damit Daten mehrfach nachgenutzt werden können, müssen potenzielle Nutzerinnen und Nutzer überhaupt von der Existenz eines Datensatzes wissen. Zu diesem Zweck wurde die I14Y entwickelt. Die Verwaltung und behördennahe Institutionen beschreiben ihren Datenbestand auf dieser und machen ihn so der Allgemeinheit zugänglich. Um diesen Prozess zu vereinfachen, hat I14Y ein Harvesting-Modul entwickelt, das es ermöglicht, Metadaten automatisiert aus bestehenden Datenkatalogen zu übernehmen und zu aktualisieren.
  
-Das Harvesting basiert auf dem Schweizer DCAT-Anwendungsprofil und nutzt die I14Y-Partner-API, um Datensätze direkt in den privaten oder öffentlichen Katalog einer Organisation einzutragen. Für interessierte Organisationen stellt I14Y ein [konfigurierbares Template-Repository auf GitHub](https://github.com/I14Y-ch/harvester_template) zur Verfügung – von der Authentifizierung über das Mapping bis hin zur Automatisierung mit GitHub Actions.
+Das Harvesting basiert auf dem Schweizer DCAT-Anwendungsprofil und nutzt die I14Y-Partner-API, um Datensätze direkt in den privaten oder öffentlichen Katalog einer Organisation einzutragen. Für interessierte Organisationen stellt I14Y ein [konfigurierbares Template-Repository auf GitHub](https://github.com/metadata-swiss/harvester_template) zur Verfügung – von der Authentifizierung über das Mapping bis hin zur Automatisierung mit GitHub Actions.
  
 Der Harvester kann so konfiguriert werden, dass neue Datensätze importiert und bestehende in regelmässigen Abständen (z. B. jede Nacht) aktualisiert werden. Ein Beispiel ist der Harvester für das Datenrepository des Bundesamt für Lebensmittelsicherheit und Veterinärwesen, der seit Februar 2025 im Einsatz ist. Er publiziert täglich aktualisierte Metadaten direkt in den öffentlichen I14Y-Katalog und erfüllt aus Sicht der Plattform die Qualitätsanforderungen. Im Juli 2025 wurde er in die Produktivumgebung überführt.
  
@@ -303,7 +303,7 @@ Bei Interesse oder Fragen zur M2M-Kommunikation haben, kontaktieren Sie uns am b
 Wie kann man mit Python auf die öffentlichen und Partner-APIs von I14Y zugreifen? Ein neues interaktives Tutorial erklärt Schritt für Schritt, wie das geht – inklusive konkreter Beispiele für alle API-Endpunkte. Es zeigt, wie man Daten automatisiert abrufen, importieren oder aktualisieren kann.
 Das Tutorial kann auf zwei Wegen genutzt werden: Lokal ausführen – einfach von GitHub herunterladen oder direkt im Browser starten – ohne Installation mit JupyterLite.
 
-Zur erklärenden GitHub-Seite: [I14Y-ch/tutorials](https://github.com/I14Y-ch/tutorials)
+Zur erklärenden GitHub-Seite: [I14Y-ch/tutorials](https://github.com/metadata-swiss/tutorials)
 
 Zum Tutorial: JupyterLite [JupyterLite](https://i14y-ch.github.io/tutorials/lab/index.html)
 
@@ -333,7 +333,7 @@ Durch die strukturierte Beschreibung von Konzepten und Datensätzen wird nicht n
 Der Blick von aussen hilft, das eigene Produkt zu verbessern. Acht aktive Local Data Stewards haben dem I14Y-Team in Nutzerinterviews Einblick in ihre Erfahrungen mit der Metadatenerfassung gegeben.
 Das Fazit fällt grundsätzlich positiv aus: Die Erfassung gelingt gut, und die Möglichkeiten der Plattform werden geschätzt. Verbesserungspotenzial sehen die Befragten vor allem bei der kontextbezogenen Unterstützung beim Ausfüllen sowie bei der Filterung der eigenen Datensätze.
 Einige der genannten Punkte wurden bereits aufgenommen, andere werden schrittweise in die Weiterentwicklung der Plattform einfliessen. 
-Zur Erinnerung: Verbesserungsvorschläge können jederzeit über [Github](https://github.com/I14Y-ch/feature-requests) eingereicht werden.
+Zur Erinnerung: Verbesserungsvorschläge können jederzeit über [Github](https://github.com/metadata-swiss/feature-requests) eingereicht werden.
 
 ## Effizienter Zugang zur I14Y-API mit R
 *02.04.2025*
@@ -400,7 +400,7 @@ An welchen Neuerungen die Softwareentwicklerin und die Entwickler arbeiten, kann
 ## Die I14Y mitgestalten
 *11.12.2024*
 
-Vorschläge für neue Funktionen können neu im Repository [Feature Request](https://github.com/I14Y-ch/feature-requests) auf GitHub eingereicht und diskutiert werden. Die Vorschläge werden von der Interoperabilitätsstelle, dem Ausschuss Nationale Datenbewirtschaftung sowie dem Steuerungsausschuss priorisiert. Wir freuen uns auf Ihre Vorschläge.
+Vorschläge für neue Funktionen können neu im Repository [Feature Request](https://github.com/metadata-swiss/feature-requests) auf GitHub eingereicht und diskutiert werden. Die Vorschläge werden von der Interoperabilitätsstelle, dem Ausschuss Nationale Datenbewirtschaftung sowie dem Steuerungsausschuss priorisiert. Wir freuen uns auf Ihre Vorschläge.
 
 ## Neue öffentliche API-Konsolen für die I14Y-API
 *11.12.2024*
@@ -460,7 +460,7 @@ Wer eine Online-Befragung durchführen möchte, benötigt ein entsprechendes Too
 
 Dank der I14Y soll es einfacher gehen: Beim [GovTech-Hackathon](https://hack.opendata.ch/event/68) von Mitte März haben fünf findige Entwickler die [Challenge der Interoperabilitätsstelle](https://hack.opendata.ch/project/1088) angenommen und in eineinhalb Tagen ein Plugin für die beliebte Umfragesoftware entwickelt. Dieses ruft die harmonisierten Codelisten von der I14Y ab, so dass sie mit wenigen Klicks Fragen zugeordnet werden können. Das Plugin vereinfacht und beschleunigt die Arbeit derjenigen, die eine Umfrage durchführen. Gleichzeitig stellt es sicher, dass weniger Fehler gemacht und die Werte einheitlich kodiert werden. Dadurch lassen sich die Daten später einfacher mit anderen Datensätzen kombinieren. 
 
-Der Prototyp des Plugins ist im [Github-Bereich der Interoperabilitätsstelle](https://github.com/I14Y-ch/iSurvey) zu finden. Dort kann er ausprobiert und weiterentwickelt werden.
+Der Prototyp des Plugins ist im [Github-Bereich der Interoperabilitätsstelle](https://github.com/metadata-swiss/iSurvey) zu finden. Dort kann er ausprobiert und weiterentwickelt werden.
 
 ## Die Interoperabilitätsstelle hat einen neuen Chef
 *21.06.2024*

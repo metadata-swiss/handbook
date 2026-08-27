@@ -17,7 +17,7 @@ Genau hier setzt das _Model Context Protocol (MCP)_ an. MCP ist ein offener Stan
 
 Der MCP-Server macht die öffentlichen I14Y-Metadaten direkt für KI-Anwendungen nutzbar. Dadurch werden Antworten von KI-Chatbots zuverlässiger, die technische Integration wird vereinfacht und bestehende Metadaten sowie Codelisten können in weiteren Anwendungen besser nachgenutzt werden. So kann etwa ein digitaler Assistent Fragen zu Daten aus der öffentlichen Verwaltung der Schweiz zuverlässiger beantworten -- auf Basis der Beschreibungen auf I14Y. Ebenso können KI-gestützte Hilfsprogramme für die Softwareentwicklung direkt auf die Codelisten von I14Y zugreifen.
 
-Der I14Y-MCP-Server ist unter der folgenden URL verfügbar: `https://mcp.i14y.d.c.bfs.admin.ch/mcp`. Eine detaillierte Dokumentation der Funktionalität ist im [Repository auf Github](https://github.com/I14Y-ch/mcp-i14y) zu finden. 
+Der I14Y-MCP-Server ist unter der folgenden URL verfügbar: `https://mcp.i14y.d.c.bfs.admin.ch/mcp`. Eine detaillierte Dokumentation der Funktionalität ist im [Repository auf Github](https://github.com/metadata-swiss/mcp-i14y) zu finden. 
 
 <details>
 <summary><strong>So wird MCP mit Mistral genutzt</strong></summary>

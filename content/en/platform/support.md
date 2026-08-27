@@ -9,7 +9,7 @@ keywords: [I14Y, I14Y Interoperability Platform, Metadata Catalogue, Software as
 
 Sometimes things don't work out as expected. If you experience any issues when working with I14Y, please proceed as follows:
 
-__Consult the manual:__ The manual documents the most important functions of the platform. And it contains answers to most common questions. If information is missing, the interoperability office would be grateful for a note. You are also welcome to add the relevant sections yourself and submit a _pull request_ [on Github](https://github.com/I14Y-ch/handbook).
+__Consult the manual:__ The manual documents the most important functions of the platform. And it contains answers to most common questions. If information is missing, the interoperability office would be grateful for a note. You are also welcome to add the relevant sections yourself and submit a _pull request_ [on Github](https://github.com/metadata-swiss/handbook).
 
 __Support level 1:__ If you cannot solve the problem with the help of the manual, contact the I14Y support of your own organisation. Usually, I14Y partners provide their own support organisation. This can solve simpler problems. If you belong to an organisation with its own I14Y support, problems must first be reported to the internal support department.
 

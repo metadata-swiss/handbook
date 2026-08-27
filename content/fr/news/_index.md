@@ -138,7 +138,7 @@ Le canton de Bâle-Campagne publie sur la plateforme d’interopérabilité [ le
 
 Ainsi, le canton de Bâle-Campagne définit par exemple que, pour identifier une commune dans un jeu de données, on recourt au numéro de commune attribué par l’Office fédéral de la statistique. Ou encore que, dans le domaine des finances communales, on s’appuie sur les concepts utilisés par l’Administration fédérale des finances.
 
-Le canton de Bâle-Campagne mise ainsi résolument sur la réutilisation des concepts standard existants, contribuant de manière concrète à l’harmonisation des données administratives entre les autorités. [Le code du script de moissonnage de données sur GitHub](https://github.com/I14Y-ch/harvester_BL) montre le fonctionnement du processus automatisé de publication des descriptifs.
+Le canton de Bâle-Campagne mise ainsi résolument sur la réutilisation des concepts standard existants, contribuant de manière concrète à l’harmonisation des données administratives entre les autorités. [Le code du script de moissonnage de données sur GitHub](https://github.com/metadata-swiss/harvester_BL) montre le fonctionnement du processus automatisé de publication des descriptifs.
 
 ## Utiliser un langage commun, c’est simplifier les processus
 *20.02.2026*
@@ -250,7 +250,7 @@ Nous en sommes convaincus: cette fusion est une étape importante vers un paysag
 
 Pour que les utilisateurs et utilisatrices réutilisent les données, ils doivent être au courant de leur existence. C’est dans ce but que la plateforme I14Y a été développée. L’administration et les institutions proches des autorités décrivent leurs jeux de données sur cette plateforme, rendant ainsi ces informations accessibles au grand public. Afin de simplifier ce processus, I14Y a développé un module de moissonnage qui permet de transférer et de mettre à jour automatiquement les métadonnées à partir de catalogues de données existants. 
 
-Le moissonnage se base sur le profil d’application DCAT-AP CH et utilise l’API partenaire de la plateforme I14Y pour enregistrer les jeux de données directement dans le catalogue privé ou public d’une organisation. La plateforme I14Y met à la disposition des organisations intéressées des [modèles de référence configurable sur GitHub](https://github.com/I14Y-ch/harvester_template), allant de l’authentification à l’automatisation avec GitHub Actions, en passant par le mappage.
+Le moissonnage se base sur le profil d’application DCAT-AP CH et utilise l’API partenaire de la plateforme I14Y pour enregistrer les jeux de données directement dans le catalogue privé ou public d’une organisation. La plateforme I14Y met à la disposition des organisations intéressées des [modèles de référence configurable sur GitHub](https://github.com/metadata-swiss/harvester_template), allant de l’authentification à l’automatisation avec GitHub Actions, en passant par le mappage.
  
 Le moissonneur peut être configuré de manière à importer de nouveaux jeux de données et à mettre à jour ceux qui existent déjà à intervalles réguliers (toutes les nuits, p. ex.). Le moissonneur utilisé pour le référentiel de données de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires, en service depuis février 2025, en est un exemple. Il publie chaque jour des métadonnées mises à jour directement dans le catalogue public de la plateforme et répond aux exigences de qualité de la plateforme. Il a été transféré dans l’environnement de production en juillet 2025.
  
@@ -311,7 +311,7 @@ Comment procéder dans Python pour accéder aux API publiques et partenaires de 
 Pour consulter le tutoriel, il est possible de le télécharger localement depuis GitHub, ou de
 le lancer dans le navigateur, à l’aide de JupyterLite, sans rien installer.
 
-Vers la page GitHub explicative: [I14Y-ch/tutorials](https://github.com/I14Y-ch/tutorials)  
+Vers la page GitHub explicative: [I14Y-ch/tutorials](https://github.com/metadata-swiss/tutorials)  
 
 Vers le tutoriel: [JupyterLite](https://i14y-ch.github.io/tutorials/lab/index.html)
 
@@ -346,7 +346,7 @@ Le bilan est globalement positif: la saisie fonctionne bien et les possibilités
 
 Certains des points mentionnés ont déjà été pris en compte, d’autres le seront progressivement au fil du développement de la plateforme.
 
-Pour rappel: vous pouvez nous soumettre vos propositions d’amélioration en tout temps via [Github](https://github.com/I14Y-ch/feature-requests).
+Pour rappel: vous pouvez nous soumettre vos propositions d’amélioration en tout temps via [Github](https://github.com/metadata-swiss/feature-requests).
 
 ## Accès aisé à l’API I14Y grâce à R
 *02.04.2025*
@@ -414,7 +414,7 @@ Les nouveautés sur lesquelles travaillent les développeurs du logiciel peuvent
 ## Participer au développement d’I14Y
 *11.12.2024*
 
-Les propositions de nouvelles fonctionnalités peuvent être désormais déposées et discutées dans le Repository [Feature Request](https://github.com/I14Y-ch/feature-requests) sur GitHub. Le centre d’interopérabilité, le comité de gestion nationale des données et le comité de pilotage se chargent de classer les propositions par ordre de priorité. Nous attendons vos propositions avec intérêt!
+Les propositions de nouvelles fonctionnalités peuvent être désormais déposées et discutées dans le Repository [Feature Request](https://github.com/metadata-swiss/feature-requests) sur GitHub. Le centre d’interopérabilité, le comité de gestion nationale des données et le comité de pilotage se chargent de classer les propositions par ordre de priorité. Nous attendons vos propositions avec intérêt!
 
 ## Nouvelles consoles publiques pour l’API I14Y
 
