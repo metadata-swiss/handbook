@@ -12,7 +12,7 @@ La piattaforma di interoperabilità I14Y è sviluppata su mandato della Confeder
 Durante la fase di progetto, l’ampiezza delle funzionalità della piattaforma viene costantemente ampliata. Le richieste di nuove funzionalità possono essere presentate al Servizio di interoperabilità. Quest’ultimo elabora quindi la specifica di dettaglio, definisce le priorità insieme al comitato direttivo e al Comitato Gestione nazionale dei dati (NaDB) e coordina i lavori di sviluppo e implementazione.
 
 {{<alert title="Ogni proposta è ben accetta" color="success">}}
-Se scoprite una possibilità di miglioramento o un errore sulla piattaforma di interoperabilità I14Y, il Servizio di interoperabilità vi è grato per una segnalazione. Potete inviare proposte di nuove funzionalità nel [repository Feature Requests](https://github.com/I14Y-ch/feature-requests/issues) su GitHub oppure via [e-mail](mailto:i14y@bfs.admin.ch). Descrivete la funzionalità desiderata nel modo più preciso possibile. Su GitHub le proposte possono anche essere commentate.
+Se scoprite una possibilità di miglioramento o un errore sulla piattaforma di interoperabilità I14Y, il Servizio di interoperabilità vi è grato per una segnalazione. Potete inviare proposte di nuove funzionalità nel [repository Feature Requests](https://github.com/metadata-swiss/feature-requests/issues) su GitHub oppure via [e-mail](mailto:i14y@bfs.admin.ch). Descrivete la funzionalità desiderata nel modo più preciso possibile. Su GitHub le proposte possono anche essere commentate.
 {{</alert>}}
 
 I14Y viene sviluppata secondo il cosiddetto Agile Release Train (ART). Le funzionalità vengono costantemente specificate, sviluppate e implementate. Le funzionalità previste per le varie fasi di sviluppo sono documentate nella roadmap qui sotto; per informazioni di dettaglio sulle singole funzionalità è possibile contattare il Servizio di interoperabilità. Le priorità possono cambiare, ad esempio se nuove funzionalità vengono altamente prioritarizzate. La roadmap viene aggiornata prima dell’inizio di ogni nuovo periodo di sviluppo (_Program Increment_, PI). Le prossime fasi sono descritte in modo più dettagliato, mentre per le fasi successive vengono indicati obiettivi più generali.
@@ -57,4 +57,4 @@ Il codice di programma della piattaforma di interoperabilità I14Y sarà pubblic
 Per quanto possibile e opportuno e se sono tutelati i diritti di terzi, le autorità federali assoggettate alla presente legge pubblicano il codice sorgente dei software che esse sviluppano o fanno sviluppare per l’adempimento dei propri compiti. Autorizzano ogni persona a utilizzare, sviluppare e trasmettere i software senza richiedere il pagamento di licenze.
 {{</card>}}
 
-I14Y pubblica codici sorgente e script sulla [piattaforma GitHub](https://github.com/i14y-ch) sotto il nome i14y-ch.
+I14Y pubblica codici sorgente e script sulla [piattaforma GitHub](https://github.com/metadata-swiss) sotto il nome i14y-ch.
