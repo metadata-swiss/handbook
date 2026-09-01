@@ -201,7 +201,7 @@ Nous recommandons le logiciel open source Piveau pour mettre en œuvre les fonct
 La plateforme I14Y, jusqu'alors hébergée par l'Office fédéral de l'informatique et de la télécommunication, a été migrée avec succès vers le cloud public – une étape majeure pour l'interopérabilité en Suisse. Cette évolution nous offre désormais une flexibilité accrue, essentielle pour accélérer les prochains développements — comme l’intégration d’un triple store ou de la toolbox. 
 Parallèlement, l’ensemble de notre code source a été migré vers GitHub, posant les bases concrètes de notre engagement envers l’open source. Ces changements renforcent notre capacité à innover et à collaborer avec vous.
 
-## metadata.swiss: aktueller Stand zur Plattformzusammenführung
+## metadata.swiss: état des lieux de la fusion des plateformes
 *04.12.2025*
 
 La fusion de la plateforme I14Y et d’opendata.swiss en une plateforme de métadonnées commune est en bonne voie. L’objectif reste une gestion des métadonnées simple, claire et durable, qui renforce la transparence et facilite l’accès aux données pour le grand public. 
