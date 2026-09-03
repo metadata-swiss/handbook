@@ -9,6 +9,18 @@ keywords: [I14Y, Interoperabilitätsplattform I14Y, IOP, Changelog, Releases, Ve
 
 La plateforme d'interopérabilité I14Y est en développement continu. De nouvelles fonctionnalités sont ajoutées à chaque version, et des erreurs sont également corrigées. Les changements les plus importants sont brièvement documentés ci-dessous. Pour des informations détaillées sur l'évolution de la plateforme, veuillez contacter l'[équipe I14Y](mailto:i14y@bfs.admin.ch).
 
+## Version du 2 September 2026
+
+**Interaction avec LINDAS :** Lors de leur publication sur I14Y, les concepts et les jeux de données sont publiés dans le Linked Data Service (LINDAS) de la Confédération, généralement dans le graphe I14Y. Certaines métadonnées et listes de codes peuvent être copiées dans les graphes LINDAS centraux en tant que dimensions partagées. Les liens correspondants sont désormais affichés sur le site web public d'I14Y.
+
+**Structures :** Les jeux de données possèdent une structure qui regroupe leurs différents attributs. Pour chaque attribut, il est possible d'indiquer s'il base sur une définition partagée, appelée concept. Un nouveau bouton simplifie la saisie des attributs : lorsqu'un concept approprié existe, les informations qu'il contient peuvent être importées dans l'attribut en un seul clic.
+
+**Améliorations de la convivialité :** L'affichage des liens vers des ressources externes a été amélioré : grâce à une icône, ils sont reconnaissables au premier coup d'œil.
+
+**Adaptation des liens vers le manuel et GitHub :** Dans le cadre du projet metadata.swiss, l'organisation GitHub `i14y-ch` a été renommée `metadata-swiss` (voir l'[article d'actualité](/handbook/fr/news/)). Avec cette version, les liens du site web d'I14Y vers GitHub et vers le manuel I14Y qui y est hébergé sont donc adaptés.
+
+**Corrections de bugs :** Lorsqu'une organisation ne dispose pas de nom dans la langue choisie par l'utilisateur ou l'utilisatrice, son nom dans une autre langue est affiché à la place. Ce mécanisme de secours garantit qu'un nom est toujours affiché. Un bug concernant les URL des distributions dans l'export RDF a également été corrigé.
+
 ## Adaptation du dépôt GitHub
 
 Dans le cadre du projet metadata.swiss, l’espace GitHub d’I14Y sera prochainement renommé metadata-swiss. Les adresses existantes continueront d’être redirigées; nous vous recommandons d’adapter progressivement vos références et vos dépôts Git locaux. Vous trouverez de plus amples informations dans l’[article de News consacré au nouvel espace GitHub](/handbook/fr/nouvelles/#lespace-github-di14y-devient-metadata-swiss).

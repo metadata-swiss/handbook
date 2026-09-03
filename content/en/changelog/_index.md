@@ -9,11 +9,23 @@ keywords: [I14Y, Interoperabilitätsplattform I14Y, IOP, Changelog, Releases, Ve
 
 The I14Y interoperability platform is under continuous development. New features are added with each release. Bugs are also fixed. The most important changes are briefly documented below. For detailed information on the development of the platform, please contact the [I14Y team](mailto:i14y@bfs.admin.ch). 
 
+## Release September 2 2026
+
+**Interaction with LINDAS:** When concepts and datasets are published on I14Y, they are made available in the Federal Administration's Linked Data Service (LINDAS), usually in the I14Y graph. Selected metadata and codelists can be copied to central LINDAS graphs as shared dimensions. The corresponding links will now be displayed on the publicly accessible I14Y website.
+
+**Structures:** Datasets have a structure that groups their individual attributes. For each attribute, it is possible to specify whether it is based on a particular shared definition, known as a concept. A new button now simplifies the creation of attributes: if a suitable concept exists, the information stored in it can be imported into the attribute with a single click.
+
+**Usability improvements:** The display of links to external resources has been improved: an icon now makes them recognisable at first glance.
+
+**Updates to links to the handbook and GitHub:** As part of the metadata.swiss project, the `i14y-ch` GitHub organisation was renamed `metadata-swiss` (see the [news article](/handbook/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss)). This release updates links from the I14Y website to GitHub and to the I14Y handbook hosted there.
+
+**Bug fixes:** If an organisation has no name in the language selected by the user, its name in another language is displayed instead. This fallback ensures that a name is always shown. A bug affecting distribution URLs in the RDF export has also been fixed.
+
 ## Adaptation of the GitHub repository
 
 As part of the metadata.swiss project, I14Y’s GitHub space will soon be renamed metadata-swiss. Existing addresses will continue to redirect; we recommend gradually updating your references and local Git repositories. Further information is available in the [News article about the new GitHub space](/handbook/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss).
 
-## Release August 12
+## Release August 12 2026
 
 **Capture of data structures:** Previously, structures had to be created externally and then uploaded to I14Y. Now simple structures (a class with attributes) can be captured directly in the I14Y interface.
 
@@ -29,7 +41,7 @@ As part of the metadata.swiss project, I14Y’s GitHub space will soon be rename
 
 **Bug fixes**
 
-## Release July 8
+## Release July 8 2026
 
 **Organisation logo:** Since the last release, a logo or photo can be stored for each organisation. These images are now displayed on the Organisations page.
 

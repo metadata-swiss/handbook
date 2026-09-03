@@ -5,8 +5,8 @@ slug: next-release
 weight: 10
 type: docs
 keywords: [I14Y, Interoperability platform I14Y, IOP, Changelog, Releases, Versions, Software development]
-draft: false
-notification: true
+draft: true
+notification: false
 ---
 
 The next release of I14Y is planned for the early evening of 2 September 2026. It includes the changes and enhancements described below. I14Y partner organisations with the appropriate access can test the updated software immediately on the [I14Y acceptance environment](https://input.i14y-a.admin.ch). Please contact the Interoperability Unit if you do not yet have access to this environment, which is used for software testing.
