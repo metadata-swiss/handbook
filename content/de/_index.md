@@ -8,7 +8,7 @@ weight: 0
 type: docs
 ---
 
-![Szene aus dem Erklärvideo zur Interoperabilitätsplattform I14Y](/handbook/img/i14y-film_55.png)
+![Szene aus dem Erklärvideo zur Interoperabilitätsplattform I14Y](/img/i14y-film_55.png)
 
 {{<alert title="Wichtiger Hinweis zur I14Y-API" color="warning">}}
 

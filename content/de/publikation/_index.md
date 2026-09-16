@@ -8,7 +8,7 @@ translationKey: metadata-publication
 keywords: [Interoperabilitätsplattform I14Y, I14Y, Publikation, Veröffentlichung, Metadaten, Katalog, Konzepte]
 ---
 
-![Symbolbild Katalog pflegen](/handbook/img/i14y-film_erfassen.png)
+![Symbolbild Katalog pflegen](/img/i14y-film_erfassen.png)
 
 Sie möchten ein internes Inventar Ihrer Datenangebote erstellen? Sie möchten Ihre Daten öffentlich beschreiben? Oder Sie möchten eine Behördenleistung bekannt machen? In allen drei Fällen sind Sie auf der Interoperabilitätsplattform I14Y am richtigen Ort.
 

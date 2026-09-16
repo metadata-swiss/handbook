@@ -8,7 +8,7 @@ type: docs
 keywords: [I14Y, I14Y interoperability platform, I14-IOP, roles, role-based model, access rights, workflow, processes, data model, information model]
 ---
 
-![Scene from the explanatory video for the I14Y interoperability platform](/handbook/img/i14y-film_rollen.png)
+![Scene from the explanatory video for the I14Y interoperability platform](/img/i14y-film_rollen.png)
 
 Data should be reliably collected and regularly updated. It must be clearly defined who is responsible for the offers and who is responsible for which tasks in the data processing. For this purpose, a role-based model has been developed. Among other things, differentiates between agencies that commission data sets, those that process data and those that use data.
 

@@ -45,7 +45,7 @@ On the I14Y Interoperability Platform, data sets, electronic interfaces (APIs) a
     style distribution stroke:black
 ```
 
-The diagram provides a simplified representation of the different parts of I14Y. A detailed summary can be found in the [Information model on I14Y](/handbook/img/i14y_informationsmodell.png).
+The diagram provides a simplified representation of the different parts of I14Y. A detailed summary can be found in the [Information model on I14Y](/img/i14y_informationsmodell.png).
 
 To do justice to the different offers, the platform uses various information models. For example, the Data Catalogue Vocabulary (DCAT) with the Swiss application profile is used for data sets and APIs. The _Core Public Service Vocabulary (CPSV)_ is used for government services.
 

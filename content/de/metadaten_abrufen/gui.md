@@ -44,7 +44,7 @@ Im Katalog-Bereich lässt sich die Auswahl mit diversen **Filtern** eingrenzen. 
 
 Ein Klick auf einen gefunden Eintrag öffnet die Detailinformationen dazu. Handelt es sich beim betreffenden Datenangebot um eine __elektronische Schnittstelle (API)__, wird ausschliesslich die Beschreibung angezeigt. Diese beinhaltet unter anderem die Adresse des Endpunkts sowie einen Link zur ausführlichen technischen Dokumentation. Im Weiteren ist ersichtlich, wer die API anbietet und welches die gesetzlichen oder technischen Grundlagen fürs betreffende Angebot sind. Oben rechts wird der Status des Eintrags auf I14Y eingeblendet. Mehr Informationen zur Status-Verwaltung sind im Teil [Rollen und Prozesse](/handbook/de/gouvernanz/arbeitsablauf) zu finden.  
 
-![Screenshots I14Y](/handbook/img/i14y_datensatz.png) 
+![Screenshots I14Y](/img/i14y_datensatz.png) 
 
 Bei einem __Datensatz__ werden verschiedene Register (Reiter) eingeblendet, die zusätzliche Informationen enthalten. Angezeigt werden lediglich jene Register, für die Herausgeberinnen und Herausgeber Informationen erfasst haben.
 

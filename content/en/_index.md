@@ -13,7 +13,7 @@ Translation is in progress: Thank you for your interest in the English version o
 {{% /pageinfo %}}
 
 
-![ Scene from the explanatory video for the I14Y interoperability platform](/handbook/img/i14y-film_55.png)
+![ Scene from the explanatory video for the I14Y interoperability platform](/img/i14y-film_55.png)
 
 {{<alert title="Important notice about the I14Y API" color="warning">}}
 

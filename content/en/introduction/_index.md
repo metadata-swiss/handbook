@@ -23,7 +23,7 @@ Unnecessary typing makes no sense for many IT professionals. That's why they lov
 
 A directory of e-government services such as web applications and apps will also be available on I14Y. This will provide an overview of the services offered by the public administration and facilitates the dialogue between service providers and users.
 
-<!-- ![Scene on the government service directory from the explanatory video on the I14Y Interoperability Platform](/handbook/img/i14y-film_160.png) -->
+<!-- ![Scene on the government service directory from the explanatory video on the I14Y Interoperability Platform](/img/i14y-film_160.png) -->
 
 The platform is developed and operated by the Interoperability Office (IOS) in the Interoperability and Registers Division (IOR) of the [Federal Statistical Office](https://www.bfs.admin.ch). The operation of the platform is regulated by law in the Federal Act on the Use of Electronic Means to Conduct the Tasks of the Authorities (EMBAG).
 

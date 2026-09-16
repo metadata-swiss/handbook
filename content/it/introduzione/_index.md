@@ -25,7 +25,7 @@ Premere tasti inutili è l'incubo di ogni informatico. Ecco perché molti di lor
 
 Sulla piattaforma di interoperabilità I14Y si sta attualmente implementando un registro dei servizi elettronici forniti dalle autorità, come app e web app. Tale registro fornisce una panoramica dell'offerta di servizi delle amministrazioni pubbliche e facilita il dialogo tra i gestori dei singoli servizi e gli utenti di questi ultimi.
 
-<!-- ![Scena sul registro dei servizi offerti dalle autorità tratta dal video esplicativo sulla piattaforma di interoperabilità I14Y](/handbook/img/i14y-film_160.png) -->
+<!-- ![Scena sul registro dei servizi offerti dalle autorità tratta dal video esplicativo sulla piattaforma di interoperabilità I14Y](/img/i14y-film_160.png) -->
 
 La piattaforma viene sviluppata e gestita dal servizio di interoperabilità (IOS) della divisione Interoperabilità e registri (IOR) dell'[Ufficio federale di statistica](https://www.bfs.admin.ch). Il funzionamento della piattaforma è disciplinato dalla legge federale concernente l'impiego di mezzi elettronici per l'adempimento dei compiti delle autorità (LMeCA).
 

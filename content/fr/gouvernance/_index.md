@@ -8,7 +8,7 @@ type: docs
 keywords: [I14Y, plateforme d'interopérabilité, IOP I14, rôles, modèle de rôles, droits d'accès, workflow, flux de travail, processus, modèle de données, modèle d'information]
 ---
 
-![Scène de la vidéo explicative sur la plateforme d'interopérabilité I14Y](/handbook/img/i14y-film_rollen.png)
+![Scène de la vidéo explicative sur la plateforme d'interopérabilité I14Y](/img/i14y-film_rollen.png)
 
 Il est important que les données soient saisies de façon fiable et complétées régulièrement. Les responsabilités relatives aux offres et les compétences en matière de traitement des données doivent par ailleurs être clairement définies. C'est pourquoi nous avons établi un modèle de rôles. Ce modèle distingue trois types de services: ceux qui demandent la création d'un jeu de données, ceux qui traitent les données et ceux qui utilisent les données. 
 

@@ -45,7 +45,7 @@ La plateforme d'interopérabilité I14Y recense des jeux de données, des interf
     style distribution stroke:black
 ```
 
-Ce graphique présente schématiquement les différentes parties de la plateforme. Un descriptif complet est disponible dans le [modèle d'information de l'IOP I14Y](/handbook/img/i14y_informationsmodell.png).
+Ce graphique présente schématiquement les différentes parties de la plateforme. Un descriptif complet est disponible dans le [modèle d'information de l'IOP I14Y](/img/i14y_informationsmodell.png).
 
 La plateforme exploite différents modèles d'information pour la gestion des offres de données. Le _data catalog vocabulary (DCAT)_ (profil suisse) est ainsi utilisé pour les jeux de données et les API, le _core public service vocabulary (CPSV)_ pour les prestations administratives. 
 

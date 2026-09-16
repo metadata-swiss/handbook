@@ -8,7 +8,7 @@ translationKey: metadata-retrieval
 keywords: [I14Y, Interoperabilitätsplattform I14Y, I14Y, Metadaten, Katalog, Datenbezug, Daten beziehen, Daten abrufen]
 ---
 
-![Szene aus dem Erklärvideo zur Interoperabilitätsplattform I14Y](/handbook/img/i14y-film_abrufen.png)
+![Szene aus dem Erklärvideo zur Interoperabilitätsplattform I14Y](/img/i14y-film_abrufen.png)
 
 Die Interoperabilitätsplattform I14Y ist das zentrale Verzeichnis aller Behördendaten. Sie macht die verfügbaren Datensätze inklusive ihrer Strukturen und der verwendeten Konzepten sowie die elektronischen Schnittstellen und die Dienstleistungen der Schweizer Behörden sichtbar. Und sie beantwortet die wichtigsten Fragen dazu. 
 

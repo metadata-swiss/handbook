@@ -12,7 +12,7 @@ type: docs
 La traduction est en cours : Nous vous remercions de l'intérêt que vous portez à la version française du manuel I14Y. Les premiers chapitres ont été traduits. Les autres parties sont encore en cours de traduction. N'hésitez pas à revenir plus tard. En attendant, vous pouvez consulter le [manuel en allemand](https://handbook.i14y.admin.ch). L'[équipe I14Y](mailto:i14y@bfs.admin.ch) se tient à votre disposition pour répondre à vos questions. 
 {{% /pageinfo %}}
 
-![Scène de la vidéo explicative sur la plateforme d’interopérabilité I14Y](/handbook/img/i14y-film_55.png)
+![Scène de la vidéo explicative sur la plateforme d’interopérabilité I14Y](/img/i14y-film_55.png)
 
 {{<alert title="Avis important concernant l’API I14Y" color="warning">}}
 

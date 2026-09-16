@@ -8,7 +8,7 @@ type: docs
 keywords: [I14Y, piattaforma di interoperabilità, I14-IOP, Ruoli, modello dei ruoli, diritti di accesso, workflow, processi, modello dei dati, modello di informazioni]
 ---
 
-![Scena dal video esplicativo sulla piattaforma di interoperabilità I14Y](/handbook/img/i14y-film_rollen.png)
+![Scena dal video esplicativo sulla piattaforma di interoperabilità I14Y](/img/i14y-film_rollen.png)
 
 I dati devono essere raccolti in modo affidabile e aggiornati regolarmente. Le responsabilità per l'offerta e le competenze in materia di elaborazione di dati devono essere regolamentate in modo chiaro. Per garantirlo è stato sviluppato un modello dei ruoli, che opera ad esempio una distinzione tra gli uffici che commissionano le raccolte di dati, quelli che elaborano i dati e quelli che ne usufruiscono. 
 

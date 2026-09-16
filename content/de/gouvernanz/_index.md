@@ -8,7 +8,7 @@ type: docs
 keywords: [I14Y, I14Y-Interoperablitätsplattform, I14-IOP, Rollen, Rollenmodell, Zugriffsrechte, Workflow, Prozesse, Datenmodell, Informationsmodell]
 ---
 
-![Szene aus dem Erklärvideo zur Interoperabilitätsplattform I14Y](/handbook/img/i14y-film_rollen.png)
+![Szene aus dem Erklärvideo zur Interoperabilitätsplattform I14Y](/img/i14y-film_rollen.png)
 
 Daten sollen zuverlässig erhoben und regelmässig nachgeführt werden. Und die Zuständigkeiten für die Angebote und die Kompetenzen zur Datenbearbeitung müssen klar geregelt sein. Um dies sicherzustellen, wurde ein Rollenmodell ausgearbeitet. Dieses unterscheidet unter anderem zwischen den Stellen, die Datensätze in Auftrag geben, solchen, die Daten bearbeiten, und jenen, die Daten verwenden. Zudem wurden Erfassungsrichtlinien und ein Workflow definiert. 
 
