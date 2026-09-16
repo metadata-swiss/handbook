@@ -1,4 +1,4 @@
-#baseURL = 'https://i14y-ch.github.io/handbook/'
+baseURL = 'https://handbook.i14y.admin.ch/'
 languageCode = 'de-CH'
 title = 'Handbuch Interoperabilitätsplattform I14Y'
 
