@@ -14,7 +14,7 @@ Am Anfang steht eine gute Vorbereitung: Bevor Sie die Metadaten zu Ihrem Datensa
 - Ihre Organisation stellt sicher, dass die Metadaten langfristig gepflegt werden. Sie ist Anlaufstelle bei Rückfragen von Nutzerinnen und Nutzern.
 - Sie kennen die genaue Struktur des Datensatzes bzw. die Details zur Behördenleistung. 
 
-Um auf der Interoperabilitätsplattform I14Y Informationen zu Datenangeboten oder Behördenleistungen erfassen zu können, benötigen Sie ein Konto mit den entsprechenden Rechten. Detaillierte Informationen zur Kontenverwaltung finden Sie im Kapitel zu den [Rollen und Prozessen](/handbook/de/plattform/kontenverwaltung). 
+Um auf der Interoperabilitätsplattform I14Y Informationen zu Datenangeboten oder Behördenleistungen erfassen zu können, benötigen Sie ein Konto mit den entsprechenden Rechten. Detaillierte Informationen zur Kontenverwaltung finden Sie im Kapitel zu den [Rollen und Prozessen](/de/plattform/kontenverwaltung). 
 
 {{<alert title="Seperate Plattform für Tests" color="success">}}
 

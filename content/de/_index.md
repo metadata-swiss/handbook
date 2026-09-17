@@ -12,7 +12,7 @@ type: docs
 
 {{<alert title="Wichtiger Hinweis zur I14Y-API" color="warning">}}
 
-Am 8. Juli 2026 wird ein _Breaking Change_ für Konzepte und Behördenleistungen auf der I14Y-API produktiv geschaltet: Das Feld `identifier` wird entfernt und durch `identifiers` ersetzt. Bitte prüfen Sie betroffene Integrationen rechtzeitig. Details finden Sie direkt im Beitrag [Breaking Change auf der I14Y-API](/handbook/de/news/#breaking-change-auf-der-i14y-api).
+Am 8. Juli 2026 wird ein _Breaking Change_ für Konzepte und Behördenleistungen auf der I14Y-API produktiv geschaltet: Das Feld `identifier` wird entfernt und durch `identifiers` ersetzt. Bitte prüfen Sie betroffene Integrationen rechtzeitig. Details finden Sie direkt im Beitrag [Breaking Change auf der I14Y-API](/de/news/#breaking-change-auf-der-i14y-api).
 
 {{</alert>}}
 
@@ -61,4 +61,4 @@ Damit das _Once-Only-Prinzip_ Realität wird, müssen die verschiedenen Verwaltu
 
 {{</alert>}}
 
-Dieses Handbuch bietet einen Überblick über die Interoperabilitätsplattform I14Y und erläutert ihre wichtigsten Funktionen. Es beschreibt die [Gouvernanz](/handbook/de/gouvernanz/), die [Publikation von Metadaten](/handbook/de/publikation/) und den [Abruf von Metadaten](/handbook/de/metadaten_abrufen/). Zudem  beantwortet es Fragen zum [Betrieb der Plattform](/handbook/de/plattform/). Ergänzend finden sich ein [Glossar](/handbook/de/glossar/) und weiterführende Informationen im [Anhang](/handbook/de/anhang/).
+Dieses Handbuch bietet einen Überblick über die Interoperabilitätsplattform I14Y und erläutert ihre wichtigsten Funktionen. Es beschreibt die [Gouvernanz](/de/gouvernanz/), die [Publikation von Metadaten](/de/publikation/) und den [Abruf von Metadaten](/de/metadaten_abrufen/). Zudem  beantwortet es Fragen zum [Betrieb der Plattform](/de/plattform/). Ergänzend finden sich ein [Glossar](/de/glossar/) und weiterführende Informationen im [Anhang](/de/anhang/).

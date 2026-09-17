@@ -16,7 +16,7 @@ La traduction est en cours : Nous vous remercions de l'intérêt que vous portez
 
 {{<alert title="Avis important concernant l’API I14Y" color="warning">}}
 
-Le 8 juillet 2026, un _breaking change_ concernant les concepts et les services publics sera mis en production sur l’API I14Y: le champ `identifier` sera supprimé et remplacé par `identifiers`. Veuillez vérifier à temps les intégrations concernées. Les détails figurent directement dans l’article [Breaking Change sur l’API I14Y](/handbook/fr/news/#breaking-change-sur-lapi-i14y).
+Le 8 juillet 2026, un _breaking change_ concernant les concepts et les services publics sera mis en production sur l’API I14Y: le champ `identifier` sera supprimé et remplacé par `identifiers`. Veuillez vérifier à temps les intégrations concernées. Les détails figurent directement dans l’article [Breaking Change sur l’API I14Y](/fr/news/#breaking-change-sur-lapi-i14y).
 
 {{</alert>}}
 

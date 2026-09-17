@@ -14,4 +14,4 @@ Sie möchten ein internes Inventar Ihrer Datenangebote erstellen? Sie möchten I
 
 Abhängig davon, was beschrieben werden soll, müssen andere Aspekte berücksichtigt werden. In diesem Teil des Handbuchs wird gezeigt, wie die verschiedenen Metadaten auf der Interoperabilitätsplattform I14Y erfasst werden. Zunächst werden die [Voraussetzungen](voraussetzungen) für eine Publikation erläutert – etwa welche Berechtigungen benötigt werden. Dann folgen detaillierte Anleitungen zur Erfassung von [Datensätzen](datensatz), [elektronischen Schnittstellen](datendienst), [Behördenleistungen](publicservice) und [Konzepten](konzept). 
 
-Wer Metadaten nicht manuell eingeben möchte, findet im Abschnitt zur [API](/handbook/de/publikation/api/) Hinweise zur maschinellen Datenerfassung. Ergänzend gibt es [Erfassungstipps](erfassungstipps) sowie einen Überblick über die Werkzeuge in der [Toolbox](toolbox).
+Wer Metadaten nicht manuell eingeben möchte, findet im Abschnitt zur [API](/de/publikation/api/) Hinweise zur maschinellen Datenerfassung. Ergänzend gibt es [Erfassungstipps](erfassungstipps) sowie einen Überblick über die Werkzeuge in der [Toolbox](toolbox).

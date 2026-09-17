@@ -9,7 +9,7 @@ keywords: [I14Y, piattaforma di interoperabilità, accessi, account utente, EIAM
 
 Chiunque voglia registrare dati sulla piattaforma di interoperabilità I14Y ha bisogno di un account utente. Lo stesso vale per chi desidera vedere informazioni sul proprio ente che non sono state (ancora) rese pubbliche. Gli accessi sono controllati per mezzo di _Enterprise Identity and Access Management (EIA)_, un servizio per la Confederazione gestito dall'Ufficio federale dell'informatica.  
 
-Per accedere all'area riservata della piattaforma I14Y è necessario disporre di un account presso un ente che fornisce soluzioni di identificazione digitale. I dipendenti dell'Amministrazione federale possono accedere servendosi del loro [Fed-Login](https://www.eiam.swiss). Oltre al Fed-Login sono disponibili diverse altre possibilità come il CH-Login, gli identificativi elettronici di SWITCH o di alcuni Cantoni (Berna, Sciaffusa, Zugo e Ginevra. Per maggiori informazioni, consultare la [tabella sulle possibilità di identificazione](/handbook/de/anhang/eiam) disponibile nella scheda «Allegato». 
+Per accedere all'area riservata della piattaforma I14Y è necessario disporre di un account presso un ente che fornisce soluzioni di identificazione digitale. I dipendenti dell'Amministrazione federale possono accedere servendosi del loro [Fed-Login](https://www.eiam.swiss). Oltre al Fed-Login sono disponibili diverse altre possibilità come il CH-Login, gli identificativi elettronici di SWITCH o di alcuni Cantoni (Berna, Sciaffusa, Zugo e Ginevra. Per maggiori informazioni, consultare la [tabella sulle possibilità di identificazione](/de/anhang/eiam) disponibile nella scheda «Allegato». 
 
 Per accedere, procedere nel modo seguente:
 

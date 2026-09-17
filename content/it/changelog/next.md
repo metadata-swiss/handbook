@@ -23,6 +23,6 @@ Please note that the release date may be postponed at short notice if problems a
 
 **Usability improvements:** The display of links to external resources has been improved: an icon now makes them recognisable at first glance.
 
-**Updates to links to the handbook and GitHub:** As part of the metadata.swiss project, the `i14y-ch` GitHub organisation was renamed `metadata-swiss` (see the [news article](/handbook/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss)). This release therefore updates links from the I14Y website to GitHub and to the I14Y handbook hosted there.
+**Updates to links to the handbook and GitHub:** As part of the metadata.swiss project, the `i14y-ch` GitHub organisation was renamed `metadata-swiss` (see the [news article](/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss)). This release therefore updates links from the I14Y website to GitHub and to the I14Y handbook hosted there.
 
 **Bug fixes:** If an organisation has no name in the language selected by the user, its name in another language is displayed instead. This fallback ensures that a name is always shown. A bug affecting distribution URLs in the RDF export has also been fixed.

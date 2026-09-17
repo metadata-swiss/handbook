@@ -17,7 +17,7 @@ Translation is in progress: Thank you for your interest in the English version o
 
 {{<alert title="Important notice about the I14Y API" color="warning">}}
 
-On 8 July 2026, a _breaking change_ for concepts and government services will go live on the I14Y API: the `identifier` field will be removed and replaced by `identifiers`. Please review affected integrations in time. Details are available directly in the German post [Breaking Change auf der I14Y-API](/handbook/de/news/#breaking-change-auf-der-i14y-api).
+On 8 July 2026, a _breaking change_ for concepts and government services will go live on the I14Y API: the `identifier` field will be removed and replaced by `identifiers`. Please review affected integrations in time. Details are available directly in the German post [Breaking Change auf der I14Y-API](/de/news/#breaking-change-auf-der-i14y-api).
 
 {{</alert>}}
 

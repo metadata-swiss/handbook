@@ -14,7 +14,7 @@ Some users of the I14Y interoperability platform want to retrieve entries only. 
 - __Data custodians__ (_data custodians_) are responsible for technical tasks, such as database support.
 - __Data consumers__ (_data consumers_) retrieve and process data.
 
-Those who want to access only public data on I14Y do not need to log in. However, in order to view non-public entries of one's own organisation or to save, edit, validate and publish metadata, an account with the appropriate rights is needed. The corresponding access rights are usually assigned by the organisation's internal account administrators when the account is created ([see under account administration](/handbook/de/plattform/kontenverwaltung)). 
+Those who want to access only public data on I14Y do not need to log in. However, in order to view non-public entries of one's own organisation or to save, edit, validate and publish metadata, an account with the appropriate rights is needed. The corresponding access rights are usually assigned by the organisation's internal account administrators when the account is created ([see under account administration](/de/plattform/kontenverwaltung)). 
 
 The table below shows which tasks can be undertaken in which role. There are two levels: that of the organisation concerned -- for example, a federal office, a canton or a commune -- and the highest national level. In practice, in smaller organisations it is possible for one person to take on several of these roles. In large organisations, several people often share the work in question.
 

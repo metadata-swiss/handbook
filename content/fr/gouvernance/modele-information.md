@@ -245,9 +245,9 @@ Prenons l'exemple d'une clinique vétérinaire. Son jeu de données contient des
 
 ```
 
-Les jeux de données publiés sur la plateforme d'interopérabilité I14Y sont décrits au moyen du [vocabulaire de catalogage de données (DCAT)](/handbook/de/glossar). Le DCAT est un modèle standardisé permettant de décrire des catalogues de données. Il est géré par le [World Wide Web Consortium (W3C)](https://www.w3.org/), un organisme de standardisation à but non lucratif chargé de promouvoir la compatibilité des technologies Web. La plateforme utilise le profil d'application suisse du DCAT ([DCAT-AP CH 2](https://www.dcat-ap.ch/)). Le vocabulaire de catalogage DCAT indique les informations qui doivent impérativement être saisies. Il propose également d'autres possibilités de décrire le jeu de données.     
+Les jeux de données publiés sur la plateforme d'interopérabilité I14Y sont décrits au moyen du [vocabulaire de catalogage de données (DCAT)](/de/glossar). Le DCAT est un modèle standardisé permettant de décrire des catalogues de données. Il est géré par le [World Wide Web Consortium (W3C)](https://www.w3.org/), un organisme de standardisation à but non lucratif chargé de promouvoir la compatibilité des technologies Web. La plateforme utilise le profil d'application suisse du DCAT ([DCAT-AP CH 2](https://www.dcat-ap.ch/)). Le vocabulaire de catalogage DCAT indique les informations qui doivent impérativement être saisies. Il propose également d'autres possibilités de décrire le jeu de données.     
 
-Enregistrer des informations sur un jeu de données sur la plateforme d'interopérabilité I14Y impose de remplir les exigences minimales prescrites par la norme DCAT. La plateforme I14Y propose quelques champs supplémentaires permettant d'aller au-delà de cette norme. Les informations à renseigner dans les différents champs lors de l'enregistrement d'un jeu de données sont présentées au chapitre [Publication](/handbook/de/publikation/katalog/datensammlung). 
+Enregistrer des informations sur un jeu de données sur la plateforme d'interopérabilité I14Y impose de remplir les exigences minimales prescrites par la norme DCAT. La plateforme I14Y propose quelques champs supplémentaires permettant d'aller au-delà de cette norme. Les informations à renseigner dans les différents champs lors de l'enregistrement d'un jeu de données sont présentées au chapitre [Publication](/de/publikation/katalog/datensammlung). 
 
 ### Structure
 
@@ -263,7 +263,7 @@ L'élément de donnée – également appelé attribut, variable (définie) ou �
 
 Le concept décrit les informations contenues dans l'élément de donnée de façon claire et exhaustive. Il peut s'agir d'un nombre, d'une chaîne de caractères, d'une date ou d'une liste de codes avec des valeurs prédéfinies. 
 
-Sur la plateforme d'interopérabilité I14Y, la description des concepts applique la norme [ISO 11179-1:2023](https://www.iso.org/standard/78914.html). Elle doit notamment spécifier le type du concept et doit contenir d'autres indications, p. ex. la longueur ou les valeurs minimales et maximales admissibles. Le chapitre [Publication](/handbook/de/publikation/konzepte) explique en détail comment décrire un concept. 
+Sur la plateforme d'interopérabilité I14Y, la description des concepts applique la norme [ISO 11179-1:2023](https://www.iso.org/standard/78914.html). Elle doit notamment spécifier le type du concept et doit contenir d'autres indications, p. ex. la longueur ou les valeurs minimales et maximales admissibles. Le chapitre [Publication](/de/publikation/konzepte) explique en détail comment décrire un concept. 
 
 ## Interface électronique (API)
 
@@ -274,7 +274,7 @@ En plus du titre et de la description, il est nécessaire d'indiquer un point de
 Les API sont décrites sur la plateforme d'interopérabilité au moyen du vocabulaire de catalogage DCAT. Certains champs, facultatifs dans la norme, sont contraignants sur la plateforme. La description est ainsi optionnelle pour le catalogage d'une API selon la norme DCAT, mais obligatoire sur la plateforme I14Y. Tous les champs obligatoires dans la norme le sont aussi sur la plateforme. 
 
 Le chapitre 
-[Publication](/handbook/de/publikation/katalog/api) explique en détail comment décrire les API. 
+[Publication](/de/publikation/katalog/api) explique en détail comment décrire les API. 
 
 ## Prestations électroniques des autorités
 
@@ -282,4 +282,4 @@ La plateforme d'interopérabilité permet également de décrire les prestations
 
 La description des prestations administratives électroniques repose sur l'utilisation du _core public service vocabulary_, un vocabulaire développé par l'Union européenne. Sa structure et ses spécificités sont décrites sur la plateforme d'interopérabilité [Joinup](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/core-public-service-vocabulary/releases) de la Commission européenne. Ce modèle de données réutilisable et extensible comprend des champs qui doivent être impérativement renseignés. Chaque prestation administrative se voit ainsi affecter un certain nombre de canaux, une adresse Internet ou un numéro de téléphone.
 
-Le chapitre [Publication](/handbook/de/publikation/katalog/publicservice/) décrit en détail comment saisir les informations sur les prestations administratives sur la plateforme d'interopérabilité I14Y.
+Le chapitre [Publication](/de/publikation/katalog/publicservice/) décrit en détail comment saisir les informations sur les prestations administratives sur la plateforme d'interopérabilité I14Y.

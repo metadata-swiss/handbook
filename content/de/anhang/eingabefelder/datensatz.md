@@ -86,4 +86,4 @@ keywords: [Interoperabilitätsplattform I14Y, I14Y, Eingabefelder, Datensatz]
 
 ### Struktur
 
-Eine Struktur beschreibt, wie Datenobjekte aufgebaut sind und zueinander in Beziehung stehen. Auf I14Y wird die Struktur mit SHACL (Shapes Constraint Language) definiert und besteht aus drei Hauptobjekten: **Klassen** (`sh:NodeShape`), **Attributen** (`sh:PropertyShape`) und **Assoziationen** (ebenfalls `sh:PropertyShape`, aber mit Verweis auf eine andere Klasse). Die vollständige Felddokumentation für alle drei Objekte findet sich unter [Felder zur Beschreibung einer Struktur](/handbook/de/anhang/eingabefelder/struktur/).
+Eine Struktur beschreibt, wie Datenobjekte aufgebaut sind und zueinander in Beziehung stehen. Auf I14Y wird die Struktur mit SHACL (Shapes Constraint Language) definiert und besteht aus drei Hauptobjekten: **Klassen** (`sh:NodeShape`), **Attributen** (`sh:PropertyShape`) und **Assoziationen** (ebenfalls `sh:PropertyShape`, aber mit Verweis auf eine andere Klasse). Die vollständige Felddokumentation für alle drei Objekte findet sich unter [Felder zur Beschreibung einer Struktur](/de/anhang/eingabefelder/struktur/).

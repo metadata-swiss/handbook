@@ -245,9 +245,9 @@ Di seguito ecco un esempio di collezione di dati. La collezione di dati di una c
 
 ```
 
-Nella piattaforma di interoperabilità I14Y le collezioni di dati sono descritte utilizzando il [vocabolario di catalogazione dei dati (DCAT)](/handbook/de/glossar) . DCAT è un modello standardizzato per la descrizione di cataloghi di dati gestito dall'organismo di standardizzazione del web [W3C](https://www.w3.org/). Sulla piattaforma è ampiamente utilizzato il profilo applicativo per la Svizzera ([DCAT-AP CH 2](https://www.dcat-ap.ch/)). Il DCAT specifica quali informazioni devono imperativamente essere registrate. Il vocabolario propone inoltre possibilità alternative per la descrizione delle collezioni di dati.     
+Nella piattaforma di interoperabilità I14Y le collezioni di dati sono descritte utilizzando il [vocabolario di catalogazione dei dati (DCAT)](/de/glossar) . DCAT è un modello standardizzato per la descrizione di cataloghi di dati gestito dall'organismo di standardizzazione del web [W3C](https://www.w3.org/). Sulla piattaforma è ampiamente utilizzato il profilo applicativo per la Svizzera ([DCAT-AP CH 2](https://www.dcat-ap.ch/)). Il DCAT specifica quali informazioni devono imperativamente essere registrate. Il vocabolario propone inoltre possibilità alternative per la descrizione delle collezioni di dati.     
 
-Per poter salvare sulla piattaforma di interoperabilità I14Y le informazioni su una collezione di dati devono essere soddisfatti i requisiti minimi previsti dallo standard DCAT. L'IOP I14Y offre alcuni campi aggiuntivi rispetto all'attuale standard DCAT. Al capitolo [Pubblicare metadati](/handbook/de/publikation/katalog/datensammlung) viene illustrato quali campi riempire con informazioni per la registrazione e con quali.. 
+Per poter salvare sulla piattaforma di interoperabilità I14Y le informazioni su una collezione di dati devono essere soddisfatti i requisiti minimi previsti dallo standard DCAT. L'IOP I14Y offre alcuni campi aggiuntivi rispetto all'attuale standard DCAT. Al capitolo [Pubblicare metadati](/de/publikation/katalog/datensammlung) viene illustrato quali campi riempire con informazioni per la registrazione e con quali.. 
 
 ### Struttura
 
@@ -263,7 +263,7 @@ L'elemento dati è la più piccola unità di descrizione di una collezione di da
 
 Il concetto descrive le informazioni contenute nell'elemento dati in modo chiaro e completo. Un concetto può essere un numero, una stringa, una data o una lista di codici con valori predefiniti. 
 
-Sulla piattaforma di interoperabilità I14Y, per la descrizione dei concetti viene utilizzato lo standard [ISO 11179-1:2023](https://www.iso.org/standard/78914.html). Vi si registra il tipo di concetto, a seconda del quale sono eventualmente necessarie ulteriori specifiche, come la lunghezza o i possibili valori minimi e massimi. Al capitolo [Pubblicare metadati] sono disponibili le istruzioni per la registrazione di un concetto.(/handbook/de/publikation/konzepte) zu finden. 
+Sulla piattaforma di interoperabilità I14Y, per la descrizione dei concetti viene utilizzato lo standard [ISO 11179-1:2023](https://www.iso.org/standard/78914.html). Vi si registra il tipo di concetto, a seconda del quale sono eventualmente necessarie ulteriori specifiche, come la lunghezza o i possibili valori minimi e massimi. Al capitolo [Pubblicare metadati] sono disponibili le istruzioni per la registrazione di un concetto.(/de/publikation/konzepte) zu finden. 
 
 ## Interfaccia elettronica (API)
 
@@ -274,7 +274,7 @@ Sull'IOP I14Y, oltre al titolo e alla descrizione deve essere indicato un cosidd
 Sulla piattaforma di interoperabilità, anche le API sono ampiamente descritte utilizzando il vocabolario di catalogazione dei dati DCAT. Alcuni campi, che nello standard normale sono facoltativi, sull'IOP I14Y devono imperativamente essere compilati. In effetti, lo standard DCAT si limita a raccomandare di inserire una descrizione quando si cataloga un'API. Sull'IOP I14Y la descrizione è invece obbligatoria. Tutti i campi previsti nello standard devono essere compilati anche sulla piattaforma. 
 
 Le istruzioni passo per passo su come registrare le interfacce elettroniche sono disponibili nel capitolo 
-[Pubblicare metadati](/handbook/de/publikation/katalog/api). 
+[Pubblicare metadati](/de/publikation/katalog/api). 
 
 ## Servizi elettronici offerti dalle autorità
 
@@ -282,4 +282,4 @@ Anche i servizi elettronici offerti dalle autorità possono essere descritti sul
 
 La descrizione dei servizi offerti dalle autorità è redatta sulla base del _Core Public Service Vocabulary_, definito dall'Unione europea. La creazione e l'intero vocabolario è documentato sulla piattaforma di interoperabilità [Joinup](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/core-public-service-vocabulary/releases)della Commissione europea. Il vocabolario, riutilizzabile e ampliabile, prevede alcuni campi che devono essere compilati obbligatoriamente. Ad ogni servizio offerto dalle autorità possono essere assegnati canali, come un indirizzo Internet o un numero di telefono.
 
-Nel capitolo[Pubblicare metadati](/handbook/de/publikation/katalog/publicservice/) è descritto nel dettaglio come registrare un servizio delle autorità sulla piattaforma di interoperabilità I14Y.
+Nel capitolo[Pubblicare metadati](/de/publikation/katalog/publicservice/) è descritto nel dettaglio come registrare un servizio delle autorità sulla piattaforma di interoperabilità I14Y.

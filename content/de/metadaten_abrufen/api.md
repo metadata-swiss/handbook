@@ -11,7 +11,7 @@ Die Interoperabilitätsplattform I14Y stellt zwei elektronische Schnittstellen z
 
 - **Public API**: Ermöglicht den **Abruf** von öffentlich publizierten Metadaten zu Datensätzen, elektronischen Schnittstellen, Behördenleistungen und Konzepten ohne Authentifizierung. Diese API richtet sich an alle Interessierten, die auf öffentliche I14Y-Metadaten zugreifen möchten.
 
-- **Partner API**: Ermöglicht autorisierten Personen, etwa _Local Data Stewards_, das **Erfassen, Bearbeiten und Löschen** von Metadaten mittels API-Zugriff. Um diese API zu nutzen, ist eine Authentifizierung erforderlich. Weitere Informationen zur Partner API finden Sie im Kapitel [Datenerfassung über die elektronische Schnittstelle](/handbook/de/publikation/api/).
+- **Partner API**: Ermöglicht autorisierten Personen, etwa _Local Data Stewards_, das **Erfassen, Bearbeiten und Löschen** von Metadaten mittels API-Zugriff. Um diese API zu nutzen, ist eine Authentifizierung erforderlich. Weitere Informationen zur Partner API finden Sie im Kapitel [Datenerfassung über die elektronische Schnittstelle](/de/publikation/api/).
 
 Diese Seite fokussiert auf die Public API zum Abruf von Metadaten.
 

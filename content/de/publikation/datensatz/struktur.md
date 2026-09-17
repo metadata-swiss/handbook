@@ -41,7 +41,7 @@ Strukturen auf I14Y bestehen aus drei Hauptobjekten: Klassen, Attributen und Ass
 
 Für Attribute und Assoziationen kann mit `dcterms:conformsTo` angegeben werden, dass sich das Element auf ein I14Y-Konzept abstützt. Daten, die sich auf dieselben grundlegenden Definitionen beziehen, sind (teilweise) harmonisiert.
 
-Eine ausführliche Beschreibung aller Felder für Klassen, Attribute und Assoziationen findet sich im [Anhang](/handbook/de/anhang/eingabefelder/eingabefelder_struktur/).
+Eine ausführliche Beschreibung aller Felder für Klassen, Attribute und Assoziationen findet sich im [Anhang](/de/anhang/eingabefelder/eingabefelder_struktur/).
 
 </details>
 
@@ -158,7 +158,7 @@ Das Präfix `i14y` verweist auf den Basis-URI des eigenen Datensatzes auf I14Y. 
 | Klasse | `.../dataset/{id}/structure/{KlassenName}` | `.../dataset/MY_DATASET/structure/localUnitMasterDataType` |
 | Attribut | `.../dataset/{id}/structure/{KlassenName}/{AttributName}` | `.../dataset/MY_DATASET/structure/localUnitMasterDataType/localId` |
 
-Diese IRIs sind auf der I14Y-Plattform für alle Objekttypen eingeführt worden -- neben Datensätzen auch für Konzepte, Codelist-Einträge, Datenservices und Public Services. Sie dienen als stabile, maschinenlesbare Adressen und werden z.B. in RDF-Exporten verwendet. Weitere Informationen zu I14Y-IRIs finden Sie unter [I14Y-URIs und Identifikatoren](/handbook/de/anhang/i14y-uris/).
+Diese IRIs sind auf der I14Y-Plattform für alle Objekttypen eingeführt worden -- neben Datensätzen auch für Konzepte, Codelist-Einträge, Datenservices und Public Services. Sie dienen als stabile, maschinenlesbare Adressen und werden z.B. in RDF-Exporten verwendet. Weitere Informationen zu I14Y-IRIs finden Sie unter [I14Y-URIs und Identifikatoren](/de/anhang/i14y-uris/).
 
 Die Struktur kann u.a. mit dem Tool [SHACL Play!](https://shacl-play.sparna.fr/play/draw) als UML-Diagramm visualisiert werden.
 

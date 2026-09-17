@@ -9,7 +9,7 @@ keywords: [I14Y, plateforme d'interopérabilité I14Y, compte utilisateur, compt
 
 Il est nécessaire d'avoir un compte utilisateur pour saisir des données sur la plateforme d'interopérabilité I14Y ou pour visualiser les informations de son organisation qui n'ont pas (encore) été rendues publiques. Les accès sont administrés au moyen de l'outil de gestion des identités et des accès _eGovernment Identity & Access Management (eIAM)_ exploité par l'Office fédéral de l'informatique et de la télécommunication.  
 
-Pour accéder au domaine interne de l'IOP I14Y, il faut avoir créé au préalable un compte auprès d'un fournisseur de solutions numériques d'identification. Les collaborateurs de l'administration fédérale utilisent leur [FED-Login](https://www.eiam.swiss). D'autres possibilités existent telles que le CH-Login, les identités électroniques de Switch ou celles des cantons de Berne, Schaffhouse, Zoug et Genève. Pour plus de détails, veuillez vous reporter au [tableau récapitulatif des possibilités d'identification](/handbook/de/anhang/eiam), fourni en annexe. 
+Pour accéder au domaine interne de l'IOP I14Y, il faut avoir créé au préalable un compte auprès d'un fournisseur de solutions numériques d'identification. Les collaborateurs de l'administration fédérale utilisent leur [FED-Login](https://www.eiam.swiss). D'autres possibilités existent telles que le CH-Login, les identités électroniques de Switch ou celles des cantons de Berne, Schaffhouse, Zoug et Genève. Pour plus de détails, veuillez vous reporter au [tableau récapitulatif des possibilités d'identification](/de/anhang/eiam), fourni en annexe. 
 
 Procédure à suivre:
 

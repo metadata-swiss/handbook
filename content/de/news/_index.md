@@ -80,7 +80,7 @@ Zur Publikation: [Leitfaden zur Veröffentlichung von Metadaten auf der Interope
 ## Neue Gesundheitsdatensätze für die Forschung auf I14Y
 *21.05.2026*
 
-{{< figure src="/handbook/img/news/zusammenarbeit-sphn.png" alt="Das Swiss Personalized Health Network und I14Y arbeiten zusammen" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/zusammenarbeit-sphn.png" alt="Das Swiss Personalized Health Network und I14Y arbeiten zusammen" width="125px" class="float-left img-news-thumb" >}}
 
 Das Swiss Personalized Health Network (SPHN) und I14Y arbeiten zusammen, um die Auffindbarkeit und Interoperabilität von Gesundheitsdatensätzen in der Schweiz zu verbessern. Die Einträge aus dem SPHN‑Metadatenkatalog sind neu in I14Y integriert: Die Datensätze werden aus dem SPHN‑Katalog (FAIR Data Point*, RDF nach HealthDCAT‑AP) geharvestet und anschliessend nach DCAT‑AP CH abgebildet. Damit wird die Auffindbarkeit und Interoperabilität von Gesundheitsdaten gestärkt – ganz im Sinne der FAIR‑Prinzipien. Die Metadaten lassen sich als JSON‑Dateien exportieren und in andere Systeme integrieren.
 
@@ -88,12 +88,12 @@ Für die Umsetzung haben die Teams von SPHN und I14Y eng über GitHub zusammenge
 [Mehr Informationen zur Zusammenarbeit](https://sphn.ch/2026/04/23/sphn-and-federal-statistical-office-strengthen-discoverability-and-interoperability-of-health-research-data/)
 [Zu den SPHN-Datensätze auf I14Y](https://www.i14y.admin.ch/de/catalog/all?publisher=CH_SPHN)
 [Zum SPHN-Katalog](https://fdp.dcc.sib.swiss/)
-*[Mehr zu den FAIR-Prinzipien](https://i14y-ch.github.io/handbook/de/glossar/#fair-prinzipien)
+*[Mehr zu den FAIR-Prinzipien](https://i14y-ch.github.io/de/glossar/#fair-prinzipien)
 
 ## Merkmale der natürlichen Personen als Schlüssel für effizientes E-Government
 *21.05.2026*
 
-{{< figure src="/handbook/img/news/merkmalsauspraegung.jpg" alt="Einheitliche Merkmale der natürlichen Personen als Schlüssel für effizientes E-Governmen" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/merkmalsauspraegung.jpg" alt="Einheitliche Merkmale der natürlichen Personen als Schlüssel für effizientes E-Governmen" width="125px" class="float-left img-news-thumb" >}}
 
 Einheitliche Merkmale der natürlichen Personen sind eine Grundlage für das, was viele Dateninitiativen anstreben: Kompatibilität, Wiederverwendbarkeit und Effizienz. Und sie sind ein wichtiger Baustein in der Umsetzung des Once-Only-Prinzips.
 
@@ -109,12 +109,12 @@ Im Laufe des Jahres wird die Datenstruktur der Personenstammdaten visualisiert u
 
 Mapping-Tabellen machen Beziehungen zwischen zwei ähnlichen Codelisten transparent und maschinenlesbar. Das ist beispielsweise nützlich, wenn Daten aus unterschiedlichen Systemen zusammengeführt, verglichen oder harmonisiert werden müssen – etwa in Verwaltungsprozessen, beim Datenaustausch oder bei der Pflege von Referenzdaten.
 
-Wir laden Sie ein, diese neue Funktion auszuprobieren, um Ihre Zuordnungen zwischen Codelisten künftig strukturierter und besser dokumentiert zu halten. Mapping-Tabellen können neu direkt auf I14Y erstellt, bearbeitet und verwaltet werden – sowohl über die Benutzeroberfläche als auch via API; die ausführliche Beschreibung mit allen Schritten finden Sie im [I14Y-Handbuch](https://i14y-ch.github.io/handbook/de/publikation/mappingtable/).
+Wir laden Sie ein, diese neue Funktion auszuprobieren, um Ihre Zuordnungen zwischen Codelisten künftig strukturierter und besser dokumentiert zu halten. Mapping-Tabellen können neu direkt auf I14Y erstellt, bearbeitet und verwaltet werden – sowohl über die Benutzeroberfläche als auch via API; die ausführliche Beschreibung mit allen Schritten finden Sie im [I14Y-Handbuch](https://i14y-ch.github.io/de/publikation/mappingtable/).
 
 ## Automatisierte Metadatenintegration: Basel‑Stadt entwickelt technischen Connector
 *21.05.2026*
 
-{{< figure src="/handbook/img/news/connector.png" alt="Der Kanton Basel‑Stadt entwickelt technischen Connector" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/connector.png" alt="Der Kanton Basel‑Stadt entwickelt technischen Connector" width="125px" class="float-left img-news-thumb" >}}
 
 Wie können Metadaten künftig effizienter und mit weniger manuellem Aufwand auf I14Y publiziert werden? Das DCC Data Competence Center am Statistischen Amt Basel-Stadt arbeitet derzeit an einem generischen Connector, der die automatisierte Übertragung und Synchronisation von Metadaten aus bestehenden Datenkatalogen in die Interoperabilitätsplattform ermöglicht.
 
@@ -133,7 +133,7 @@ Wir freuen uns auf innovative Ansätze, spannende Experimente und inspirierende 
 
 ## Wiederverwendung von externen Konzepten
 
-{{< figure src="/handbook/img/news/wiederverwendung-externe-konzepte.png" alt="Wiederverwendung von externen Konzepten" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/wiederverwendung-externe-konzepte.png" alt="Wiederverwendung von externen Konzepten" width="125px" class="float-left img-news-thumb" >}}
 
 Der Kanton Basel-Landschaft veröffentlicht auf der Interoperabilitätsplattform I14Y die [Beschreibungen zu seinen offenen Daten](https://www.i14y.admin.ch/de/catalog/all?publisher=CH_KT_BL&types=Dataset). Statt sich auf einfache Katalogeinträge zu beschränken, hat das Team aus Liestal die Beschreibungen mit den jeweiligen Datenstrukturen ergänzt. Und mehr noch: Die darin enthaltenen Datenelemente wurden – wo immer möglich – direkt mit den zugrunde liegenden Konzepten verknüpft, wie sie auf I14Y zu finden sind.
 
@@ -151,7 +151,7 @@ Neu stärkt auch die Schlüsselwort-Erfassung dieses gemeinsame Verständnis: Si
 ## Automatische Erstellung von RDF-Strukturen für OGD-Datensätze
 *20.02.2026*
 
-{{< figure src="/handbook/img/news/newsmail-2026-1-rdf-strukturen.png" alt="Grafik Automatische Erstellung von RDF-Strukturen für OGD-Datensätze" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/newsmail-2026-1-rdf-strukturen.png" alt="Grafik Automatische Erstellung von RDF-Strukturen für OGD-Datensätze" width="125px" class="float-left img-news-thumb" >}}
 
 Für die Veröffentlichung der Strukturen von Open-Data-Datensätzen wurde ein Prozess entwickelt, der aus den in den Distributionen verfügbaren CSV- und PXWeb-Dateien automatisch RDF/SHACL-Strukturen erzeugt. Durch diese Automatisierung konnten mehr als 900 Datensätze des BFS nach den Standards des Semantic Web dokumentiert werden. Das verbessert die Kohärenz und die Qualität der Validierung.
 
@@ -166,25 +166,25 @@ Der neue Prozess verringert den Dokumentationsaufwand, fördert die Interoperabi
 ## Kontrollierte Terminologie: I14Y verbessert die Schlüsselwort-Erfassung
 *20.02.2026*
 
-{{< figure src="/handbook/img/news/newsmail-2026-1-terminologie.png" alt="Grafik Kontrollierte Terminologie: I14Y verbessert die Schlüsselwort-Erfassung" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/newsmail-2026-1-terminologie.png" alt="Grafik Kontrollierte Terminologie: I14Y verbessert die Schlüsselwort-Erfassung" width="125px" class="float-left img-news-thumb" >}}
 
 Schlüsselwörter spielen eine zentrale Rolle für die Auffindbarkeit von Datensätzen. Auf I14Y wurde die Schlüsselwort-Erfassung deshalb erweitert: Neu können Schlüsselwörter aus Terminologie-Datenbanken übernommen und mit den entsprechenden Referenzen gespeichert werden. Unterstützt werden unter anderem TERMDAT, der mehrsprachige europäische Umwelt-Thesaurus GEMET sowie Wikidata. Das verbessert die Qualität der Metadaten, stärkt die Auffindbarkeit über verschiedene Systeme hinweg und entspricht den Anforderungen des Austauschstandards DCAT-AP CH.
 
-Je nach Arbeitsweise stehen unterschiedliche Möglichkeiten zur Verfügung: Sie übernehmen Schlüsselwörter direkt bei der Erfassung aus einer ausgewählten Terminologie-Datenbank, speisen Terminologie-Referenzen automatisiert über die [I14Y-API](https://apiconsole.i14y.admin.ch) ein oder bereiten konsistente Schlüsselwortlisten mit dem «Keyword Generator» in der [I14Y-Toolbox](https://toolbox.i14y.admin.ch) vor. Weiterführende Hinweise finden Sie im Kapitel [Grundlegende Tipps](https://handbook.i14y.admin.ch/handbook/de/publikation/tipps/).
+Je nach Arbeitsweise stehen unterschiedliche Möglichkeiten zur Verfügung: Sie übernehmen Schlüsselwörter direkt bei der Erfassung aus einer ausgewählten Terminologie-Datenbank, speisen Terminologie-Referenzen automatisiert über die [I14Y-API](https://apiconsole.i14y.admin.ch) ein oder bereiten konsistente Schlüsselwortlisten mit dem «Keyword Generator» in der [I14Y-Toolbox](https://toolbox.i14y.admin.ch) vor. Weiterführende Hinweise finden Sie im Kapitel [Grundlegende Tipps](https://handbook.i14y.admin.ch/de/publikation/tipps/).
 
 ## Roadmap 2026: Wichtige Weiterentwicklungen für I14Y
 *20.02.2026*
 
-{{< figure src="/handbook/img/news/newsmail-2026-1-roadmap-2026.png" alt="Grafik Roadmap 2026: Wichtige Weiterentwicklungen für I14Y" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/newsmail-2026-1-roadmap-2026.png" alt="Grafik Roadmap 2026: Wichtige Weiterentwicklungen für I14Y" width="125px" class="float-left img-news-thumb" >}}
 
 2026 bringt zahlreiche Neuerungen, die die Nutzung von I14Y vereinfachen und die Interoperabilität stärken. Mapping-Tabellen ermöglichen es, Entsprechungen zwischen Codes verschiedener Nomenklaturen effizient zu verwalten – ein Vorteil für harmonisierte Workflows und präzisere Datenvergleiche. Jedes Datenobjekt erhält künftig eine eindeutige, standardisierte URI. Das verbessert die Referenzierbarkeit und erhöht die Zuverlässigkeit.
 
-Zudem können Strukturen direkt in der Benutzeroberfläche bearbeitet und ihre Attribute mit Konzepten verknüpft werden – ein wichtiger Schritt zu messbarer Harmonisierung und sichtbarer Wiederverwendung. Der geplante Wechsel zu Open Source – wie es das EMBAG verlangt – schafft mehr Flexibilität und Sicherheit und erleichtert sowohl eigene Integrationen als auch eine mögliche lokale Installation von I14Y. Details finden Sie auf der [Roadmap](https://handbook.i14y.admin.ch/handbook/de/plattform/roadmap/).
+Zudem können Strukturen direkt in der Benutzeroberfläche bearbeitet und ihre Attribute mit Konzepten verknüpft werden – ein wichtiger Schritt zu messbarer Harmonisierung und sichtbarer Wiederverwendung. Der geplante Wechsel zu Open Source – wie es das EMBAG verlangt – schafft mehr Flexibilität und Sicherheit und erleichtert sowohl eigene Integrationen als auch eine mögliche lokale Installation von I14Y. Details finden Sie auf der [Roadmap](https://handbook.i14y.admin.ch/de/plattform/roadmap/).
 
 ## Die Gap-Analyse für metadata.swiss ist abgeschlossen
 *20.02.2026*
 
-{{< figure src="/handbook/img/news/newsmail-2026-1-gap-analyse.png" alt="Grafik Die Gap-Analyse für metadata.swiss ist abgeschlossen" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/newsmail-2026-1-gap-analyse.png" alt="Grafik Die Gap-Analyse für metadata.swiss ist abgeschlossen" width="125px" class="float-left img-news-thumb" >}}
 
 Die Gap-Analyse für metadata.swiss wurde erfolgreich abgeschlossen und den zuständigen Stellen zur Vernehmlassung übergeben. Sie zeigt auf, wie die Funktionen von opendata.swiss und I14Y – und damit Open Data und Interoperabilität – optimal zu einer gemeinsamen Plattform für Meta- und Referenzdaten zusammengeführt werden können.
 
@@ -193,7 +193,7 @@ Empfohlen wird, die beschreibenden Katalogfunktionen mit Piveau (Open Source) um
 ## Eine neue Phase für die Interoperabilitätsplattform I14Y
 *04.12.2025*
 
-{{< figure src="/handbook/img/news/cloud.jpg" alt="Grafik Eine neue Phase für die Interoperabilitätsplattform I14Y" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/cloud.jpg" alt="Grafik Eine neue Phase für die Interoperabilitätsplattform I14Y" width="125px" class="float-left img-news-thumb" >}}
 
 Die bisher vom Bundesamt für Informatik und Telekommunikation gehostete Plattform I14Y wurde erfolgreich auf die öffentliche Cloud migriert – ein Meilenstein für die Interoperabilität in der Schweiz. Die Migration schafft die nötige Flexibilität für die nächsten Schritte, beispielsweise für die Integration eines Triplestore oder einer erweiterten Toolbox. 
 Darüber hinaus wurde der gesamte Quellcode auf GitHub migriert, womit die Weichen für unser verstärktes Engagement im Bereich Open Source gestellt werden. Diese Veränderungen stärken unsere Innovationskraft und die amtsinterne Zusammenarbeit.
@@ -207,14 +207,14 @@ Die im September gestartete Gap-Analyse im Rahmen des Projekts metadata.swiss st
 ## Die Beta-ID als Datensatz zum Testen
 *04.12.2025*
 
-{{< figure src="/handbook/img/news/beta-id.png" alt="Grafik Die Beta-ID als Datensatz zum Testen" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/beta-id.png" alt="Grafik Die Beta-ID als Datensatz zum Testen" width="125px" class="float-left img-news-thumb" >}}
 
 Am 29. September hat die Schweiz der Einführung der nationalen e-ID zugestimmt. Im Rahmen der öffentlichen Testphase («Public Beta») wurde die sogenannte Beta-ID eingeführt – eine Testidentität, die keine echte Identitätsprüfung beinhaltet, aber die gleichen Datenfelder wie die künftige e-ID enthält. [Der entsprechende Datensatz ist auf der I14Y-Plattform verfügbar](https://www.i14y.admin.ch/de/catalog/datasets/urn:vct:ch.admin.bcs.betaid/description) und zeigt, wie frühzeitig neue Anwendungen dokumentiert und integriert werden können. Dieses Prinzip lässt sich auch auf andere digitale Vorhaben übertragen – ein gutes Beispiel für Transparenz und kollaboratives, proaktives Handeln in der öffentlichen Verwaltung.
 
 ## Ein Dashboard visualisiert Daten, I14Y macht sie nachvollziehbar und maschinenlesbar
 *04.12.2025*
 
-{{< figure src="/handbook/img/news/bfe-datensaetze-i14y.png" alt="Grafik Ein Dashboard visualisiert Daten, I14Y macht sie nachvollziehbar und maschinenlesbar" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/bfe-datensaetze-i14y.png" alt="Grafik Ein Dashboard visualisiert Daten, I14Y macht sie nachvollziehbar und maschinenlesbar" width="125px" class="float-left img-news-thumb" >}}
 
 Das Energiedashboard des Bundesamts für Energie macht die Kernindikatoren rund um die Stromproduktion und  den Stromverbrauch in der Schweiz auf einen Blick sichtbar. Auf I14Y sind nun zehn Datensätze des Dashboards beschrieben. So entsteht Transparenz darüber, welche Daten hinter den Visualisierungen stehen. Die zugrunde liegenden Datensätze sind so für alle Interessierten aus der Forschung, der Branchen und weiteren Bereichen auffindbar, konsistent beschrieben sowie langfristig verlässlich zugänglich und ohne Weiteres nutzbar. Energiedashboard und Interoperabilitätsplattform  ergänzen sich somit perfekt. 
 [Metadatenkatalog](https://www.i14y.admin.ch/de/catalog/datasets?publisher=CH_BFE)
@@ -242,7 +242,7 @@ Wir sind überzeugt: Diese Zusammenführung ist ein wichtiger Schritt für eine 
 ## Automatisches Harvesting auf I14Y – eine Dienstleistung für unsere Partner
 *26.08.2025*
 
-{{< figure src="/handbook/img/news/automatisches-harvesting.png" alt="Grafik Automatisches Harvesting – eine Dienstleistung für unsere Partner" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/automatisches-harvesting.png" alt="Grafik Automatisches Harvesting – eine Dienstleistung für unsere Partner" width="125px" class="float-left img-news-thumb" >}}
 
 Damit Daten mehrfach nachgenutzt werden können, müssen potenzielle Nutzerinnen und Nutzer überhaupt von der Existenz eines Datensatzes wissen. Zu diesem Zweck wurde die I14Y entwickelt. Die Verwaltung und behördennahe Institutionen beschreiben ihren Datenbestand auf dieser und machen ihn so der Allgemeinheit zugänglich. Um diesen Prozess zu vereinfachen, hat I14Y ein Harvesting-Modul entwickelt, das es ermöglicht, Metadaten automatisiert aus bestehenden Datenkatalogen zu übernehmen und zu aktualisieren.
  
@@ -253,7 +253,7 @@ Der Harvester kann so konfiguriert werden, dass neue Datensätze importiert und 
 ## Praktische Tools für Ihre Arbeit mit I14Y
 *26.08.2025*
 
-{{< figure src="/handbook/img/news/praktische-tools.png" alt="Grafik Toolbox" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/praktische-tools.png" alt="Grafik Toolbox" width="125px" class="float-left img-news-thumb" >}}
 
 Die I14Y-Toolbox bietet praxisnahe Unterstützung für verschiedene Aufgaben rund um das Metadatenmanagement. Ein passendes Hilfsprogramm erleichtert beispielsweise den Import eines bestehenden Dateninventars im Tabellenformat. Für die Dokumentation der Struktur von Datensätzen steht ein neues Konvertierungstool zur Verfügung, mit dem sich im Handumdrehen SHACL-konforme Datenstrukturen erstellen lassen. Auch für bestehende technische Schnittstellen-Dokumentationen ist gesorgt: Das Tool Swagger2I14Y hilft dabei, daraus einen I14Y-konformen Eintrag zu erstellen. Und wer aus einem Datensatz einzelne Datenelementkonzepte extrahieren möchte, findet mit dem Konzept-Import das passende Werkzeug.
  
@@ -271,7 +271,7 @@ Das BFE nutzt die I14Y-Plattform als internen Metadatenkatalog – ein wesentlic
 ## Datenstrukturen graphisch darstellen
 *26.08.2025*
 
-{{< figure src="/handbook/img/news/datenstruktur-graphisch-darstellen.png" alt="Grafik Datenstrukturen graphisch darstellen" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/datenstruktur-graphisch-darstellen.png" alt="Grafik Datenstrukturen graphisch darstellen" width="125px" class="float-left img-news-thumb" >}}
 
 Mit dem letzten Releases ist es möglich, Datenstrukturen auf I14Y graphisch darzustellen – ein Meilenstein für alle, die Daten nicht nur bereitstellen, sondern auch nachhaltig nutzbar machen wollen. Der neu konzipierte Strukturbereich ermöglicht es, auch komplexe, verschachtelte Datenstrukturen präzise abzubilden. Jedes Attribut verweist dabei auf ein zugehöriges Datenelementkonzept – falls vorhanden. Das macht den Mehrfachnutzen der Daten direkt sichtbar.
  
@@ -285,7 +285,7 @@ Im nächsten Schritt werden die Funktionen zur Bearbeitung, zum Import/Export so
 Was wäre, wenn Sie die Nadel im Heuhaufen im Handumdrehen finden könnten? Oder auf unseren Kontext übertragen: eine ganz bestimmte Information in einer umfangreichen Nomenklatur wie der CHOP oder der NOGA? Stellen Sie sich dazu eine intelligente, schnelle, präzise und kontextbezogene Suche vor, die Sie direkt zum gesuchten Code oder zur gesuchten Beschreibung führt. Genau das haben wir entwickelt: Eine leistungsstarke Suchfunktion, für Fachleute, Analysten und alle, die mit Klassifikationen und Nomenklaturen arbeiten. 
 Überzeugen Sie sich selbst in im kurzen Video 👇
 
-{{< video src="/handbook/img/news/strukturelle-suche.mp4" width="800" >}}[<img src="/static/handbook/img/news/strukturelle-suche.png">](/static/handbook/img/news/strukturelle-suche.mp4)
+{{< video src="/img/news/strukturelle-suche.mp4" width="800" >}}[<img src="/static/img/news/strukturelle-suche.png">](/static/img/news/strukturelle-suche.mp4)
 
 ## Neuer M2M-Zugang: Metadaten automatisiert mit I14Y synchronisieren
 *12.05.2025*
@@ -310,7 +310,7 @@ Zum Tutorial: JupyterLite [JupyterLite](https://i14y-ch.github.io/tutorials/lab/
 ## Strukturen von Datensätzen auf I14Y beschreiben – was sich ändert
 *12.05.2025*
 
-{{< figure src="/handbook/img/news/structure.png" alt="Grafik Struktur" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/structure.png" alt="Grafik Struktur" width="125px" class="float-left img-news-thumb" >}}
 
 Die heutige flache Struktur der Datensätze auf I14Y wird in den nächsten Wochen schrittweise durch eine hierarchische Struktur ersetzt. Das zukünftige Modell beruht auf Linked Data – mit Klassen, Attributen und Relationen, gespeichert im RDF/TTL-Format.  
 In rund drei Wochen werden im internen Katalog neue, komplexere Datenmodelle im RDF/TTL-Format eingeführt. Bestehende Strukturen bleiben vorläufig sichtbar, können aber nicht mehr bearbeitet werden. In etwa sechs Wochen ersetzen die neuen Strukturen vollständig die alten – inklusive graphischer Darstellung und klarer Verlinkung zu Konzepten. 
@@ -319,7 +319,7 @@ Wichtig: Organisationen die Beschreibungen von Datensätzen mit einer Struktur p
 ## Das BLW startet mit Beschreibung von Landwirtschaftsdaten
 *12.05.2025*
 
-{{< figure src="/handbook/img/news/landwirtschaft.jpg" alt="Grafik Landwirtschaft" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/landwirtschaft.jpg" alt="Grafik Landwirtschaft" width="125px" class="float-left img-news-thumb" >}}
 
 Das Bundesamt für Landwirtschaft (BLW) hat begonnen, seine Datenelementkonzepte und Datensätze auf I14Y zu beschreiben – wir freuen uns sehr über diese Initiative!
 Erfasst wurden unter anderem Konzepte zu Direktzahlungen, Düngern, Futtermitteln, Flächenkategorien, Labels, Stallsystemen und Aquakultur-Betrieben. Ergänzt werden diese durch zwei Datensätze: [Direktzahlungskultur bzw. Hauptkulturen](https://www.i14y.admin.ch/de/catalog/datasets/BLW_DS_DZ_CROP/description) und [Pflanzensorten in der Schweiz](https://www.i14y.admin.ch/de/catalog/datasets/BLW_DS_VARIETIES/description).
@@ -338,7 +338,7 @@ Zur Erinnerung: Verbesserungsvorschläge können jederzeit über [Github](https:
 ## Effizienter Zugang zur I14Y-API mit R
 *02.04.2025*
 
-{{< figure src="/handbook/img/news/r-konsole.png" alt="Grafik R-Konsole" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/r-konsole.png" alt="Grafik R-Konsole" width="125px" class="float-left img-news-thumb" >}}
 
 Ein durchdachtes R-Paket erleichtert den Zugriff auf die API der Interoperabilitätsplattform I14Y. Ein begleitendes Tutorial zeigt zudem, wie Metadaten direkt in der R-Konsole genutzt werden können. Drei Fragen an Félix Luginbuhl, der das R-Paket in Eigenregie entwickelt hat. 
 
@@ -357,7 +357,7 @@ Bei der Entwicklung der Bibliothek hatte ich vor Augen, alles direkt von der R-K
 ## Automatisch statt manuell: Datensatzbeschreibungen effizient auf I14Y laden
 *04.03.2025*
 
-{{< figure src="/handbook/img/news/grafik_api.png" alt="Grafik API" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/grafik_api.png" alt="Grafik API" width="125px" class="float-left img-news-thumb" >}}
 
 Ab sofort können Beschreibungen zu Datensätzen automatisiert auf I14Y hochgeladen werden – dank eines neuen Endpunkts der elektronischen Schnittstelle (API). Mit einem einfachen POST-Request lassen sich Datensatzbeschreibungen erstellen, inklusive Angaben zu allfälligen Distributionen. Der Eintrag kann anschliessend über die Weboberfläche überprüft und freigegeben werden. Alternativ lässt sich der Status per PUT-Request direkt aus einem Skript heraus ändern und publizieren.  
 
@@ -368,14 +368,14 @@ Alle Informationen zur I14Y-API sind unter [apiconsole.i14y.admin.ch](https://ap
 ## Ein Code für alle Fälle: Medizinische Daten strukturiert erfassen
 *04.03.2025*
 
-{{< figure src="/handbook/img/news/medical.jpg" alt="Grafik digitalisierte Medizin" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/medical.jpg" alt="Grafik digitalisierte Medizin" width="125px" class="float-left img-news-thumb" >}}
 
 In allen Schweizer Spitälern müssen Diagnose- und Behandlungsdaten einheitlich erfasst werden. Dafür kommen die Klassifikationen ICD-10 (Diagnosen) und CHOP (Untersuchungen & Behandlungen) zum Einsatz. Die aktuellsten Versionen sind auf I14Y beschrieben, und die Codelisten können als JSON und CSV – sowie per API – exportiert werden. Direkte Links: [ICD-10](https://www.i14y.admin.ch/de/catalog/concepts/08dd2e54-00fb-efc5-b7cd-14f5c7d2272d) und [CHOP](https://www.i14y.admin.ch/de/catalog/concepts/08dd2e3a-d99e-d56f-9c1c-5a7c5733f1a6).
 
 ## Gelebte Datengouvernanz
 *04.03.2025*
 
-{{< figure src="/handbook/img/news/lds_meetup.jpg" alt="Foto Treffen der Local Data Stewards" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/lds_meetup.jpg" alt="Foto Treffen der Local Data Stewards" width="125px" class="float-left img-news-thumb" >}}
 
 Einige Verwaltungseinheiten nutzen ausschliesslich die Interoperabilitätsplattform I14Y, während andere auf eine spezialisierte Katalogsoftware setzen, die dereinst mit I14Y verbunden werden soll: An einem vom I14Y-Team organisierten Treffen tauschten sich Local Data Stewards aus verschiedenen Bundesämtern und Kantonen über ihre Vorgehensweisen bei der Inventarisierung und Harmonisierung ihrer Datensätze aus. Sie diskutierten, wie Datenharmonisierung vorangetrieben werden kann, wie Datengouvernanz bei ihnen gelebt wird. Und sie gaben einander praktische Tipps zur Nutzung von I14Y. Wir von der Interoperabilitätsstelle bedanken uns für den regen und erkenntnisreichen Austausch – und freuen uns schon auf das nächste Treffen im Frühsommer. 
 
@@ -384,7 +384,7 @@ Einige Verwaltungseinheiten nutzen ausschliesslich die Interoperabilitätsplattf
 
 2024 neigt sich dem Ende zu und wir blicken auf ein produktives Jahr zurück. So konnten wir einige ambitionierte Projekte erfolgreich umsetzen – zum Beispiel die Schaffung eines Input-Bereiches auf I14Y für manuell erfasste OGD-Metadaten. Dank diesem können die Daten mit einem Klick auf den Plattformen [opendata.swiss](https://opendata.swiss) und [I14Y.ch](https://i14y.admin.ch) veröffentlicht werden.
 
-Im November haben wir die Benutzungsoberfläche von I14Y moderner und die Bedienung intuitiver gestaltet. Die bisher technisch bedingte Trennung zwischen «Katalog» und «Konzepte» wurde auf der Website aufgehoben. Die neue globale Suche ermöglicht die Suche in allen Metadaten – unabhängig von ihrem Typ. Die Ergebnisse werden übersichtlich in Registern (Datensätze, Behördenleistungen, APIs, Konzepte) dargestellt. Auch die Treffer der Metadatenportale Opendata und Geocat werden angezeigt. Zudem stellen wir mit dem November-Release Partnerorganisationen einen Endpunkt auf dem API-Gateway zur Verfügung, über den sie Beschreibungen von Datensätzen veröffentlichen können. Alle Neuerungen werden seit diesem Jahr im [Changelog](https://i14y-ch.github.io/handbook/de/changelog/) des Handbuchs dokumentiert.
+Im November haben wir die Benutzungsoberfläche von I14Y moderner und die Bedienung intuitiver gestaltet. Die bisher technisch bedingte Trennung zwischen «Katalog» und «Konzepte» wurde auf der Website aufgehoben. Die neue globale Suche ermöglicht die Suche in allen Metadaten – unabhängig von ihrem Typ. Die Ergebnisse werden übersichtlich in Registern (Datensätze, Behördenleistungen, APIs, Konzepte) dargestellt. Auch die Treffer der Metadatenportale Opendata und Geocat werden angezeigt. Zudem stellen wir mit dem November-Release Partnerorganisationen einen Endpunkt auf dem API-Gateway zur Verfügung, über den sie Beschreibungen von Datensätzen veröffentlichen können. Alle Neuerungen werden seit diesem Jahr im [Changelog](https://i14y-ch.github.io/de/changelog/) des Handbuchs dokumentiert.
 
 Das I14Y-Team arbeitet mit grossem Engagement an der kontinuierlichen Weiterentwicklung der Plattform und steht dabei in engem Austausch mit seinen Nutzerinnen und Nutzern. An Hackathons, bei informellen Treffen mit den Local Data Stewards oder im Projekt Basel+ werden die spezifischen Bedürfnisse unserer Nutzerinnen aufgenommen. Neue Anforderungen werden im neu geschaffenen Steuerungsausschuss diskutiert und priorisiert. Die Entwicklung von I14Y wird zurzeit massgeblich durch die Anforderungen des Bundesgesetzes über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben ([EMBAG](https://www.fedlex.admin.ch/eli/cc/2023/682/de)) gesteuert. Daraus ergeben sich aber Lösungen und Verbesserungen, von denen alle Nutzer und Nutzerinnen profitieren.
 
@@ -393,9 +393,9 @@ All diese Meilensteine konnten dank der Verstärkung unseres Teams erreicht werd
 ## Die Entwicklungsrichtung von I14Y transparent gemacht
 *11.12.2024*
 
-{{< figure src="/handbook/img/news/roadmap.png" alt="Symbolbild Roadmap" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/roadmap.png" alt="Symbolbild Roadmap" width="125px" class="float-left img-news-thumb" >}}
 
-An welchen Neuerungen die Softwareentwicklerin und die Entwickler arbeiten, kann ab sofort auf der öffentlich publizierten [Roadmap](https://i14y-ch.github.io/handbook/de/plattform/roadmap/) verfolgt werden. Sie wird quartalsweise aktualisiert, wobei der unmittelbar bevorstehende Zeitraum besonders detailliert dargestellt wird. Wir arbeiten agil. Die Roadmap kann sich ändern. Es lohnt sich also, regelmässig vorbeizuschauen.
+An welchen Neuerungen die Softwareentwicklerin und die Entwickler arbeiten, kann ab sofort auf der öffentlich publizierten [Roadmap](https://i14y-ch.github.io/de/plattform/roadmap/) verfolgt werden. Sie wird quartalsweise aktualisiert, wobei der unmittelbar bevorstehende Zeitraum besonders detailliert dargestellt wird. Wir arbeiten agil. Die Roadmap kann sich ändern. Es lohnt sich also, regelmässig vorbeizuschauen.
 
 ## Die I14Y mitgestalten
 *11.12.2024*
@@ -405,7 +405,7 @@ Vorschläge für neue Funktionen können neu im Repository [Feature Request](htt
 ## Neue öffentliche API-Konsolen für die I14Y-API
 *11.12.2024*
 
-{{< figure src="/handbook/img/news/api.png" alt="Symbolbild API" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/api.png" alt="Symbolbild API" width="125px" class="float-left img-news-thumb" >}}
 
 I14Y bietet neu zwei OpenAPI-Konsolen (Swagger) an, die den Nutzerinnen und Nutzern den Zugang zur I14Y-API erleichtern. Die Konsolen sind dauerhaft verfügbar und dokumentieren die API-Funktionen übersichtlich.
 
@@ -417,7 +417,7 @@ Die Konsolen werden kontinuierlich erweitert. Neue Endpunkte werden hinzugefügt
 ### Neu im Team
 *11.12.2024*
 
-{{< figure src="/handbook/img/news/lien.jpg" alt="Porträt Lien Beroggi" width="125px" class="float-left img-news-thumb" caption="Quelle: BFS" >}}
+{{< figure src="/img/news/lien.jpg" alt="Porträt Lien Beroggi" width="125px" class="float-left img-news-thumb" caption="Quelle: BFS" >}}
 
 Lien Beroggi unterstützt uns ein Jahr lang mit ihrem frisch erworbenen Universitätswissen. Ihre Arbeit dreht sich rund um die Themen Semantic Web, RDF und Linked Data. Drei Fragen an unsere Hochschulpraktikantin.
 
@@ -433,7 +433,7 @@ In den kommenden Monaten möchte ich mein Wissen über Linked Data und Interoper
 ## Visualisierung der Mehrfachnutzung von Konzepten
 *21.06.2024*
 
-{{< figure src="/handbook/img/news/konzepte.png" alt="Symbolbild Datenkonzepte" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/konzepte.png" alt="Symbolbild Datenkonzepte" width="250px" class="float-left img-news-thumb" >}}
 
 Datensätze werden auf der I14Y detailliert beschrieben: Neben dem Titel und der herausgebenden Organisation, können auch Informationen zur Struktur erfasst werden. Eine Struktur besteht in der Regel aus mehreren Datenelementen. Und jedes Datenelement basiert auf einem Konzept – zuweilen auch (definierte) Variable oder Attribut genannt.
 
@@ -441,20 +441,20 @@ Ein Konzept auf der I14Y beschreibt klar und eindeutig die grundlegende Bedeutun
 
 Auf der I14Y ist es neu möglich, auf einen Blick zu erkennen, wie oft ein bestimmtes Konzept in verschiedenen Datenelementen wiederverwendet wird. Wenn die Datenelemente Teil eines öffentlichen Datensatzes sind, wird diese genannt und verlinkt. Beispielsweise wird das [Konzept der Schweizer Kantone](https://www.i14y.admin.ch/de/concepts/08d94b89-bf4d-a423-8add-dde94d0cd1f4/description) derzeit in 122 Datenelementen verwendet. Beim Konzept der Schweizer Kantone handelt es sich um eine Codeliste.    
 
-Mehr Informationen zu Datenelementen und Konzepten finden sich im Handbuch der I14Y: [Informationsmodell](https://i14y-ch.github.io/handbook/de/gouvernanz/informationsmodell/#datenelement).
+Mehr Informationen zu Datenelementen und Konzepten finden sich im Handbuch der I14Y: [Informationsmodell](https://i14y-ch.github.io/de/gouvernanz/informationsmodell/#datenelement).
 
 
 ## Ein API-Gateway für die sichere Verwaltung von Metadaten 
 *21.06.2024*
 
-{{< figure src="/handbook/img/news/api.png" alt="Symbolbild API" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/api.png" alt="Symbolbild API" width="125px" class="float-left img-news-thumb" >}}
 
 Die Entwicklung unseres API-Gateways ist nahezu fertig. Auf dem [API-Gateway](https://input.i14y.admin.ch/console/partner/v1/index.html) werden die elektronischen Schnittstellen der I14Y zur Verfügung gestellt, die über längere Zeit stabil bleiben werden. Das Angebot an Endpunkten wird in den nächsten Monaten stark ausgebaut. Der Gateway kann genutzt werden, um Metadaten zu beziehen, zu editieren oder auch zu veröffentlichen. Eine Authentifizierungsfunktion stellt sicher, dass nur berechtigte Benutzerinnen und Benutzer auf die Metadaten zugreifen und diese anpassen können. Mit dem API-Gateway soll in Zukunft auf Wunsch auch ein automatisierter Zugriff auf organisationsinterne Bereiche von Maschine zu Maschine ermöglicht werden. 
 
 ## Umfragen noch einfacher erstellen
 *21.06.2024*
 
-{{< figure src="/handbook/img/news/symbolbild_hackathon_2024.jpg" alt="Code-Editor mit Programmcode" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/symbolbild_hackathon_2024.jpg" alt="Code-Editor mit Programmcode" width="250px" class="float-left img-news-thumb" >}}
 
 Wer eine Online-Befragung durchführen möchte, benötigt ein entsprechendes Tool wie zum Beispiel [Limesurvey](https://community.limesurvey.org/). Mit der frei verfügbaren, webbasierten Software lassen sich auch komplizierte Umfragen zusammenstellen. Selbstverständlich ist es möglich, bei den einzelnen Fragen Auswahlmöglichkeiten zu hinterlegen. Soll eine lange Liste eingepflegt werden, ist aber oftmals viel Handarbeit nötig. 
 
@@ -465,7 +465,7 @@ Der Prototyp des Plugins ist im [Github-Bereich der Interoperabilitätsstelle](h
 ## Die Interoperabilitätsstelle hat einen neuen Chef
 *21.06.2024*
 
-{{< figure src="/handbook/img/news/i14y_fabrice_gouzi.png" alt="Porträt Fabrice Gouzi" width="125px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/i14y_fabrice_gouzi.png" alt="Porträt Fabrice Gouzi" width="125px" class="float-left img-news-thumb" >}}
 
 Fabrice Gouzi, diplomierter Wirtschaftsinformatiker mit einem Executive Master of Business Administration, ist seit Beginn der Entwicklung der I14Y dabei. Am 1. April 2024 hat er die Leitung der Interoperabilitätsstelle übernommen. Drei Fragen.
 
@@ -483,7 +483,7 @@ Es ist wichtig, dass die Konzepte der Datenelemente einfach beschrieben werden k
 ## Neue Eingabefelder für den Datenschutz
 *20.02.2024*
 
-{{< figure src="/handbook/img/news/datenschutz.jpg" alt="Symbolbild Datenschutz" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/datenschutz.jpg" alt="Symbolbild Datenschutz" width="250px" class="float-left img-news-thumb" >}}
 
 Enthält ein auf der I14Y-Plattform beschriebener Datensatz personenbezogene Daten? Und falls ja: Beinhalten die eigentlichen Fachdaten schützenswerte Informationen – etwa über die politische Einstellung, den Gesundheitszustand oder die religiöse Orientierung einer Person? Auf I14Y kann dies neu im Feld «Vertraulichkeit» dokumentiert werden. 
 
@@ -504,7 +504,7 @@ Die I14Y-Plattform entwickelt sich zum nationalen Metadatenkatalog der Schweiz. 
 ## Changelog – Releasenotes
 *20.02.2024*
 
-I14Y wird kontinuierlich weiterentwickelt. Mit jedem Release kommen neue Funktionen hinzu und werden Fehler behoben. Die wichtigsten Änderungen, Verbesserungen sowie Bugfixes werden neu im [Changelog im I14Y-Handbuch](https://i14y-ch.github.io/handbook/de/changelog/) beschrieben.	 	 
+I14Y wird kontinuierlich weiterentwickelt. Mit jedem Release kommen neue Funktionen hinzu und werden Fehler behoben. Die wichtigsten Änderungen, Verbesserungen sowie Bugfixes werden neu im [Changelog im I14Y-Handbuch](https://i14y-ch.github.io/de/changelog/) beschrieben.	 	 
 
 ## Das I14Y-Team nimmt am GovTech Hackathon teil
 *20.02.2024*
@@ -516,7 +516,7 @@ Der [GovTech Hackathon](https://opendata.ch/events/govtech-hackathon-2024) geht 
 ## Sicherer Zugang für alle – mit einem Klick
 *06.12.2023*
 
-{{< figure src="/handbook/img/news/kachel_bern.png" alt="eIAM-Kachel für den Kanton Bern" width="250px" class="float-left img-padding-right" >}}
+{{< figure src="/img/news/kachel_bern.png" alt="eIAM-Kachel für den Kanton Bern" width="250px" class="float-left img-padding-right" >}}
 
 Der Kanton Bern möchte I14Y nutzen, um ein internes Dateninventar zu pflegen und innerhalb des Kantons Codelisten auszutauschen. Voraussetzung ist, dass alle Kantonsangestellten auf einfache Weise auf den kantonsinternen Bereich der Plattform zugreifen können. Zudem darf dem Kanton kein grosser administrativer Mehraufwand entstehen: Neue Mitarbeiterinnen und Mitarbeiter sollen automatisiert erfasst und die Konten von austretenden Personen gelöscht werden.
 
@@ -527,14 +527,14 @@ Diese Lösung könnte auch von anderen Kantonen genutzt werden, die ihren Verwal
 ## Wir lieben Konzepte
 *06.12.2023*
 
-{{< figure src="/handbook/img/news/konzepte.png" alt="I14Y-Symbol für Konzepte" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/konzepte.png" alt="I14Y-Symbol für Konzepte" width="250px" class="float-left img-news-thumb" >}}
 
 Ein Konzept auf I14Y beschreibt ein Datenelement eindeutig und vollständig. Es kann in Form einer Zahl, einer Zeichenkette oder um eine Codeliste mit vordefinierten Werten vorliegen. Seit diesem Frühling können unsere Nutzerinnen und Nutzer Konzepte auf I14Y erfassen. Diese Möglichkeit wird zunehmend genutzt. Inzwischen wurden etwa 170 harmonisierte Konzepte veröffentlicht -- meist in Form von Codelisten. Die Zeiten, in denen jede Organisation ihre eigenen Codelisten pflegen musste, neigen sich dem Ende zu. Fortan lassen sich die von der zuständigen Stelle gepflegten Codelisten einfach über eine elektronische Schnittstelle beziehen.
 
 ## Grosse Ehre für I14Y
 *06.12.2023*
 
-{{< figure src="/handbook/img/news/egov-pokale.jpg" alt="Pokale des eGovernment-Wettbewerbs" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/egov-pokale.jpg" alt="Pokale des eGovernment-Wettbewerbs" width="250px" class="float-left img-news-thumb" >}}
 
 I14Y des BFS hat im Finale des internationalen 22. eGovernment-Wettbewerbs in der Kategorie [Bestes Digitalisierungsprojekt](https://www.egovernment-wettbewerb.de/gewinner/gewinner-2023.html) den 2. Platz gewonnen. Rund 80 Projekte zur Modernisierung und Digitalisierung der Verwaltung hatten Behörden und öffentliche Organisationen aus Deutschland, Österreich und der Schweiz 2023 eingereicht. Mathias Born und Max Zurkinden von der Interoperabilitätsstelle haben die Auszeichnung in Berlin entgegengenommen; das ganze I14Y-Team freut sich sehr über die Auszeichnung.
 
@@ -548,21 +548,21 @@ Wie funktionieren das Once-Only-Prinzip und die Interoperabilitätsplattform I14
 ## Das Handbuch zur Plattform ist online 
 *07.08.2023*
 
-{{< figure src="/handbook/img/news/handbuch.png" alt="I14Y-Symbol Handbuch" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/handbuch.png" alt="I14Y-Symbol Handbuch" width="250px" class="float-left img-news-thumb" >}}
 
 Wie kam die Interoperabiliätsplattform zu ihrem kryptischen Namen? Wer kann auf welche Metadaten zugreifen? Und wie muss ein bestimmtes Feld befüllt werden? Antworten auf Fragen wie diese finden Sie im neu publizierten I14Y-Handbuch. In einem ersten Teil der Online-Publikation wird erklärt, wie die Plattform dazu beiträgt, die administrativen Daten zu harmonisieren. In einem zweiten Teil sind die einzelnen Arbeitsabläufe Schritt für Schritt dokumentiert. Das Handbuch steht unter [handbook.i14y.admin.ch](https://handbook.i14y.admin.ch) zur Verfügung. Es wird laufend ergänzt. Gerne können auch Sie Textpassagen beisteuern. Wie das genau funktioniert, steht im Handbuch. 
 
 ## Neu auf I14Y: Konzepte
 *07.08.2023*
 
-{{< figure src="/handbook/img/news/konzepte.png" alt="I14Y-Symbol Konzepte" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/konzepte.png" alt="I14Y-Symbol Konzepte" width="250px" class="float-left img-news-thumb" >}}
 
 Auf I14Y gibt es eine neue Kachel: [I14Y-Konzepte](https://www.i14y.admin.ch/de/concepts). In diesem Bereich stehen Ihnen beispielsweise Codelisten zur Verfügung -- inklusive einer detaillierten Beschreibung. Das Konzept beschreibt die in einem Datenelement enthaltenen Informationen eindeutig und vollständig. Es kann sich dabei um eine Zahl, eine Zeichenkette, ein Datum oder eine Codeliste handeln. Dank der Suchfunktion lässt sich das rasch wachsende Angebot an Konzepten einfach durchsuchen. Verwenden Sie in Ihren Datensätzen – wenn immer möglich – bestehende Konzepte.
 
 ## I14Y-Chatbot
 *07.08.2023*
 
-{{< figure src="/handbook/img/news/chatbot.png" alt="I14Y-Symbol für den Chatbot" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/chatbot.png" alt="I14Y-Symbol für den Chatbot" width="250px" class="float-left img-news-thumb" >}}
 
 Unser [I14Y-Chatbot](https://www.i14y.admin.ch/de/labs/chatbot) beantwortet Fragen zur Datenharmonisierung im Allgemeinen sowie zur Interoperabilitätsplattform im Speziellen. Die generative künstliche Intelligenz benutzt als Hauptquelle das I14Y-Handbuch. In Zukunft wird der Chatbot auch einfache Fragen zu den auf I14Y publizierten Metadaten beantworten können. Obwohl der Chatbot vorerst mit deutschsprachigen Inhalten trainiert worden ist, kann er auch in anderen Sprachen Auskunft geben.
 
@@ -576,7 +576,7 @@ Dieses Jahr stehen 18 Behördenteams mit ihren Projekten zur Digitalisierung und
 ## Dank eIAM einfacher Zugriff auf die Interoperabilitätsplattform I14Y
 *16.02.2023*
 
-{{< figure src="/handbook/img/news/02_eiam.jpg" alt="I14Y-Symbol Konzepte" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/02_eiam.jpg" alt="I14Y-Symbol Konzepte" width="250px" class="float-left img-news-thumb" >}}
 
 Dank eIAM ist die Interoperabilitätsplattform I14Y nun für die Nutzerinnen und Nutzer aus Gemeinden, Kantonen, Institutionen und der Bundesverwaltung noch besser zugänglich. Einmal eingeloggt können sie auf der Administrationsoberfläche das Datenangebot ihrer Organisation einpflegen und bearbeiten.
 eIAM ist das zentrale Zugriffs- und Berechtigungssystem der Bundesverwaltung für Webapplikationen und native Mobile Apps. Alle Nutzerinnen und Nutzer, die über ein eIAM-Konto oder ein CH-Login verfügen, können sich nun ganz einfach auf I14Y einloggen. Dank dieser Anbindung werden Kosten gespart und die Sicherheit erhöht. Nutzerinnen und Nutzer aus der Bundesverwaltung können sich weiterhin mit ihrer Smartcard anmelden.
@@ -584,14 +584,14 @@ eIAM ist das zentrale Zugriffs- und Berechtigungssystem der Bundesverwaltung fü
 ## Neu auf I14Y: Gebäude- und Wohnungsstammdaten 
 *16.02.2023*
 
-{{< figure src="/handbook/img/news/03_ewg.png" alt="I14Y-Symbol Konzepte" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/03_ewg.png" alt="I14Y-Symbol Konzepte" width="250px" class="float-left img-news-thumb" >}}
 
 Die Stammdaten zu den Gebäuden und Wohnungen sind im I14Y-Metadatenkatalog beschrieben und stehen zur Wiederverwendung bereit. Die detaillierten Beschreibungen zur Datenstruktur vervollständigen die umfassende Liste der im Register verfügbaren Daten, tragen zu deren Transparenz bei und fördern die Wiederverwendung offizieller Standards. Die bei der Bereitstellung der Daten (MADD) im Register verwendete API ist im API-Verzeichnis  verfügbar. Möchten auch Sie Ihre Metadaten oder APIs auf der Interoperabilitätsplattform I14Y publizieren? Dann kontaktieren Sie uns i14y@bfs.admin.ch.
 
 ## Das BFS nimmt am GovTech Hackathon teil  
 *16.02.2023*
 
-{{< figure src="/handbook/img/news/01-i14y.png" alt="I14Y-Symbol Konzepte" width="250px" class="float-left img-news-thumb" >}}
+{{< figure src="/img/news/01-i14y.png" alt="I14Y-Symbol Konzepte" width="250px" class="float-left img-news-thumb" >}}
 
 Der Bereich DTI der Bundeskanzlei führt am 23. und 24. März 2023 einen GovTech Hackathon in Zollikofen durch. Entwicklerinnen und Entwickler, Expertinnen und Experten sowie Interessierte aus Verwaltung, Wirtschaft und Zivilgesellschaft arbeiten zusammen an konkreten Problemen (Challenges) mit dem Ziel, digitale Behördenleistungen einfach nutzbar, interoperabel und nachhaltig zu gestalten. Das I14Y-Team ist natürlich dabei. 
 	 

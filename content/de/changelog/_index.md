@@ -20,13 +20,13 @@ Die Interoperabilitätsplattform I14Y wird kontinuierlich weiterentwickelt. Mit 
 
 **Verbesserungen der Benutzerfreundlichkeit:** Die Darstellung von Links zu externen Ressourcen wurde verbessert: Dank eines Symbols sind sie nun auf den ersten Blick als solche erkennbar.
 
-**Anpassung der Links zum Handbuch und zum GitHub-Bereich:** Im Zuge des Projekts metadata.swiss wurde der GitHub-Bereich von `i14y-ch` in `metadata-swiss` umbenannt (siehe [News-Beitrag](/handbook/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss)). Mit diesem Release werden die Links von der I14Y-Website zu GitHub sowie zum dort betriebenen I14Y-Handbuch angepasst.
+**Anpassung der Links zum Handbuch und zum GitHub-Bereich:** Im Zuge des Projekts metadata.swiss wurde der GitHub-Bereich von `i14y-ch` in `metadata-swiss` umbenannt (siehe [News-Beitrag](/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss)). Mit diesem Release werden die Links von der I14Y-Website zu GitHub sowie zum dort betriebenen I14Y-Handbuch angepasst.
 
 **Fehlerkorrekturen:** Wenn für eine Organisation kein Name in der vom Nutzer oder der Nutzerin gewählten Sprache vorliegt, wird stattdessen der Name in einer anderen Sprache angezeigt. Dieser Fallback stellt sicher, dass stets ein Name dargestellt wird. Ausserdem wurde ein Fehler bei URLs von Distributionen im RDF-Export korrigiert. 
 
 ## Anpassung des GitHub-Repos
 
-Der GitHub-Bereich von I14Y wird im Rahmen des Projekts metadata.swiss zu metadata-swiss umbenannt. Bestehende Adressen werden weitergeleitet; wir empfehlen, Verweise und lokale Git-Repositorys schrittweise anzupassen. Weitere Informationen finden Sie im [News-Beitrag zum neuen GitHub-Bereich](/handbook/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss).
+Der GitHub-Bereich von I14Y wird im Rahmen des Projekts metadata.swiss zu metadata-swiss umbenannt. Bestehende Adressen werden weitergeleitet; wir empfehlen, Verweise und lokale Git-Repositorys schrittweise anzupassen. Weitere Informationen finden Sie im [News-Beitrag zum neuen GitHub-Bereich](/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss).
 
 ## Release vom 12. August 2026
 
@@ -56,7 +56,7 @@ Der GitHub-Bereich von I14Y wird im Rahmen des Projekts metadata.swiss zu metada
 
 **Erweiterung des RDF-Exports:** Der RDF-Export, der insbesondere für das Harvesting eines Datenkatalogs durch opendata.swiss genutzt wird, enthält im Bereich der Distributionen neu das Attribut `coverage`.
 
-**Anpassung bei der API:** In der elektronischen Schnittstelle (API) wurde im Bereich der Konzepte und der Behördenleistungen bisher das Feld `identifier` verwendet, das eine Zeichenkette enthielt. Dieses Feld wird in diesem Release vollständig durch `identifiers` ersetzt, das eine Liste von Zeichenketten enthält. Bestehende Integrationen zum Lesen oder Schreiben von Konzepten oder Behördenleistungen müssen zwingend angepasst werden. Lesen Sie dazu den entsprechenden [News-Beitrag](/handbook/de/news/#breaking-change-auf-der-i14y-api).
+**Anpassung bei der API:** In der elektronischen Schnittstelle (API) wurde im Bereich der Konzepte und der Behördenleistungen bisher das Feld `identifier` verwendet, das eine Zeichenkette enthielt. Dieses Feld wird in diesem Release vollständig durch `identifiers` ersetzt, das eine Liste von Zeichenketten enthält. Bestehende Integrationen zum Lesen oder Schreiben von Konzepten oder Behördenleistungen müssen zwingend angepasst werden. Lesen Sie dazu den entsprechenden [News-Beitrag](/de/news/#breaking-change-auf-der-i14y-api).
 
 **Bugfixes:** Fehlerhafte Resultate im Bereich «My Data» im internen Bereich der Plattform wurden korrigiert. Ausserdem wurden ein Layoutproblem auf der Seite der Codelisten-Einträge sowie mehrere Tippfehler in der Benutzeroberfläche behoben.
 
@@ -245,7 +245,7 @@ Weitere Neuerungen:
 - Die [I14Y-API](https://apiconsole.i14y.admin.ch/) bietet neue Endpunkte an im Bereich der Datensatz-Beschreibungen. Die Metadaten zu Datensätzen können gelesen werden (GET). Neue Beschreibungen lassen sich erfassen (POST). Bestehende können editiert und publiziert (PUT) oder bei Bedarf gelöscht werden (DELETE).  
 - Bei der Erfassung einer Behördenleistung kann neu ausgewählt werden, für welches Gebiet die Leistung angeboten wird. Im Auswahlfeld sind nebst der Gesamtschweiz alle Kantone, Bezirke und Gemeinden hinterlegt. Diese Information wird auch im Export über die API mitgeliefert. Grundlage ist die Codeliste [Kantone, Bezirke und Gemeinden](https://www.i14y.admin.ch/de/catalog/concepts/08dc23f0-d04d-2d2f-a9f5-9cea80695acf/description).
 - Beim Erstellen eines internen Arbeitsbereichs für ein Amt oder für eine andere Organisation kann die Interoperabilitätsstelle neu die Organisationsnummer aus dem Unternehmensregister, eine Angabe zur Rechtsform (siehe Codeliste [Rechtsform eines Unternehmens](https://www.i14y.admin.ch/de/catalog/concepts/08dad8ff-f18a-560b-bfa6-20767f2afb17/description)) sowie Informationen zur föderalen Ebene der Organisation hinterlegen. Die Informationen zum Gebiet, in dem eine Organisation tätig ist, werden beim Bezug einer Behördenleistung über die API mitgeliefert.
-- Die Startseite sowie die Überblicksseite im internen Bereich wurden inhaltlich leicht überarbeitet: Die Einleitungstexte wurden angepasst. Und in der Fusszeile wurde ein Link zur API-Konsole von I14Y hinzugefügt. Das Video zur Datenharmonisierung, das bislang auf der Startseite platziert war, wurde entfernt; es ist weiterhin im [News-Bereich](https://i14y-ch.github.io/handbook/de/news/) sowie auf [Youtube](https://www.youtube.com/watch?v=U0CpW1bNIdU) zu finden.  
+- Die Startseite sowie die Überblicksseite im internen Bereich wurden inhaltlich leicht überarbeitet: Die Einleitungstexte wurden angepasst. Und in der Fusszeile wurde ein Link zur API-Konsole von I14Y hinzugefügt. Das Video zur Datenharmonisierung, das bislang auf der Startseite platziert war, wurde entfernt; es ist weiterhin im [News-Bereich](https://i14y-ch.github.io/de/news/) sowie auf [Youtube](https://www.youtube.com/watch?v=U0CpW1bNIdU) zu finden.  
 - Ein Fehler des Feldes Herausgeber wurde korrigiert: Bislang musste die Herausgeber-Organisation oftmals neu ausgewählt werden, sobald ein Eintrag bearbeitet worden war. Dies ist nun nicht mehr nötig. 
 - Ein Fehler des Feldes Dateneigner wurde korrigiert: Bislang konnte ein früher gespeicherter Name im Editiermodus nicht gelöscht werden. Dies ist nun wieder möglich. 
 - Weitere Fehlerkorrekturen

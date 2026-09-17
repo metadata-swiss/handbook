@@ -19,6 +19,6 @@ Veuillez noter que la date de mise en production peut être repoussée à court 
 
 **Améliorations de la convivialité :** L'affichage des liens vers des ressources externes a été amélioré : grâce à une icône, ils sont reconnaissables au premier coup d'œil.
 
-**Adaptation des liens vers le manuel et GitHub :** Dans le cadre du projet metadata.swiss, l'organisation GitHub `i14y-ch` a été renommée `metadata-swiss` (voir l'[article d'actualité](/handbook/fr/news/)). Avec cette version, les liens du site web d'I14Y vers GitHub et vers le manuel I14Y qui y est hébergé sont donc adaptés.
+**Adaptation des liens vers le manuel et GitHub :** Dans le cadre du projet metadata.swiss, l'organisation GitHub `i14y-ch` a été renommée `metadata-swiss` (voir l'[article d'actualité](/fr/news/)). Avec cette version, les liens du site web d'I14Y vers GitHub et vers le manuel I14Y qui y est hébergé sont donc adaptés.
 
 **Corrections de bugs :** Lorsqu'une organisation ne dispose pas de nom dans la langue choisie par l'utilisateur ou l'utilisatrice, son nom dans une autre langue est affiché à la place. Ce mécanisme de secours garantit qu'un nom est toujours affiché. Un bug concernant les URL des distributions dans l'export RDF a également été corrigé.

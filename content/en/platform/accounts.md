@@ -9,7 +9,7 @@ keywords: [I14Y, I14Y interoperability platform, user account, account, connecti
 
 Anyone who wants to enter data on I14Y needs a user account. The same applies to those who want to view information of their own organisation that has not (yet) been published publicly. Access is controlled with the _Enterprise Identity and Access Management (EIAM)_. This service is operated by the Federal Office of Information Technology for the Confederation.
 
-To access the internal area of I14Y, an account with a provider of a digital identification solution is required. The Federal Administration's employees can use their [Fedlogin](https://www.eiam.swiss). In addition, there are other options to choose from, such as the CH login, the electronic identities of Switch or those of cantons such as Berne, Schaffhausen, Zug and Geneva. Further details can be found in the [Table of identification options](/handbook/en/anhang/eiam) in the appendix.
+To access the internal area of I14Y, an account with a provider of a digital identification solution is required. The Federal Administration's employees can use their [Fedlogin](https://www.eiam.swiss). In addition, there are other options to choose from, such as the CH login, the electronic identities of Switch or those of cantons such as Berne, Schaffhausen, Zug and Geneva. Further details can be found in the [Table of identification options](/en/anhang/eiam) in the appendix.
 
 Proceed as follows:
 

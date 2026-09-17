@@ -32,8 +32,8 @@ Betrieben und entwickelt wird die Interoperabilitätsplattform I14Y vom Kompeten
 
 {{<alert title="Flugblatt mit den wichtigsten Fakten" color="success" >}}
 
-Die wichtigsten Fakten zur I14Y sind auf einem doppelseitigen Flugblatt zusammengefasst ([DE](/handbook/files/Factsheet_I14Y_de.pdf), [FR](/handbook/files/Factsheet_I14Y_fr.pdf), [IT](/handbook/files/Factsheet_I14Y_it.pdf), [EN](/handbook/files/Factsheet_I14Y_en.pdf)). Falls Sie das Flugblatt in gedruckter Form benötigen -- etwa um es an einem Stand an einer Konferenz zu verteilen --, nehmen Sie mit dem Kompetenzzentrum Datenbewirtschaftung Kontakt auf.  
+Die wichtigsten Fakten zur I14Y sind auf einem doppelseitigen Flugblatt zusammengefasst ([DE](/files/Factsheet_I14Y_de.pdf), [FR](/files/Factsheet_I14Y_fr.pdf), [IT](/files/Factsheet_I14Y_it.pdf), [EN](/files/Factsheet_I14Y_en.pdf)). Falls Sie das Flugblatt in gedruckter Form benötigen -- etwa um es an einem Stand an einer Konferenz zu verteilen --, nehmen Sie mit dem Kompetenzzentrum Datenbewirtschaftung Kontakt auf.  
 
 {{</alert>}}
 
-Das Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben ([EMBAG](https://www.fedlex.admin.ch/eli/cc/2023/682/de)) ist die rechtliche Grundlage für die Interoperabilitätsplattform, insbesondere der Artikel 14. Präzisiert wird das Gesetz in der [Digitalisierungsverordnung (DigiV)](https://fedlex.data.admin.ch/eli/cc/2025/235). Mehr Informationen zu den rechtlichen Grundlagen sind im Abschnitt [Rechtliche Grundlagen](/handbook/de/gouvernanz/rechtliche-grundlagen/) dieses Handbuchs zu finden.
+Das Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben ([EMBAG](https://www.fedlex.admin.ch/eli/cc/2023/682/de)) ist die rechtliche Grundlage für die Interoperabilitätsplattform, insbesondere der Artikel 14. Präzisiert wird das Gesetz in der [Digitalisierungsverordnung (DigiV)](https://fedlex.data.admin.ch/eli/cc/2025/235). Mehr Informationen zu den rechtlichen Grundlagen sind im Abschnitt [Rechtliche Grundlagen](/de/gouvernanz/rechtliche-grundlagen/) dieses Handbuchs zu finden.

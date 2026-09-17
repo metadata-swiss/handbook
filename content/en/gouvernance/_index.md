@@ -12,7 +12,7 @@ keywords: [I14Y, I14Y interoperability platform, I14-IOP, roles, role-based mode
 
 Data should be reliably collected and regularly updated. It must be clearly defined who is responsible for the offers and who is responsible for which tasks in the data processing. For this purpose, a role-based model has been developed. Among other things, differentiates between agencies that commission data sets, those that process data and those that use data.
 
-The first chapter describes the [role-based model](/handbook/de/gouvernanz/rollen) in detail. The second covers the precise [work processes](/handbook/de/gouvernanz/arbeitsablauf). This is followed by detailed information on the [information models](/handbook/de/gouvernanz/informationsmodell) and the administration of the [access accounts](/handbook/de/plattform/kontenverwaltung). Finally, it explains what distinguishes the I14Y interoperability platform from [other metadata platforms.](/handbook/de/gouvernanz/plattformen)
+The first chapter describes the [role-based model](/de/gouvernanz/rollen) in detail. The second covers the precise [work processes](/de/gouvernanz/arbeitsablauf). This is followed by detailed information on the [information models](/de/gouvernanz/informationsmodell) and the administration of the [access accounts](/de/plattform/kontenverwaltung). Finally, it explains what distinguishes the I14Y interoperability platform from [other metadata platforms.](/de/gouvernanz/plattformen)
 
 {{<alert title=" Is the data on I14Y secure?" color="info">}}
 Only metadata are stored on I14Y. The actual data remain with the agency that manages the data set. This agency is responsible for the security of the data.

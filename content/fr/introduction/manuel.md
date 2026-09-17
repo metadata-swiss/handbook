@@ -10,10 +10,10 @@ type: docs
 
 Le présent manuel décrit les principales fonctions de la plateforme d’interopérabilité I14Y. Vous y trouverez des instructions pas à pas, ainsi que des données techniques et des informations de fond relatives à l’harmonisation et à la standardisation des données.
 
-Le premier chapitre décrit les rôles et les processus](/handbook/fr/rollen_prozesse) en lien avec l’administration des données. Le chapitre [Recherche de métadonnées](/handbook/de/metadaten_abrufen) indique comment rechercher des informations sur la plateforme. Le chapitre [Publication de métadonnées](/handbook/de/publikation) explique comment les descriptions des jeux de données, des interfaces électroniques et des éléments de données sont publiées sur la plateforme, et comment compléter le répertoire des prestations administratives. 
+Le premier chapitre décrit les rôles et les processus](/fr/rollen_prozesse) en lien avec l’administration des données. Le chapitre [Recherche de métadonnées](/de/metadaten_abrufen) indique comment rechercher des informations sur la plateforme. Le chapitre [Publication de métadonnées](/de/publikation) explique comment les descriptions des jeux de données, des interfaces électroniques et des éléments de données sont publiées sur la plateforme, et comment compléter le répertoire des prestations administratives. 
 
 <!--Später ergänzen: Le manuel intègre également quelques tutoriels vidéo. --> 
-Le manuel comprend par ailleurs un [glossaire](/handbook/de/glossar), une [liste de liens](/handbook/de/anhang/weblinks), une vue d’ensemble des [organisations partenaires](/handbook/de/partner) et un [journal (log)(/handbook/de/anhang/changelog) indiquant les principaux changements apportés à la plateforme.
+Le manuel comprend par ailleurs un [glossaire](/de/glossar), une [liste de liens](/de/anhang/weblinks), une vue d’ensemble des [organisations partenaires](/de/partner) et un [journal (log)(/de/anhang/changelog) indiquant les principaux changements apportés à la plateforme.
 
 Les fonctionnalités de la plateforme d’interopérabilité I14Y continuant d’être perfectionnées, ce manuel est régulièrement mis à jour. Si vous souhaitez proposer des améliorations ou partager votre expérience de l’utilisation de ce manuel ou de la plateforme, [écrivez-nous](mailto:i14y@bfs.admin.ch). Ce manuel est aussi hébergé sur la [plateforme de gestion de versions Github](https://github.com/metadata-swiss/handbook/). Vous pouvez y formuler une requête avec vos propositions de modifications..
 

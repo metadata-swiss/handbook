@@ -247,9 +247,9 @@ For example: the data set of a veterinary clinic contains information on dogs --
 
 ```
 
-Data sets are described in I14Y using the [Data Catalogue Vocabulary (DCAT)](/handbook/en/glossar). DCAT is a standardised model for describing data catalogues, maintained by the Internet Standards Board [W3C](https://www.w3.org/). The application profile for Switzerland is largely used on the platform ([DCAT-AP CH 2](https://www.dcat-ap.ch/)). DCAT specifies which information must be saved. In addition, the vocabulary suggests further possibilities for describing the data set.
+Data sets are described in I14Y using the [Data Catalogue Vocabulary (DCAT)](/en/glossar). DCAT is a standardised model for describing data catalogues, maintained by the Internet Standards Board [W3C](https://www.w3.org/). The application profile for Switzerland is largely used on the platform ([DCAT-AP CH 2](https://www.dcat-ap.ch/)). DCAT specifies which information must be saved. In addition, the vocabulary suggests further possibilities for describing the data set.
 
-To store information about a data set on I14Y, the minimum requirements set by the DCAT standard must be met. I14Y offers some additional fields that go beyond the current DCAT standard. Which fields are filled with which information when entering data sets is listed in the chapter [publication](/handbook/en/publikation/katalog/datensammlung).
+To store information about a data set on I14Y, the minimum requirements set by the DCAT standard must be met. I14Y offers some additional fields that go beyond the current DCAT standard. Which fields are filled with which information when entering data sets is listed in the chapter [publication](/en/publikation/katalog/datensammlung).
 
 ### Structure
 
@@ -265,7 +265,7 @@ The data element is the smallest descriptive unit of a data collection. Often th
 
 The concept uniquely and completely describes the information contained in the data element. A concept can be a number, a string, a date or a code list with predefined values.
 
-The standard [ISO 11179-1:2023](https://www.iso.org/standard/78914.html) is used to describe the concepts in I14Y. The type of concept is documented. Dependent upon this, further details such as the length or the possible minimum and maximum values are necessary. Step-by-step instructions for documenting a concept can be found in the chapter [publication](/handbook/en/publikation/konzepte).
+The standard [ISO 11179-1:2023](https://www.iso.org/standard/78914.html) is used to describe the concepts in I14Y. The type of concept is documented. Dependent upon this, further details such as the length or the possible minimum and maximum values are necessary. Step-by-step instructions for documenting a concept can be found in the chapter [publication](/en/publikation/konzepte).
 
 ## Electronic interface (API)
 
@@ -276,7 +276,7 @@ On I14Y, in addition to the title and description, a so-called endpoint from whe
 APIs are also thoroughly described on I14Y using the data catalogue vocabulary DCAT. It is imperative that some fields that are optional in the standard must be filled in. Thus, the DCAT standard recommends that only a description is documented when an API is catalogued. On I14Y this information is mandatory. All fields specified in the standard must also be filled in on the platform.
 
 A step-by-step guide on how to create electronic interfaces is given in the chapter 
-[publication](/handbook/de/publikation/katalog/api). 
+[publication](/de/publikation/katalog/api). 
 
 ## E-government service
 
@@ -285,4 +285,4 @@ E-government services can also be described on the I14Y interoperability platfor
 The _Core Public Service Vocabulary_ defined by the European Union is used to describe public services. The structure and the entire vocabulary are available on the European Commission's Interoperability Platform 
 [Join up](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/core-public-service-vocabulary/releases). The reusable and expandable vocabulary specifies certain fields that must be filled in. Each government service can be assigned to a channel -- an internet address, for example, or a telephone number.
 
-On I14Y, the chapter [publication](/handbook/de/publikation/katalog/publicservice/) describes in detail how a government service is documented.
+On I14Y, the chapter [publication](/de/publikation/katalog/publicservice/) describes in detail how a government service is documented.

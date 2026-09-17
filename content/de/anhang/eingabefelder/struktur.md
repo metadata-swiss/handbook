@@ -9,7 +9,7 @@ keywords: [Interoperabilitätsplattform I14Y, I14Y, Eingabefelder, Struktur, SHA
 
 Eine Struktur beschreibt, wie ein Datenangebot aufgebaut ist: Welche Klassen (Tabellen/ Entitätstypen), Attribute (Felder/ Spalten) und Assoziationen (Beziehungen zwischen Klassen) enthält es? Auf I14Y werden Strukturen mit der [Shapes Constraint Language (SHACL)](https://www.w3.org/TR/shacl/) definiert und als Turtle (TTL)-, RDF- oder JSON-LD-Datei hinterlegt.
 
-Eine Einführung in das praktische Vorgehen findet sich unter [Struktur beschreiben](/handbook/de/publikation/datensatz/struktur/). Nachfolgend werden alle Felder für die drei Hauptobjekte – **Klasse**, **Attribut** und **Assoziation** – dokumentiert.
+Eine Einführung in das praktische Vorgehen findet sich unter [Struktur beschreiben](/de/publikation/datensatz/struktur/). Nachfolgend werden alle Felder für die drei Hauptobjekte – **Klasse**, **Attribut** und **Assoziation** – dokumentiert.
 
 ## Klasse
 Eine Klasse beschreibt eine Gruppe von Objekten, die ähnliche Merkmale haben -- zum Beispiel Einträge desselben Typs.

@@ -21,13 +21,13 @@ The I14Y interoperability platform is under continuous development. New features
 
 **Usability improvements:** The display of links to external resources has been improved: an icon now makes them recognisable at first glance.
 
-**Updates to links to the handbook and GitHub:** As part of the metadata.swiss project, the `i14y-ch` GitHub organisation was renamed `metadata-swiss` (see the [news article](/handbook/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss)). This release therefore updates links from the I14Y website to GitHub and to the I14Y handbook hosted there.
+**Updates to links to the handbook and GitHub:** As part of the metadata.swiss project, the `i14y-ch` GitHub organisation was renamed `metadata-swiss` (see the [news article](/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss)). This release therefore updates links from the I14Y website to GitHub and to the I14Y handbook hosted there.
 
 **Bug fixes:** If an organisation has no name in the language selected by the user, its name in another language is displayed instead. This fallback ensures that a name is always shown. A bug affecting distribution URLs in the RDF export has also been fixed.
 
 ## Adaptation of the GitHub repository
 
-As part of the metadata.swiss project, I14Y’s GitHub space will soon be renamed metadata-swiss. Existing addresses will continue to redirect; we recommend gradually updating your references and local Git repositories. Further information is available in the [News article about the new GitHub space](/handbook/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss).
+As part of the metadata.swiss project, I14Y’s GitHub space will soon be renamed metadata-swiss. Existing addresses will continue to redirect; we recommend gradually updating your references and local Git repositories. Further information is available in the [News article about the new GitHub space](/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss).
 
 ## Release August 12 2026
 
@@ -57,7 +57,7 @@ As part of the metadata.swiss project, I14Y’s GitHub space will soon be rename
 
 **RDF export enhancement:** The RDF export, which is used in particular for harvesting a data catalogue, now includes the `coverage` attribute in the area of distributions.
 
-**API adjustment:** In the electronic interface (API), the field `identifier` was previously used for concepts and public services. It contained a string. This field has now been fully replaced in this release by `identifiers`, which contains a list of strings. Existing integrations for reading or writing concepts or public services must be adapted without exception. Please read the corresponding [News article](/handbook/de/news/#breaking-change-auf-der-i14y-api).
+**API adjustment:** In the electronic interface (API), the field `identifier` was previously used for concepts and public services. It contained a string. This field has now been fully replaced in this release by `identifiers`, which contains a list of strings. Existing integrations for reading or writing concepts or public services must be adapted without exception. Please read the corresponding [News article](/de/news/#breaking-change-auf-der-i14y-api).
 
 **Bug fixes:** Incorrect results in the My Data area in the platform's internal section have been corrected. A layout issue on the codelist entries page has been fixed, and several typos in the user interface have been corrected.
 
@@ -232,7 +232,7 @@ Additional features:
 - The [I14Y-API](https://apiconsole.i14y.admin.ch/) offers new endpoints in the area of dataset descriptions. The metadata for datasets can be read (GET). New descriptions can be entered (POST). Existing ones can be edited and published (PUT) or deleted if necessary (DELETE).
 - When registering a public service, it is now possible to select the area for which the service is offered. In addition to the whole of Switzerland, all cantons, districts and municipalities are available in the selection field. This information is also supplied when exporting via the API. The basis for this is the code list [cantons, districts and municipalities](https://www.i14y.admin.ch/de/catalog/concepts/08dc23f0-d04d-2d2f-a9f5-9cea80695acf/description).
 - When creating an internal work area for an office or other organisation, the interoperability service can now store the organisation number from the business register, information on the [legal form](https://www.i14y.admin. ch/en/catalog/concepts/08dad8ff-f18a-560b-bfa6-20767f2afb17/description) and information on the federal level of the organisation. The information on the area in which an organisation operates is provided when a public  service description is obtained via the API.
-- The home page and the overview page in the internal area have been slightly revised in terms of content: the introductory texts have been adapted. And a link to the I14Y API console has been added in the footer area. The video on data harmonisation, which was previously placed on the home page, has been removed; it can still be found in the [news section](https://i14y-ch.github.io/handbook/it/news/) and on [Youtube](https://youtu.be/y0AV4SkCR9w?si=GPUASVEJRWV72AT3).
+- The home page and the overview page in the internal area have been slightly revised in terms of content: the introductory texts have been adapted. And a link to the I14Y API console has been added in the footer area. The video on data harmonisation, which was previously placed on the home page, has been removed; it can still be found in the [news section](https://i14y-ch.github.io/it/news/) and on [Youtube](https://youtu.be/y0AV4SkCR9w?si=GPUASVEJRWV72AT3).
 - An error in the publisher field has been corrected: Until now, the publisher's organisation name often had to be reselected as soon as an entry had been edited. This is no longer necessary. 
 - An error in the data owner field has been corrected: Previously, it was not possible to delete a name when editing an entry. This is now possible again.
 - Numerous bug fixes
