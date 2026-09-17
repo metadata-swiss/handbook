@@ -5,7 +5,7 @@ translationKey: support
 weight: 20
 type: docs
 keywords: [I14Y, Plateforme d'intéroperabilité, Support, Aide, Problemes, Faultes]
-draft: true
+draft: false
 ---
 
 Parfois, tout ne se passe pas comme prévu. Si des problèmes surviennent lorsque vous travaillez avec l'I14Y, procédez comme suit :
