@@ -9,16 +9,14 @@ draft: true
 notification: false
 ---
 
-La prochaine version d'I14Y est prévue pour le début de soirée du 2 septembre 2026. Elle comprend les adaptations et extensions décrites ci-dessous. Les organisations partenaires d'I14Y disposant de l'accès approprié peuvent tester immédiatement la version mise à jour sur l'[environnement de recette d'I14Y](https://input.i14y-a.admin.ch). Veuillez contacter l'Unité d'interopérabilité si vous n'avez pas encore accès à cet environnement utilisé pour les tests logiciels.
+La prochaine version d'I14Y est prévue pour le début de soirée du 14 octobre 2026. Elle comprend les adaptations et extensions décrites ci-dessous. Les organisations partenaires d'I14Y disposant de l'accès approprié peuvent tester immédiatement la version mise à jour sur l'[environnement de recette d'I14Y](https://input.i14y-a.admin.ch). Veuillez contacter l'Unité d'interopérabilité si vous n'avez pas encore accès à cet environnement utilisé pour les tests logiciels.
 
 Veuillez noter que la date de mise en production peut être repoussée à court terme en cas de problème. Il est possible que certaines fonctionnalités soient retirées de cette version et activées ultérieurement. Pour toute question ou tout problème lié à cette version, veuillez contacter le Centre de compétences Gestion des données ([i14y@bfs.admin.ch](mailto:i14y@bfs.admin.ch)).
 
-**Interaction avec LINDAS :** Lors de leur publication sur I14Y, les concepts et les jeux de données sont publiés dans le Linked Data Service (LINDAS) de la Confédération, généralement dans le graphe I14Y. Certaines métadonnées et listes de codes peuvent être copiées dans les graphes LINDAS centraux en tant que dimensions partagées. Les liens correspondants sont désormais affichés sur le site web public d'I14Y.
+**Traçabilité des modifications :** Jusqu'à présent, il n'était pas possible de savoir qui avait effectué quelles modifications sur les métadonnées, ni quand. Désormais, la création, la modification et la suppression d'entrées par les utilisateurs sont consignées automatiquement. Le journal enregistre les informations sur la personne concernée, le moment, la ressource touchée et le type de modification. Pour l'instant, les journaux ne peuvent être consultés que par l'équipe qui exploite la plateforme. L'affichage des journaux détaillés dans l'interface de gestion est prévu pour le futur système metadata.swiss.
 
-**Structures :** Les jeux de données possèdent une structure qui regroupe leurs différents attributs. Pour chaque attribut, il est possible d'indiquer s'il base sur une définition partagée, appelée concept. Un nouveau bouton simplifie la saisie des attributs : lorsqu'un concept approprié existe, les informations qu'il contient peuvent être importées dans l'attribut en un seul clic.
+**Performance de l'API partenaire :** La performance de l'API partenaire a été mesurée. Afin de réduire les temps de réponse en cas de très nombreuses requêtes parallèles, les requêtes portant sur une ressource individuelle sont désormais mises en cache pour une courte durée. L'API peut ainsi fournir des données de manière fiable et rapide, même en cas de nombre exceptionnellement élevé de requêtes simultanées.
 
-**Améliorations de la convivialité :** L'affichage des liens vers des ressources externes a été amélioré : grâce à une icône, ils sont reconnaissables au premier coup d'œil.
+**Filtre par autres organisations concernées :** Jusqu'à présent, il n'était possible de filtrer sur I14Y que par l'organisation qui publie un jeu de données. Il est désormais également possible de filtrer par les organisations ayant un autre rôle en lien avec le jeu de données.
 
-**Adaptation des liens vers le manuel et GitHub :** Dans le cadre du projet metadata.swiss, l'organisation GitHub `i14y-ch` a été renommée `metadata-swiss` (voir l'[article d'actualité](/fr/news/)). Avec cette version, les liens du site web d'I14Y vers GitHub et vers le manuel I14Y qui y est hébergé sont donc adaptés.
-
-**Corrections de bugs :** Lorsqu'une organisation ne dispose pas de nom dans la langue choisie par l'utilisateur ou l'utilisatrice, son nom dans une autre langue est affiché à la place. Ce mécanisme de secours garantit qu'un nom est toujours affiché. Un bug concernant les URL des distributions dans l'export RDF a également été corrigé.
+**Corrections de bugs et optimisations**

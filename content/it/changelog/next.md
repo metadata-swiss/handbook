@@ -13,16 +13,14 @@ notification: true
 __IT:__ Questa pagina è disponibile solo in inglese.
 {{</alert>}}
 
-The next release of I14Y is planned for the early evening of 2 September 2026. It includes the changes and enhancements described below. I14Y partner organisations with the appropriate access can test the updated software immediately on the [I14Y acceptance environment](https://input.i14y-a.admin.ch). Please contact the Interoperability Unit if you do not yet have access to this environment, which is used for software testing.
+The next release of I14Y is planned for the early evening of 14 October 2026. It includes the changes and enhancements described below. I14Y partner organisations with the appropriate access can test the updated software immediately on the [I14Y acceptance environment](https://input.i14y-a.admin.ch). Please contact the Interoperability Unit if you do not yet have access to this environment, which is used for software testing.
 
 Please note that the release date may be postponed at short notice if problems arise. Individual features may be removed from the release and only activated at a later point in time. If you have any questions or issues related to this release, please contact the Competence Center Data Management ([i14y@bfs.admin.ch](mailto:i14y@bfs.admin.ch)).
 
-**Interaction with LINDAS:** When concepts and datasets are published on I14Y, they are made available in the Federal Administration's Linked Data Service (LINDAS), usually in the I14Y graph. Selected metadata and codelists can be copied to central LINDAS graphs as shared dimensions. The corresponding links will now be displayed on the publicly accessible I14Y website.
+**Traceability of changes:** Until now, it was not possible to trace who made which changes to the metadata and when. From now on, whenever users create, modify or delete entries, this is logged automatically. The log records information on the person, the time, the resource concerned and the type of change. For the time being, the logs can only be viewed by the team that runs the platform. Displaying the detailed logs in the management interface is planned for the future metadata.swiss system.
 
-**Structures:** Datasets have a structure that groups their individual attributes. For each attribute, it is possible to specify whether it is based on a particular shared definition, known as a concept. A new button now simplifies the creation of attributes: if a suitable concept exists, the information stored in it can be imported into the attribute with a single click.
+**Partner API performance:** The performance of the Partner API has been measured. To shorten response times when there are very many parallel requests, queries for individual resources are now cached for a short time period. As a result, the API can deliver data reliably and quickly even under exceptionally high numbers of simultaneous requests.
 
-**Usability improvements:** The display of links to external resources has been improved: an icon now makes them recognisable at first glance.
+**Filtering by other involved organisations:** Until now, I14Y only allowed filtering by the organisation that publishes a dataset. It is now also possible to filter by organisations that have a different role in relation to the dataset.
 
-**Updates to links to the handbook and GitHub:** As part of the metadata.swiss project, the `i14y-ch` GitHub organisation was renamed `metadata-swiss` (see the [news article](/de/news/#der-github-bereich-von-i14y-wird-zu-metadata-swiss)). This release therefore updates links from the I14Y website to GitHub and to the I14Y handbook hosted there.
-
-**Bug fixes:** If an organisation has no name in the language selected by the user, its name in another language is displayed instead. This fallback ensures that a name is always shown. A bug affecting distribution URLs in the RDF export has also been fixed.
+**Bug fixes and optimisations**
