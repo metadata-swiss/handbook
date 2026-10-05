@@ -11,8 +11,10 @@ type: docs
 ## Upcoming Events
 
 {{< event-card 
-  title="Meet-up of Local Data Stewards"
-  date="October 29, 2026"
+  title="13th OGD Forum and 2nd Meeting of Local Data Stewards"
+  location="Federal Office of Personnel (FOP), Bern"
+  date="November 13, 2026, 8:30 AM to 3:30 PM"
+  link="https://confluence.swissdatacommunity.ch/spaces/SHAREDOGD/overview"
 >}}
 Exchange and networking of Local Data Stewards of the public administration.
 {{< /event-card >}}
