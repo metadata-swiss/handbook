@@ -11,46 +11,6 @@ type: docs
 ## Événements à venir
 
 {{< event-card 
-  title="Comité de pilotage I14Y"
-  location="Neuchâtel"
-  date="23 juin 2026"
->}}
-Réunion du comité de pilotage I14Y à Neuchâtel. Le comité de pilotage comprend les plus grandes organisations qui utilisent activement la plateforme d'interopérabilité. Contactez le [Service d'interopérabilité](mailto:i14y@bfs.admin.ch) pour plus d'informations.
-{{< /event-card >}}
-
-{{< event-card 
-  title="Rencontre informelle des Local Data Stewards"
-  location="OFSP, Campus Liebefeld, Köniz"
-  date="7 juillet 2026, de 13 h à 15 h"
->}}
-Vous souhaitez présenter l'un de vos projets? Vous souhaitez discuter d'une question qui vous occupe dans votre travail pratique d'inventaire et d'harmonisation des données? Vous souhaitez nouer des contacts avec des personnes ayant des tâches similaires? La rencontre informelle des Local Data Stewards offre cette opportunité. Contactez le [Service d'interopérabilité](mailto:i14y@bfs.admin.ch) si vous souhaitez y participer.
-{{< /event-card >}}
-
-{{< event-card 
-  title="Formation continue Gestion des données et Open Data (en Allemand)"
-  location="Haute école spécialisée bernoise (BFH)"
-  date="20 au 22 août 2026"
-  link="https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/"
->}}
-{{< /event-card >}}
-
-{{< event-card 
-  title="Journées suisses de la statistique"
-  location="Rorschach (Saint-Gall)"
-  date="25 au 27 août 2026"
-  link="https://stat.ch/fr/swiss_statistics_meeting"
->}}
-{{< /event-card >}}
-
-{{< event-card 
-  title="Comité de pilotage I14Y"
-  location="Berne"
-  date="15 septembre 2026"
->}}
-Réunion du comité de pilotage I14Y à Berne. Le comité de pilotage comprend les plus grandes organisations qui utilisent activement la plateforme d'interopérabilité. Contactez le [Service d'interopérabilité](mailto:i14y@bfs.admin.ch) pour plus d'informations.
-{{< /event-card >}}
-
-{{< event-card 
   title="Meet-up des Local Data Stewards"
   date="29 octobre 2026"
 >}}
@@ -78,6 +38,13 @@ Réunion du comité de pilotage I14Y à Neuchâtel. Le comité de pilotage compr
 
 ### Q2
 - **02. – 03.06.2026** – [Formation continue Gestion des données et Open Data](https://execed.unil.ch/formation-continue/gestion-des-donnees-publiques) (Lausanne)
+- **23.06.2026** – Comité de pilotage I14Y (Neuchâtel)
+
+### Q3
+- **07.07.2026** – Rencontre informelle des Local Data Stewards (OFSP, Campus Liebefeld, Köniz)
+- **20. – 22.08.2026** – [Formation continue Gestion des données et Open Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/) (Haute école spécialisée bernoise)
+- **25. – 27.08.2026** – [Journées suisses de la statistique](https://stat.ch/fr/swiss_statistics_meeting) (Rorschach, Saint-Gall)
+- **15.09.2026** – Comité de pilotage I14Y (Berne)
 
 </details>
 

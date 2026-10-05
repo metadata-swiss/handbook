@@ -11,46 +11,6 @@ type: docs
 ## Upcoming Events
 
 {{< event-card 
-  title="Steering Committee I14Y"
-  location="Neuchâtel"
-  date="June 23, 2026"
->}}
-Meeting of the I14Y Steering Committee in Neuchâtel. The steering committee includes the largest organizations actively using the interoperability platform. Contact the [Interoperability Unit](mailto:i14y@bfs.admin.ch) for more information.
-{{< /event-card >}}
-
-{{< event-card 
-  title="Informal Meeting of Local Data Stewards"
-  location="FOPH, Campus Liebefeld, Köniz"
-  date="July 7, 2026, 1 PM to 3 PM"
->}}
-Would you like to present one of your projects? Would you like to discuss a question that concerns you in your practical work on data inventory and harmonization? Would you like to connect with people who have similar tasks? The informal meeting of Local Data Stewards offers this opportunity. Contact the [Interoperability Unit](mailto:i14y@bfs.admin.ch) if you would like to attend.
-{{< /event-card >}}
-
-{{< event-card 
-  title="Continuing Education Data Management and Open Data"
-  location="Bern University of Applied Sciences (BFH)"
-  date="August 20–22, 2026"
-  link="https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/"
->}}
-{{< /event-card >}}
-
-{{< event-card 
-  title="Swiss Statistics Days"
-  location="Rorschach (St. Gallen)"
-  date="August 25–27, 2026"
-  link="https://stat.ch/en/swiss_statistics_meeting"
->}}
-{{< /event-card >}}
-
-{{< event-card 
-  title="Steering Committee I14Y"
-  location="Bern"
-  date="September 15, 2026"
->}}
-Meeting of the I14Y Steering Committee in Bern. The steering committee includes the largest organizations actively using the interoperability platform. Contact the [Interoperability Unit](mailto:i14y@bfs.admin.ch) for more information.
-{{< /event-card >}}
-
-{{< event-card 
   title="Meet-up of Local Data Stewards"
   date="October 29, 2026"
 >}}
@@ -78,6 +38,13 @@ Meeting of the I14Y Steering Committee in Neuchâtel. The steering committee inc
 
 ### Q2
 - **02. – 03.06.2026** – [Continuing Education Data Management and Open Data](https://execed.unil.ch/formation-continue/gestion-des-donnees-publiques) (Lausanne)
+- **23.06.2026** – Steering Committee I14Y (Neuchâtel)
+
+### Q3
+- **07.07.2026** – Informal Meeting of Local Data Stewards (FOPH, Campus Liebefeld, Köniz)
+- **20. – 22.08.2026** – [Continuing Education Data Management and Open Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/) (Bern University of Applied Sciences)
+- **25. – 27.08.2026** – [Swiss Statistics Days](https://stat.ch/en/swiss_statistics_meeting) (Rorschach, St. Gallen)
+- **15.09.2026** – Steering Committee I14Y (Bern)
 
 </details>
 

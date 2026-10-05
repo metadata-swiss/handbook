@@ -11,51 +11,20 @@ type: docs
 ## Kommende Veranstaltungen
 
 {{< event-card 
-  title="Steuerungsausschuss I14Y"
-  location="Neuchâtel"
-  date="23. Juni 2026"
->}}
-Treffen des Steuerungsausschusses I14Y in Neuchâtel. Im Steuerungsausschuss sind die grössten Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
-{{< /event-card >}}
-
-{{< event-card 
-  title="Informelles Treffen der Local Data Stewards"
-  location="BAG, Campus Liebefeld, Köniz"
-  date="7. Juli 2026, 13 bis 15 Uhr"
->}}
-Möchten Sie eines Ihrer Projekte demonstrieren? Würden Sie gerne eine Frage diskutieren, die Sie bei der praktischen Arbeit zur Inventarisierung und Harmonisierung von Daten beschäftigt? Möchten Sie Kontakte zu Leuten mit ähnlichen Aufgaben knüpfen? Das informelle Treffen der Local Data Stewards bietet die Gelegenheit dazu. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch), falls Sie gerne am Treffen teilnehmen möchten. 
-{{< /event-card >}}
-
-{{< event-card 
-  title="Weiterbildung Datenmanagement und Open Data"
-  location="Berner Fachhochschule"
-  date="20. bis 22. August 2026"
-  link="https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/"
->}}
-{{< /event-card >}}
-
-{{< event-card 
-  title="Schweizer Statistiktage"
-  location="Rorschach (St. Gallen)"
-  date="25. bis 27. August 2026"
-  link="https://stat.ch/de/swiss_statistics_meeting"
->}}
-{{< /event-card >}}
-
-{{< event-card 
-  title="Steuerungsausschuss I14Y"
-  location="Bern"
-  date="15. September 2026"
->}}
-Treffen des Steuerungsausschusses I14Y in Bern. Im Steuerungsausschuss sind die grössten Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
-{{< /event-card >}}
-
-{{< event-card 
-  title="Meet-up der Local Data Stewards"
-  location=""
-  date="29. Oktober 2026"
+  title="13. Forum OGD und 2. Treffen der Local Data Stewards"
+  location="Eidgenössisches Personalamt (EPA), Bern"
+  date="13. November 2026, 8.30 bis 15.30 Uhr"
+  link="https://confluence.swissdatacommunity.ch/spaces/SHAREDOGD/overview"
 >}}
 Austausch und Vernetzung der Local Data Stewards der öffentlichen Verwaltung.
+{{< /event-card >}}
+
+{{< event-card 
+  title="Steuerungsausschuss I14Y"
+  location="Neuchâtel"
+  date="24. November 2026"
+>}}
+Treffen des Steuerungsausschusses I14Y in Neuchâtel. Im Steuerungsausschuss sind die grössten Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
 {{< /event-card >}}
 
 {{< event-card 
@@ -79,6 +48,13 @@ Treffen des Steuerungsausschusses I14Y in Neuchâtel. Im Steuerungsausschuss sin
 
 ### Q2
 - **02. – 03.06.2026** – [Weiterbildung Datenmanagement und Open Data](https://execed.unil.ch/formation-continue/gestion-des-donnees-publiques) (Lausanne)
+- **23.06.2026** – Steuerungsausschuss I14Y (Neuchâtel)
+
+### Q3
+- **07.07.2026** – Informelles Treffen der Local Data Stewards (BAG, Campus Liebefeld, Köniz)
+- **20. – 22.08.2026** – [Weiterbildung Datenmanagement und Open Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/) (Berner Fachhochschule)
+- **25. – 27.08.2026** – [Schweizer Statistiktage](https://stat.ch/de/swiss_statistics_meeting) (Rorschach, St. Gallen)
+- **15.09.2026** – Steuerungsausschuss I14Y (Bern)
 
 </details>
 

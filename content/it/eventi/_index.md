@@ -11,46 +11,6 @@ type: docs
 ## Eventi futuri
 
 {{< event-card 
-  title="Comitato direttivo I14Y"
-  location="Neuchâtel"
-  date="23 giugno 2026"
->}}
-Riunione del comitato direttivo I14Y a Neuchâtel. Il comitato direttivo comprende le organizzazioni più grandi che utilizzano attivamente la piattaforma di interoperabilità. Contattare l'[Unità Interoperabilità](mailto:i14y@bfs.admin.ch) per ulteriori informazioni.
-{{< /event-card >}}
-
-{{< event-card 
-  title="Incontro informale dei Local Data Stewards"
-  location="UFSP, Campus Liebefeld, Köniz"
-  date="7 luglio 2026, dalle 13 alle 15"
->}}
-Desiderate presentare uno dei vostri progetti? Volete discutere una questione che vi sta a cuore nel vostro lavoro pratico di inventariazione e armonizzazione dei dati? Volete entrare in contatto con persone che hanno compiti simili? L'incontro informale dei Local Data Stewards offre questa opportunità. Contattare l'[Unità Interoperabilità](mailto:i14y@bfs.admin.ch) se desiderate partecipare.
-{{< /event-card >}}
-
-{{< event-card 
-  title="Formazione continua Gestione dei dati e Open Data"
-  location="Università di Scienze Applicate di Berna (BFH)"
-  date="20–22 agosto 2026"
-  link="https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/"
->}}
-{{< /event-card >}}
-
-{{< event-card 
-  title="Giornate svizzere della statistica"
-  location="Rorschach (San Gallo)"
-  date="25–27 agosto 2026"
-  link="https://stat.ch/it/swiss_statistics_meeting"
->}}
-{{< /event-card >}}
-
-{{< event-card 
-  title="Comitato direttivo I14Y"
-  location="Berna"
-  date="15 settembre 2026"
->}}
-Riunione del comitato direttivo I14Y a Berna. Il comitato direttivo comprende le organizzazioni più grandi che utilizzano attivamente la piattaforma di interoperabilità. Contattare l'[Unità Interoperabilità](mailto:i14y@bfs.admin.ch) per ulteriori informazioni.
-{{< /event-card >}}
-
-{{< event-card 
   title="Meet-up dei Local Data Stewards"
   date="29 ottobre 2026"
 >}}
@@ -78,6 +38,13 @@ Riunione del comitato direttivo I14Y a Neuchâtel. Il comitato direttivo compren
 
 ### Q2
 - **02. – 03.06.2026** – [Formazione continua Gestione dei dati e Open Data](https://execed.unil.ch/formation-continue/gestion-des-donnees-publiques) (Losanna)
+- **23.06.2026** – Comitato direttivo I14Y (Neuchâtel)
+
+### Q3
+- **07.07.2026** – Incontro informale dei Local Data Stewards (UFSP, Campus Liebefeld, Köniz)
+- **20. – 22.08.2026** – [Formazione continua Gestione dei dati e Open Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/) (Università di Scienze Applicate di Berna)
+- **25. – 27.08.2026** – [Giornate svizzere della statistica](https://stat.ch/it/swiss_statistics_meeting) (Rorschach, San Gallo)
+- **15.09.2026** – Comitato direttivo I14Y (Berna)
 
 </details>
 
