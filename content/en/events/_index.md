@@ -20,6 +20,14 @@ Exchange and networking of Local Data Stewards of the public administration.
 {{< /event-card >}}
 
 {{< event-card 
+  title="Continuing Education Public Data Management"
+  location="Lausanne"
+  date="November 23 – 24, 2026"
+  link="https://execed.unil.ch/formation-continue/gestion-des-donnees-publiques"
+>}}
+{{< /event-card >}}
+
+{{< event-card 
   title="Steering Committee I14Y"
   location="Neuchâtel"
   date="November 24, 2026"
@@ -27,66 +35,74 @@ Exchange and networking of Local Data Stewards of the public administration.
 Meeting of the I14Y Steering Committee in Neuchâtel. The steering committee includes the largest organizations actively using the interoperability platform. Contact the [Interoperability Unit](mailto:i14y@bfs.admin.ch) for more information.
 {{< /event-card >}}
 
+{{< event-card 
+  title="Continuing Education Data Management & Open Government Data"
+  location="Bern University of Applied Sciences (BFH), Bern"
+  date="January 21 – 23, 2027"
+  link="https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/"
+>}}
+{{< /event-card >}}
+
 ## Past Events
 
 <details open>
 <summary><strong>2026</strong></summary>
 
-### Q1
-- **15.01.2026** – Continuing Education [Data Management & Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/) at the Bern University of Applied Sciences (BFH)
-- **20.01.2026** – Informal Meeting of Local Data Stewards at Campus Liebefeld
-- **03.03.2026** – Steering Committee (Bern)
-- **11.03.2026** – [Swiss EGOVERNMENT Forum](https://e-governmentforum.ch) (Bern)
+### Q3
+- **15.09.2026** – Steering Committee I14Y (Bern)
+- **25. – 27.08.2026** – [Swiss Statistics Days](https://stat.ch/en/swiss_statistics_meeting) (Rorschach, St. Gallen)
+- **20. – 22.08.2026** – [Continuing Education Data Management and Open Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/) (Bern University of Applied Sciences)
+- **07.07.2026** – Informal Meeting of Local Data Stewards (FOPH, Campus Liebefeld, Köniz)
 
 ### Q2
-- **02. – 03.06.2026** – [Continuing Education Data Management and Open Data](https://execed.unil.ch/formation-continue/gestion-des-donnees-publiques) (Lausanne)
 - **23.06.2026** – Steering Committee I14Y (Neuchâtel)
+- **02. – 03.06.2026** – [Continuing Education Data Management and Open Data](https://execed.unil.ch/formation-continue/gestion-des-donnees-publiques) (Lausanne)
 
-### Q3
-- **07.07.2026** – Informal Meeting of Local Data Stewards (FOPH, Campus Liebefeld, Köniz)
-- **20. – 22.08.2026** – [Continuing Education Data Management and Open Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/) (Bern University of Applied Sciences)
-- **25. – 27.08.2026** – [Swiss Statistics Days](https://stat.ch/en/swiss_statistics_meeting) (Rorschach, St. Gallen)
-- **15.09.2026** – Steering Committee I14Y (Bern)
+### Q1
+- **11.03.2026** – [Swiss EGOVERNMENT Forum](https://e-governmentforum.ch) (Bern)
+- **03.03.2026** – Steering Committee (Bern)
+- **20.01.2026** – Informal Meeting of Local Data Stewards at Campus Liebefeld
+- **15.01.2026** – Continuing Education [Data Management & Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/) at the Bern University of Applied Sciences (BFH)
 
 </details>
 
 <details>
 <summary><strong>2025</strong></summary>
 
-### Q1
-- **16.01.2025** – Local Data Stewards Meeting
-- **18.02.2025** – Steering Committee
+### Q4
+- **04.12.2025** – [Swiss CommUNITY Day on Data](https://swissdatacommunity.ch/alle-events/swisscommunity-day-on-data-2025/)
+- **25.11.2025** – Steering Committee
+- **18.11.2025** – [Dinacon](https://dinacon.ch)
+- **05. – 07.11.2025** – Swiss Statistics Days
+
+### Q3
+- **21.10.2025** – Training Day for Local Data Stewards
+- **02.09.2025** – [Swiss Data Space Forum](https://forum.swissdataalliance.ch) at the HSLU Rotkreuz campus
+- **21.08.2025** – I14Y presentation during the continuing education Data Management and Open Government Data at the Bern University of Applied Sciences (BFH)
+- **09.07.2025** – Local Data Stewards Meeting
 
 ### Q2
 - **27.05.2025** – Steering Committee
 
-### Q3
-- **09.07.2025** – Local Data Stewards Meeting
-- **21.08.2025** – I14Y presentation during the continuing education Data Management and Open Government Data at the Bern University of Applied Sciences (BFH)
-- **02.09.2025** – [Swiss Data Space Forum](https://forum.swissdataalliance.ch) at the HSLU Rotkreuz campus
-- **21.10.2025** – Training Day for Local Data Stewards
-
-### Q4
-- **05. – 07.11.2025** – Swiss Statistics Days
-- **18.11.2025** – [Dinacon](https://dinacon.ch)
-- **25.11.2025** – Steering Committee
-- **04.12.2025** – [Swiss CommUNITY Day on Data](https://swissdatacommunity.ch/alle-events/swisscommunity-day-on-data-2025/)
+### Q1
+- **18.02.2025** – Steering Committee
+- **16.01.2025** – Local Data Stewards Meeting
 
 </details>
 
 <details>
 <summary><strong>2024</strong></summary>
 
-### Q1
-- **18.01.2024** – I14Y presentation during the continuing education Data Management and Open Data at the Bern University of Applied Sciences (BFH)
+### Q4
+- **09.12.2024** – Steering Committee
+- **04.12.2024** – Introduction to I14Y for Local Data Stewards
 
 ### Q3
-- **22.08.2024** – Continuing Education Module Data Management and Open Data
-- **04.09.2024** – Workshop at the Swiss Statistics Days
 - **24.09.2024** – Local Data Stewards Meeting
+- **04.09.2024** – Workshop at the Swiss Statistics Days
+- **22.08.2024** – Continuing Education Module Data Management and Open Data
 
-### Q4
-- **04.12.2024** – Introduction to I14Y for Local Data Stewards
-- **09.12.2024** – Steering Committee
+### Q1
+- **18.01.2024** – I14Y presentation during the continuing education Data Management and Open Data at the Bern University of Applied Sciences (BFH)
 
 </details>
