@@ -75,3 +75,9 @@
 {{ if $searchCSS }}
   <link rel="stylesheet" href="{{ ($searchCSS | minify).RelPermalink }}">
 {{ end }}
+
+<!-- Mobile menu -->
+{{ $mobileMenuJS := resources.Get "js/mobile-menu.js" }}
+{{ if $mobileMenuJS }}
+  <script defer src="{{ ($mobileMenuJS | minify).RelPermalink }}"></script>
+{{ end }}

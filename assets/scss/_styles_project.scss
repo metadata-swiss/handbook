@@ -63,16 +63,17 @@ body {
 
   .layout-navigation {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    align-items: stretch;
+    background-color: $ob-gray-100;
 
     nav {
       flex: 1;
-
-      > ul {
-        display: none !important;
-      }
     }
+  }
+
+  .mobile-menu-toggle {
+    margin: 0 $ob-spacing-xs 0 auto;
+    align-self: center;
   }
 }
 

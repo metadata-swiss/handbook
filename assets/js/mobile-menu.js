@@ -1,46 +1,34 @@
-(function() {
-  function initMobileMenu() {
-    const menuToggle = document.getElementById('mobile-menu-toggle');
-    const sidebar = document.querySelector('.td-sidebar');
+(function () {
+  function init() {
+    var toggle = document.getElementById('mobile-menu-toggle');
+    var sidebar = document.querySelector('.td-sidebar');
+    var header = document.querySelector('.layout-header');
+    if (!toggle || !sidebar) return;
 
-    if (!menuToggle || !sidebar) {
-      console.warn('Mobile menu elements not found');
-      return;
+    function setOpen(open) {
+      toggle.classList.toggle('active', open);
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      sidebar.classList.toggle('mobile-menu-open', open);
+      if (open && header) {
+        var top = Math.round(header.getBoundingClientRect().bottom);
+        sidebar.style.top = top + 'px';
+        sidebar.style.height = 'calc(100vh - ' + top + 'px)';
+      }
     }
 
-    // Toggle menu on button click
-    menuToggle.addEventListener('click', function(e) {
-      e.preventDefault();
+    toggle.addEventListener('click', function (e) {
       e.stopPropagation();
-      menuToggle.classList.toggle('active');
-      sidebar.classList.toggle('mobile-menu-open');
+      setOpen(!sidebar.classList.contains('mobile-menu-open'));
     });
 
-    // Close menu when clicking on a link inside sidebar
-    const sidebarLinks = sidebar.querySelectorAll('a');
-    sidebarLinks.forEach(link => {
-      link.addEventListener('click', function() {
-        menuToggle.classList.remove('active');
-        sidebar.classList.remove('mobile-menu-open');
-      });
-    });
-
-    // Close menu when clicking outside
-    document.addEventListener('click', function(event) {
-      if (menuToggle.classList.contains('active')) {
-        const isClickInside = sidebar.contains(event.target) || menuToggle.contains(event.target);
-        if (!isClickInside) {
-          menuToggle.classList.remove('active');
-          sidebar.classList.remove('mobile-menu-open');
-        }
-      }
+    sidebar.addEventListener('click', function (e) {
+      if (e.target.closest('a')) setOpen(false);
     });
   }
 
-  // Initialize when DOM is ready
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initMobileMenu);
+    document.addEventListener('DOMContentLoaded', init);
   } else {
-    initMobileMenu();
+    init();
   }
 })();
