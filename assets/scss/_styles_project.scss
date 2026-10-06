@@ -899,6 +899,14 @@ a {
     &.mobile-menu-open {
       display: block !important;
     }
+
+    .td-sidebar__toggle {
+      display: none !important;
+    }
+
+    nav.td-sidebar-nav.collapse {
+      display: block !important;
+    }
   }
 }
 
