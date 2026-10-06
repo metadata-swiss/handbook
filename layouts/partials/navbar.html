@@ -26,15 +26,15 @@
     </div>
   </div>
   <div class="header-controls">
-    <button id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle menu" aria-expanded="false">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
     {{ partial "navbar-lang-selector.html" . -}}
   </div>
 </div>
 <div class="layout-navigation">
+  <button id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
   <nav>
     <ul>
       <li><a class="active" href="{{ .Site.Home.RelPermalink }}">{{ T "home_text" }}</a></li>
