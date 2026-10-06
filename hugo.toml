@@ -85,6 +85,7 @@ description = "Manual and Information about the interoperability platform"
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = true
+breadcrumb_disable = true
 
 # Konfiguration für den Diagramm-Generator Mermaid.
 [params.mermaid]
