@@ -13,6 +13,62 @@ Vous souhaitez être informés des nouvelles fonctions et des offres de la plate
 
 {{</alert>}}
 
+## Ensemble pour améliorer les métadonnées: forum OGD et rencontre des administrateurs locaux des données
+*28.09.2026*
+
+Le 13 novembre 2026, responsables de données publiques ouvertes et administrateurs locaux des données (Local Data Stewards, LDS) se retrouveront à Berne pour le 13e Forum OGD et la rencontre des LDS. Cet événement promet des échanges riches au-delà des frontières départementales et échelons fédéraux, des perspectives concrètes sur le traitement des données et des informations approfondies sur l’inventaire et l’harmonisation des données.
+
+La journée débutera par le 13e Forum OGD avec pour question centrale: quel peut être l’impact des données ouvertes et harmonisées? La rencontre des administrateurs locaux des données se tiendra l’après-midi. Elle réunira le personnel administratif chargé de gérer les inventaires de données et les métadonnées, d’harmoniser les jeux de données ou de coordonner la publication des métadonnées. L’occasion de se faire une idée plus précise de la pratique, d’échanger des expériences sur les défis à relever et les solutions potentielles, et d’en savoir plus sur la plateforme metadata.swiss.
+
+La manifestation se déroulera dans les locaux de formation de l’Office fédéral du personnel (OFPER) à Berne. Le programme détaillé suivra. Les personnes intéressées peuvent d’ores et déjà consulter le programme.
+
+## Nouveaux jeux de données sur les transports publics sur la plateforme I14Y
+*28.09.2026*
+
+L’Office fédéral des transports (OFT) publie progressivement son inventaire de données sur la plateforme I14Y ainsi que, le mois dernier,  la description de 20 jeux de données issus de plusieurs domaines d’activité. D’autres jeux de données seront publiés au cours des prochains mois. Tout a commencé par l’analyse et la révision de l’inventaire des données.
+
+L’OFT a opté pour une approche pragmatique de l’inventaire, exploitant les outils techniques existants. Comme certains attributs internes ne doivent pas figurer sur la plateforme I14Y, la gestion se fait via un tableau sur Microsoft Teams. Ce tableau est mis à jour régulièrement à l’aide de Power Automate. Il en résulte un fichier d’exportation qui peut être importé sur la plateforme I14Y.
+
+L’OFT garde ainsi une certaine marge de manœuvre. Parallèlement, il veille à ce que ses données soient consultables dans le catalogue central, conformément aux exigences de la loi fédérale sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités (LMETA). Outre la saisie des jeux de données, il s’agit de mettre en place des processus de gouvernance clairs garantissant que les métadonnées seront tenues à jour à l’avenir.
+
+## Bâle-Ville automatise la publication de ses métadonnées sur la plateforme I14Y
+*28.09.2026*
+
+Le centre de compétence en matière de données (DCC) de l’office de statistique de Bâle-Ville franchit une nouvelle étape en automatisant la publication de métadonnées sur la plateforme I14Y: une étape rendue possible par un connecteur qui utilise les API partenaires de la plateforme I14Y. Cette solution est directement compatible avec le logiciel de dataspot. et peut également être utilisée avec d’autres catalogues de métadonnées. Elle a déjà permis au canton de Bâle-Ville de publier plus de 300 jeux de données, y compris leurs structures de métadonnées complètes, sur la plateforme I14Y.
+
+D’autres cantons et organisations peuvent utiliser le connecteur, disponible sous forme de solution open source. La publication des métadonnées gagne ainsi en simplicité, en fiabilité et en efficacité. Quiconque utilise dataspot. ou un autre catalogue de métadonnées peut désormais publier ses données en quelques clics sur la plateforme de métadonnées I14Y.
+
+Dans leur présentation lors des Journées de la statistique de cette année, Jonas Bieri et Daniela Cattelan ont présenté en détail la configuration et l’application pratique du connecteur: vers l’enregistrement.
+
+## Moins d’hallucinations, plus de faits: le serveur I14Y-MCP au hackathon GovTech
+*28.09.2026*
+
+En début d’année, l’équipe de la plateforme I14Y et d’opendata.swiss élabore de nouvelles idées dans un contexte où le dépôt des propositions pour le hackathon GovTech 2026 est imminent. Après concertation, l’équipe décide d’explorer les possibilités offertes par l’intelligence artificielle en matière d’inventaire et d’harmonisation des données. Il ressort toutefois des premiers tests que les modèles d’IA ont souvent tendance à fabuler lorsqu’ils ne disposent pas d’informations fiables. Faut-il pour autant renoncer à relever ce défi? Ne pourrait-on pas résoudre ce problème sur le plan technique?
+
+L’équipe opte pour la résolution du problème technique et intègre un serveur MCP avant même le début du hackathon. Le Model Context Protocol (MCP) est une norme ouverte qui permet aux applications d’IA d’accéder de manière structurée à des sources de données. Le serveur I14Y-MCP met les métadonnées publiques à la disposition des applications d’IA. Au lieu de collecter des informations provenant de sources peu fiables, les applications peuvent accéder directement à des métadonnées et à des listes de codes fiables et à jour.
+
+Cette approche a fait ses preuves lors du hackathon GovTech qui s’est tenu fin mai. En seulement un jour et demi, un prototype de chatbot a été mis au point pour guider les utilisateurs tout au long du processus d’inventorisation et les aider à harmoniser leurs données. Le serveur I14Y-MCP et la plateforme suisse d’IA Apertus ont été utilisés pour ce faire.
+
+Ce prototype de chatbot illustre le potentiel de la combinaison entre l’IA et les métadonnées structurées. Le serveur MCP sera par conséquent toujours disponible après le hackathon pour d’autres applications. Pour plus d’informations, consultez la documentation sur le serveur I14Y-MCP (disponible en allemand) et les informations et le compte-rendu du GovTech-Hackathon 2026.
+
+## Vers une architecture cible unifiée pour metadata.swiss
+*28.09.2026*
+
+La future plateforme unifiée metadata.swiss résultera de la fusion des plateformes I14Y et opendata.swiss next. Afin de préparer cette convergence, permettre l’évolution de la plateforme à long terme, développer de nouvelles fonctionnalités et réduire les risques, une étude a été menée pour définir une architecture cible commune.
+
+Plusieurs scénarios ont été évalués, allant d’une évolution minimale des systèmes existants jusqu’à une convergence complète, en passant par des solutions hybrides combinant le meilleur des deux plateformes existantes. Chaque option a été analysée selon des critères objectifs : couverture des besoins métier, maîtrise des risques, réutilisation des composantes développées pour I14Y et opendata.swiss next, coûts et délais de mise en œuvre.
+
+Une variante a été élaborée et sera présentée aux parties prenantes. Si elle est retenue, sa mise en œuvre est prévue par étapes dès 2027, avec une phase de consolidation déjà en cours. Les décisions et développements vous seront communiqués en temps voulu.
+
+## I14Y passe à l’open source
+*28.09.2026*
+
+Le code source de la plateforme I14Y est désormais publié en open source dans un dépôt GitHub public. Cette ouverture s’inscrit dans le cadre légal fixé par la loi fédérale sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités (art. 9), qui impose la publication du code source des logiciels développés par l’administration.
+
+Le projet est également répertorié dans le catalogue OSS de l’administration fédérale et dispose d’un fichier publiccode.yml conforme aux standards du secteur public. Ce catalogue présente un aperçu des logiciels développés par les autorités fédérales et publiés sous la forme de logiciels à code source ouvert depuis le 1er janvier 2024.
+
+Cette transparence permet à toute personne intéressée de consulter le code, de le réutiliser ou de contribuer à son développement. Autre nouveauté: il est désormais possible d’installer et de faire tourner I14Y «on premise», dans son propre environnement, via Docker — une option idéale pour tester, adapter ou utiliser la plateforme selon vos besoins spécifiques, en toute autonomie.
+
 ## L’espace GitHub d’I14Y devient metadata-swiss
 *26.08.2026*
 

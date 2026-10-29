@@ -13,6 +13,60 @@ Möchten Sie über neue Funktionen und Angebote auf der Interoperabilitätsplatt
 
 {{</alert>}}
 
+## Das Projekt I14Y steuert auf seinen Abschluss zu
+*28.09.2026*
+
+Das Projekt I14Y steuert auf seinen Abschluss Ende Dezember zu – die Plattform selbst geht dann in den regulären Betrieb über. In den letzten Monaten hat sich das Team intensiv mit zwei zentralen Weiterentwicklungen beschäftigt: der vollständigen Öffnung des Quellcodes sowie der Integration eines MCP-Servers. Der Code der Plattform ist nun als Open-Source-Software verfügbar und kann dank Docker auch lokal betrieben werden – ein wichtiger Schritt hin zu mehr Transparenz und Wiederverwendbarkeit. Gleichzeitig zeigt der neue I14Y-MCP-Server, wie sich verständliche Metadaten für KI-gestützte Anwendungen nutzen lassen: Am GovTech-Hackathon entstand damit ein erster Prototyp, der das Potenzial dieser Verbindung eindrücklich demonstriert. Beide Entwicklungen zeigen, wie I14Y über die Projektphase hinaus in neue Kontexte hineinwächst.
+
+Vielen Dank für Ihr Interesse und gute Lektüre!
+
+### I14Y wird Open Source
+*28.09.2026*
+
+Der Quellcode der I14Y-Plattform steht ab sofort unter einem öffentlichen [GitHub-Repository](https://github.com/metadata-swiss/I14Y) als Open Source zur Verfügung. Die Veröffentlichung des Quellcodes erfüllt die Anforderung des Bundesgesetzes über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben ([EMBAG, Art. 9](https://www.fedlex.admin.ch/eli/cc/2023/682/de#art_9)). Dieses schreibt vor, dass der Quellcode von Software, die bei den Bundesbehörden entwickelt wird, grundsätzlich offenzulegen ist.
+
+Das Projekt ist zudem im [OSS-Katalog der Bundesverwaltung](https://www.opensource.admin.ch/de/) aufgeführt und enthält eine publiccode.yml-Datei, die den Standards des öffentlichen Sektors entspricht. Der OSS-Katalog bietet einen Überblick über die seit dem 1. Januar 2024 von den Bundesbehörden entwickelte und als Open Source veröffentlichte Software.
+
+Diese transparenzfördernden Massnahmen sorgen dafür, dass der Quellcode von allen eingesehen, wiederverwendet oder weiterentwickelt werden kann. Neu besteht die Möglichkeit, die I14Y-Plattform ✦on premise✦ in der eigenen Umgebung über Docker zu installieren und auszuführen. So lässt sich die Plattform unabhängig testen sowie nach individuellen Bedürfnissen anpassen und nutzen.
+
+### I14Y-MCP-Server am GovTech-Hackathon
+*28.09.2026*
+
+Anfang Jahr: Das Team von I14Y und opendata.swiss brüteten über Ideen. Denn bald läuft die Frist ab, während der eine Challenge für den GovTech-Hackathon 2026 eingereicht werden kann. Schliesslich einigt sich das Team: Mit der Challenge sollen die Möglichkeiten der Künstlichen Intelligenz bei der Inventarisierung und Harmonisierung von Daten ausgelotet werden. Erste Tests zeigen jedoch: KI-Modelle beginnen oft zu „fabullieren", wenn ihnen verständliche Informationen fehlen. Muss die Challenge deshalb verworfen werden? Oder lässt sich das Problem technisch lösen?
+
+Das Team entscheidet sich für Letzteres — und integriert noch vor dem Hackathon einen MCP-Server. Das Model Context Protocol (MCP) ist ein offener Standard, über den KI-Anwendungen strukturiert auf Datenquellen zugreifen können. Der I14Y-MCP-Server stellt KI-Anwendungen die öffentlichen Metadaten bereit. Statt Informationen aus unsicheren Quellen zusammenzutragen, können die Anwendungen direkt auf verständliche und aktuelle Metadaten sowie Codelisten zugreifen.
+
+Am GovTech-Hackathon Ende Mai bewährte sich der Ansatz. In nur eineinhalb Tagen entstand ein Prototyp eines Chatbots, der Nutzerinnen und Nutzer durch den Prozess der Inventarisierung führt und bei der Datenharmonisierung unterstützt. Dabei kommen der I14Y-MCP-Server und die Schweizer KI-Plattform Apertus zum Einsatz.
+
+Der Prototyp zeigt das Potenzial der Verbindung von KI und strukturierten Metadaten. Der MCP-Server bleibt deshalb auch nach dem Hackathon bestehen und steht für weitere Anwendungen zur Verfügung. Weitere Informationen finden sich unter [Dokumentation des I14Y-MCP-Servers](https://handbook.i14y.admin.ch/de/metadaten_abrufen/mcp/) und Infos und Rückblick zum GovTech-Hackathon 2026 [hier](https://govtech.digisus-lab.ch/project/40)
+
+### Basel-Stadt publiziert Metadaten automatisiert auf I14Y
+*28.09.2026*
+
+Das DCC Data Competence Center am Statistischen Amt Basel-Stadt geht den nächsten Schritt bei der automatisierten Veröffentlichung von Metadaten auf I14Y: Möglich macht dies ein Connector, der die I14Y-Partner-APIs nutzt. Die Lösung ist direkt mit der Software von dataspotß kompatibel und kann ebenfalls mit anderen Metadatenkatalogem eingesetzt werden. Dank dieser Integration hat der Kanton Basel-Stadt bereits mehr als 300 Datensätze inklusive ihrer vollständigen Metadatenstrukturen auf I14Y publiziert.
+
+Der Connector steht als Open-Source-Lösung zur Verfügung und kann von anderen Kantonen und Organisationen wiederverwendet werden. Damit lässt sich die Publikation von Metadaten einfacher, zuverlässiger und effizienter gestalten. Wer dataspotß oder einen anderen Metadatenkatalog nutzt, kann seine Daten künftig mit wenigen Klicks auf der Metadatenplattform I14Y veröffentlichen.
+
+Jonas Bieri und Daniela Cattalan gaben an in ihrem Vortrag an den diesjährigen Statistiktagen einen vertieften Einblick in die Konfiguration und den praktischen Einsatz des Connectors: [Zur Aufzeichnung](https://www.youtube.com/watch?v=j3OqKeHMIog)
+
+### Das Bundesamt für Verkehr (BAV) macht schrittweise sein Dateninventar auf I14Y sichtbar
+*28.09.2026*
+
+Im letzten Monat hat das BAV 20 Datensätze aus verschiedenen Tätigkeitsbereichen öffentlich zugänglich auf I14Y beschrieben; weitere Einträge sollen in den kommenden Monaten folgen. Ausgangspunkt war die Aufarbeitung und Überarbeitung ihres bestehenden Dateninventars.
+
+Für die Bewirtschaftung hat das BAV einen pragmatischen Ansatz gewählt: Es nutzt die vorhandenen technischen Mittel. Da intern zusätzliche Attribute benötigt werden, die nicht in I14Y abgebildet werden sollen, wird das Inventar in einer Tabelle in Microsoft Teams geführt. Diese wird regelmässig mit ✦Power Automate✦ verarbeitet. Dabei entsteht ein Export, der in I14Y eingelesen werden kann.
+
+Dank dieser Lösung behält das BAV die gewünschte Flexibilität. Gleichzeitig stellt das Amt sicher, dass seine Daten im zentralen Katalog auffindbar sind – wie es das Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben ([EMBAG](https://www.fedlex.admin.ch/eli/cc/2023/682/de)) verlangt. Entscheidend ist dabei nicht nur die Erfassung der Datensätze: Klare Governance-Prozesse sollen gewährleisten, dass die Metadaten künftig aktuell bleiben.
+
+### Gemeinsam für bessere Metadaten: Forum OGD und Treffen der Local Data Stewards
+*28.09.2026*
+
+Ein lebhafter Austausch über Departementsgrenzen und föderale Ebenen hinweg, erhellende Einblicke in die praktische Datenarbeit sowie Hintergründiges zur Inventarisierung und Harmonisierung von Daten: Am 13. November 2026 kommen Verantwortliche für Open Government Data (OGD) und Local Data Stewards in Bern zum Forum OGD und zum Treffen der Local Data Stewards zusammen.
+
+Der Tag startet mit dem 13. Forum OGD. Im Zentrum steht die Frage, welche Wirkung offene und harmonisierte Daten entfalten können. Nach der Mittagspause geht es am Nachmittag mit dem Treffen der Local Data Stewards weiter. Dieses richtet sich an Mitarbeitende der Verwaltungen, die Dateninventare und Metadaten pflegen, Datenbestände harmonisieren oder die Publikation von Metadaten koordinieren. Im Mittelpunkt stehen praxisnahe Einblicke, der Erfahrungsaustausch zu Herausforderungen und Lösungsansätze sowie ein Ausblick auf die Plattform metadata.swiss.
+
+Die Veranstaltung findet in den Schulungsräumlichkeiten des Eidgenössischen Personalamts (EPA) in Bern statt. Das detaillierte Programm folgt zu einem späteren Zeitpunkt. Interessierte können sich bereits heute über [das Programm informieren](https://confluence.swissdatacommunity.ch/spaces/SHAREDOG/overview).
+
 ## Der GitHub-Bereich von I14Y wird zu metadata-swiss
 *26.08.2026*
 

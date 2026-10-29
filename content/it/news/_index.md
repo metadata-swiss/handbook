@@ -13,6 +13,62 @@ Desiderate essere informati sulle nuove funzionalità e offerte della piattaform
 
 {{</alert>}}
 
+## Insieme per migliorare i metadati: Forum OGD e raduno dei Local Data Stewards
+*28.09.2026*
+
+Un vivace scambio interdipartimentale e tra i vari livelli federali, approfondimenti illuminanti sul lavoro pratico con i dati, nonché informazioni dettagliate sull’inventario e sull’armonizzazione dei dati: il 13 novembre 2026, i responsabili dei dati pubblici aperti (OGD) e i local data steward si riuniranno a Berna in occasione del Forum OGD e del raduno dei local data steward.
+
+La giornata inizierà con il 13° Forum OGD, incentrato sull’impatto che possono avere i dati aperti e armonizzati. Dopo la pausa pranzo, il programma prevede il raduno dei local data steward. L’invito è rivolto ai collaboratori delle amministrazioni che gestiscono gli inventari dei dati e i metadati, armonizzano le banche dati o coordinano la pubblicazione dei metadati. L’attenzione è focalizzata sulle prospettive pratiche, sullo scambio di esperienze sulle sfide e sulle possibili soluzioni, nonché su una panoramica sulla piattaforma metadata.swiss.
+
+L’evento si terrà presso le aule di formazione dell’Ufficio federale del personale (UFPER) a Berna. Il programma dettagliato verrà comunicato più avanti. Le persone interessate possono già da ora consultare il programma.
+
+## L’Ufficio federale dei trasporti (UFT) sta rendendo progressivamente accessibile il proprio inventario di dati su I14Y
+*28.09.2026*
+
+Il mese scorso ha pubblicato su I14Y 20 set di dati relativi a diversi settori di attività, rendendoli accessibili al pubblico; l’offerta sarà ulteriormente ampliata nei prossimi mesi. Il punto di partenza è stata la preparazione e la rielaborazione dell’inventario dei dati esistente.
+
+Per la gestione, l’UFT ha adottato un approccio pragmatico: si avvale dei mezzi tecnici disponibili. Poiché sono necessari ulteriori attributi interni che non vanno riportati in I14Y, l’inventario viene gestito in una tabella su Microsoft Teams, che viene elaborata regolarmente con Power Automate. In questo modo viene generato un file di esportazione che può essere importato in I14Y.
+
+Grazie a questa soluzione, l’UFT mantiene la flessibilità desiderata. Allo stesso tempo, l’Ufficio garantisce che i propri dati siano reperibili nel catalogo centrale, come previsto dalla legge federale concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità (LMeCA). A tal proposito, non è determinante solo la raccolta dei dati: processi di governance chiari dovrebbero garantire che i metadati rimangano aggiornati in futuro.
+
+## Basilea Città pubblica automaticamente i metadati su I14Y
+*28.09.2026*
+
+Il DCC Data Competence Center dell’Ufficio di statistica di Basilea Città compie un ulteriore passo avanti nella pubblicazione automatizzata dei metadati su I14Y grazie a un connettore che utilizza le API dei partner I14Y. La soluzione è direttamente compatibile con il software di dataspot. e può essere utilizzata anche con altri cataloghi di metadati. Grazie a questa integrazione, il Cantone di Basilea Città ha già pubblicato su I14Y oltre 300 set di dati, comprese le relative strutture complete di metadati.
+
+Il Connector è disponibile come soluzione open source e può essere riutilizzato da altri Cantoni e organizzazioni. In questo modo è possibile rendere la pubblicazione dei metadati più semplice, affidabile ed efficiente. Chi utilizza dataspot. o un altro catalogo di metadati potrà in futuro pubblicare i propri dati sulla piattaforma di metadati I14Y con pochi clic.
+
+Nella loro presentazione alle Giornate della Statistica di quest’anno, Jonas Bieri e Daniela Cattelan hanno fornito una panoramica approfondita sulla configurazione e sull’utilizzo pratico del connettore. Vai alla registrazione.
+
+## Meno allucinazioni, più fatti: server I14Y-MCP al GovTech hackathon
+*28.09.2026*
+
+All’inizio dell’anno il team di I14Y e opendata.swiss stava elaborando nuove idee. Infatti, il termine entro il quale era possibile presentare una «challenge» per il GovTech Hackathon 2026 stava per scadere. Alla fine il team si è messo d’accordo sul tema di questa «challenge»: esplorare le potenzialità dell’intelligenza artificiale nell’allestimento di inventari e nell’armonizzazione dei dati. I primi test dimostrano tuttavia che spesso i modelli di intelligenza artificiale, quando non dispongono di informazioni affidabili, iniziano a «confabulare». Questo significa che dovevamo abbandonare l’idea di proporre questa challenge? Oppure il problema poteva essere risolto dal punto di vista tecnico?
+
+Il team ha optato per la seconda possibilità e già prima dell’hackathon si è collegato a un server MCP. Il Model Context Protocol (MCP) è uno standard aperto che consente alle applicazioni di intelligenza artificiale di accedere in modo strutturato alle fonti di dati. Il server I14Y-MCP mette a disposizione delle applicazioni di intelligenza artificiale i metadati pubblici. Anziché raccogliere informazioni da fonti inaffidabili, le applicazioni possono accedere direttamente a metadati ed elenchi di codici affidabili e aggiornati.
+
+Al GovTech hackathon di fine maggio, l’approccio si è rivelato vincente. In appena un giorno e mezzo è stato realizzato un prototipo di chatbot che guida gli utenti attraverso il processo di allestimento dell’inventario e li assiste nell’armonizzazione dei dati. A tal fine sono stati utilizzati il server I14Y-MCP e la piattaforma svizzera di intelligenza artificiale Apertus.
+
+Il prototipo dimostra il potenziale derivante dalla combinazione di intelligenza artificiale e metadati strutturati. Il server MCP continuerà quindi a funzionare anche dopo l’hackathon e sarà disponibile per ulteriori applicazioni. Ulteriori informazioni sono disponibili nella documentazione del server I14Y-MCP e su Informazioni e resoconto sul GovTech Hackathon 2026.
+
+## Verso un’architettura di riferimento unificata per metadata.swiss
+*28.09.2026*
+
+La futura piattaforma unificata metadata.swiss nascerà dalla fusione delle piattaforme I14Y e opendata.swiss next. Al fine di preparare questa convergenza, consentire l’evoluzione della piattaforma nel lungo termine, sviluppare nuove funzionalità e ridurre i rischi, è stato condotto uno studio per definire un’architettura di riferimento comune.
+
+Sono stati valutati diversi scenari, che vanno da un adeguamento minimo dei sistemi esistenti fino a una convergenza completa, passando per soluzioni ibride che combinano il meglio delle due piattaforme esistenti. Ogni opzione è stata analizzata in base a criteri oggettivi: soddisfazione delle esigenze specifiche, gestione dei rischi, riutilizzo dei componenti sviluppati per la piattaforma I14Y e opendata.swiss next, costi e tempi di implementazione.
+
+È stata elaborata una variante che verrà presentata alle parti interessate. Se verrà approvata, la sua attuazione è prevista per fasi a partire dal 2027, con una fase di consolidamento già in corso. I risultati del progetto saranno comunicati a tempo debito.
+
+## I14Y passa all’open source
+*28.09.2026*
+
+Il codice sorgente della piattaforma I14Y è ora disponibile come open source in un repository GitHub pubblico. Tale iniziativa rientra nel quadro normativo stabilito dalla legge federale concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità (LMeCA, art. 9), che impone la pubblicazione del codice sorgente dei software sviluppati dall’amministrazione federale.
+
+Il progetto è presente anche nel catalogo OSS dell’Amministrazione federale e dispone di un file publiccode.yml conforme agli standard del settore pubblico. Questo catalogo offre una panoramica dei software sviluppati dalle autorità federali e pubblicati come software open source a partire dal 1° gennaio 2024.
+
+Questa trasparenza consente a chiunque sia interessato di consultare il codice, riutilizzarlo o contribuire al suo sviluppo. E non è finita qui: ora è possibile installare ed eseguire I14Y «on premise», nel proprio ambiente, tramite Docker: un’opzione ideale per testare, adattare o utilizzare la piattaforma in base alle proprie esigenze specifiche, in completa autonomia.
+
 ## Breaking change dell’API I14Y
 *26.06.2026*
 
