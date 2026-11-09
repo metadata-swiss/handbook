@@ -32,7 +32,7 @@ Austausch und Vernetzung der Local Data Stewards der öffentlichen Verwaltung.
   location="Neuchâtel"
   date="24. November 2026"
 >}}
-Treffen des Steuerungsausschusses I14Y in Neuchâtel. Im Steuerungsausschuss sind die grössten Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
+Treffen des Steuerungsausschusses I14Y in Neuchâtel. Im Steuerungsausschuss sind die grössten Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen. Der Steuerungsausschuss wird nach diesem Treffen vom Sounding Board abgelöst. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
 {{< /event-card >}}
 
 {{< event-card 
@@ -41,6 +41,46 @@ Treffen des Steuerungsausschusses I14Y in Neuchâtel. Im Steuerungsausschuss sin
   date="21. – 23. Januar 2027"
   link="https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/"
 >}}
+{{< /event-card >}}
+
+{{< event-card 
+  title="Sounding Board"
+  location=""
+  date="Q1"
+>}}
+Treffen der Mitglieder des Soundingboards. Im Soundingboard sind Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen und die sich für die Weiterentwicklungen im Projekt metadata.swiss interessieren. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
+{{< /event-card >}}
+
+{{< event-card 
+  title="AG Portal"
+  location=""
+  date="22.06.2027"
+>}}
+Treffen der Arbeitsgruppe Portal. Die Arbeitsgruppe richtet sich an alle, die Open Government Data über das Portal opendata.swiss publizieren. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:opendata@bfs.admin.ch) für weitere Informationen.
+{{< /event-card >}}
+
+{{< event-card 
+  title="Sounding Board"
+  location=""
+  date="Q2"
+>}}
+Treffen der Mitglieder des Soundingboards. Im Soundingboard sind Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen und die sich für die Weiterentwicklungen im Projekt metadata.swiss interessieren. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
+{{< /event-card >}}
+
+{{< event-card 
+  title="Sounding Board"
+  location=""
+  date="Q3"
+>}}
+Treffen der Mitglieder des Soundingboards. Im Soundingboard sind Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen und die sich für die Weiterentwicklungen im Projekt metadata.swiss interessieren. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
+{{< /event-card >}}
+
+{{< event-card 
+  title="AG Portal und Sounding Board"
+  location=""
+  date="Q4"
+>}}
+Treffen der Arbeitsgruppe Portal sowie Treffen des Sounding Boards. Im Soundingboard sind Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen und die sich für die Weiterentwicklungen im Projekt metadata.swiss interessieren. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
 {{< /event-card >}}
 
 ## Vergangene Veranstaltungen
@@ -106,5 +146,3 @@ Treffen des Steuerungsausschusses I14Y in Neuchâtel. Im Steuerungsausschuss sin
 - **18.01.2024** – Präsentation I14Y an der Weiterbildung Data Management und Open Data an der Berner Fachhochschule (BFH)
 
 </details>
-
-
