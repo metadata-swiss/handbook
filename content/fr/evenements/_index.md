@@ -28,14 +28,6 @@ type: docs
 {{< /event-card >}}
 
 {{< event-card 
-  title="Comité de pilotage I14Y"
-  location="Neuchâtel"
-  date="24 novembre 2026"
->}}
-Réunion du comité de pilotage I14Y à Neuchâtel. Le comité de pilotage comprend les plus grandes organisations qui utilisent activement la plateforme d'interopérabilité. Contactez le [Service d'interopérabilité](mailto:i14y@bfs.admin.ch) pour plus d'informations.
-{{< /event-card >}}
-
-{{< event-card 
   title="Formation continue Gestion des données et données publiques ouvertes"
   location="Haute école spécialisée bernoise (BFH), Berne"
   date="21 – 23 janvier 2027"

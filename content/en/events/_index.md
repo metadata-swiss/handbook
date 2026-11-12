@@ -28,14 +28,6 @@ Exchange and networking of Local Data Stewards of the public administration.
 {{< /event-card >}}
 
 {{< event-card 
-  title="Steering Committee I14Y"
-  location="Neuchâtel"
-  date="November 24, 2026"
->}}
-Meeting of the I14Y Steering Committee in Neuchâtel. The steering committee includes the largest organizations actively using the interoperability platform. Contact the [Interoperability Unit](mailto:i14y@bfs.admin.ch) for more information.
-{{< /event-card >}}
-
-{{< event-card 
   title="Continuing Education Data Management & Open Government Data"
   location="Bern University of Applied Sciences (BFH), Bern"
   date="January 21 – 23, 2027"

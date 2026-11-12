@@ -28,14 +28,6 @@ Scambio e networking dei Local Data Stewards della pubblica amministrazione.
 {{< /event-card >}}
 
 {{< event-card 
-  title="Comitato direttivo I14Y"
-  location="Neuchâtel"
-  date="24 novembre 2026"
->}}
-Riunione del comitato direttivo I14Y a Neuchâtel. Il comitato direttivo comprende le organizzazioni più grandi che utilizzano attivamente la piattaforma di interoperabilità. Contattare l'[Unità Interoperabilità](mailto:i14y@bfs.admin.ch) per ulteriori informazioni.
-{{< /event-card >}}
-
-{{< event-card 
   title="Formazione continua Gestione dei dati e dati pubblici aperti"
   location="Università di Scienze Applicate di Berna (BFH), Berna"
   date="21 – 23 gennaio 2027"
