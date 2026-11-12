@@ -28,14 +28,6 @@ Austausch und Vernetzung der Local Data Stewards der öffentlichen Verwaltung.
 {{< /event-card >}}
 
 {{< event-card 
-  title="Steuerungsausschuss I14Y"
-  location="Neuchâtel"
-  date="24. November 2026"
->}}
-Treffen des Steuerungsausschusses I14Y in Neuchâtel. Im Steuerungsausschuss sind die grössten Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen. Der Steuerungsausschuss wird nach diesem Treffen vom Sounding Board abgelöst. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
-{{< /event-card >}}
-
-{{< event-card 
   title="Weiterbildung Data Management & Open Government Data"
   location="Berner Fachhochschule (BFH), Bern"
   date="21. – 23. Januar 2027"
