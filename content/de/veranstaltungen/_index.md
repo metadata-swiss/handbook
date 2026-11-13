@@ -38,7 +38,7 @@ Austausch und Vernetzung der Local Data Stewards der öffentlichen Verwaltung.
 {{< event-card 
   title="Sounding Board"
   location=""
-  date="Q1"
+  date="23.03.2027"
 >}}
 Treffen der Mitglieder des Soundingboards. Im Soundingboard sind Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen und die sich für die Weiterentwicklungen im Projekt metadata.swiss interessieren. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
 {{< /event-card >}}
@@ -54,7 +54,7 @@ Treffen der Arbeitsgruppe Portal. Die Arbeitsgruppe richtet sich an alle, die Op
 {{< event-card 
   title="Sounding Board"
   location=""
-  date="Q2"
+  date="22.06.2027"
 >}}
 Treffen der Mitglieder des Soundingboards. Im Soundingboard sind Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen und die sich für die Weiterentwicklungen im Projekt metadata.swiss interessieren. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
 {{< /event-card >}}
@@ -62,7 +62,7 @@ Treffen der Mitglieder des Soundingboards. Im Soundingboard sind Organisationen 
 {{< event-card 
   title="Sounding Board"
   location=""
-  date="Q3"
+  date="21.09.2027"
 >}}
 Treffen der Mitglieder des Soundingboards. Im Soundingboard sind Organisationen vertreten, die die Interoperabilitätsplattform aktiv nutzen und die sich für die Weiterentwicklungen im Projekt metadata.swiss interessieren. Kontaktieren Sie das [Kompetenzzentrum Datenbewirtschaftung](mailto:i14y@bfs.admin.ch) für weitere Informationen.
 {{< /event-card >}}
