@@ -11,15 +11,6 @@ type: docs
 ## Kommende Veranstaltungen
 
 {{< event-card 
-  title="13. Forum OGD und 2. Treffen der Local Data Stewards"
-  location="Eidgenössisches Personalamt (EPA), Bern"
-  date="13. November 2026, 8.30 bis 15.30 Uhr"
-  link="https://confluence.swissdatacommunity.ch/spaces/SHAREDOGD/overview"
->}}
-Austausch und Vernetzung der Local Data Stewards der öffentlichen Verwaltung.
-{{< /event-card >}}
-
-{{< event-card 
   title="Weiterbildung Gestion des données publiques"
   location="Lausanne"
   date="23. – 24. November 2026"
@@ -79,6 +70,9 @@ Treffen der Arbeitsgruppe Portal sowie Treffen des Sounding Boards. Im Soundingb
 
 <details open>
 <summary><strong>2026</strong></summary>
+
+### Q4
+- **13.11.2026** – [13. Forum OGD und 2. Treffen der Local Data Stewards](https://confluence.swissdatacommunity.ch/spaces/SHAREDOGD/overview) (EPA, Bern)
 
 ### Q3
 - **15.09.2026** – Steuerungsausschuss I14Y (Bern)
